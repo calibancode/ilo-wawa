@@ -32,6 +32,8 @@ recommended to use a virtual environment.
 
 > **final footprint after the first run is ~1.8 GB.**
 > this includes the venv, spaCy model, and cached semantic-vector data.
+>
+> too much power? swap the model out for `en_core_web_md` in [ui_palette.py](tp/ui_palette.py): `python -m spacy download en_core_web_md`
 
 ## licensing
 
