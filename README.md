@@ -1,4 +1,4 @@
-## **ilo-wawa (sitelen pona education + semantic engine)**
+## **󱤎󱦕󱥵 ilo-wawa (sitelen pona education + semantic engine)**
 
 **ilo-wawa** is a desktop tool for learning about and writing toki pona in UCSUR sitelen pona glyphs, now with optional semantic search powered by spaCy + a tatoeba-derived corpus.
 
