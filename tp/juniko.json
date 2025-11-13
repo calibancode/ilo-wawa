@@ -1,0 +1,4390 @@
+[
+  {
+    "name": "a",
+    "code_hex": "U+F1900"
+  },
+  {
+    "name": "a2",
+    "code_hex": "U+FFB11"
+  },
+  {
+    "name": "a3",
+    "code_hex": "U+FFD60"
+  },
+  {
+    "name": "a4",
+    "code_hex": "U+FFD61"
+  },
+  {
+    "name": "a5",
+    "code_hex": "U+FFD62"
+  },
+  {
+    "name": "akesi",
+    "code_hex": "U+F1901"
+  },
+  {
+    "name": "akesi2",
+    "code_hex": "U+FFD63"
+  },
+  {
+    "name": "ala",
+    "code_hex": "U+F1902"
+  },
+  {
+    "name": "alasa",
+    "code_hex": "U+F1903"
+  },
+  {
+    "name": "ale",
+    "code_hex": "U+F1904"
+  },
+  {
+    "name": "anpa",
+    "code_hex": "U+F1905"
+  },
+  {
+    "name": "ante",
+    "code_hex": "U+F1906"
+  },
+  {
+    "name": "anu",
+    "code_hex": "U+F1907"
+  },
+  {
+    "name": "awen",
+    "code_hex": "U+F1908"
+  },
+  {
+    "name": "e",
+    "code_hex": "U+F1909"
+  },
+  {
+    "name": "en",
+    "code_hex": "U+F190A"
+  },
+  {
+    "name": "esun",
+    "code_hex": "U+F190B"
+  },
+  {
+    "name": "ijo",
+    "code_hex": "U+F190C"
+  },
+  {
+    "name": "ike",
+    "code_hex": "U+F190D"
+  },
+  {
+    "name": "ilo",
+    "code_hex": "U+F190E"
+  },
+  {
+    "name": "insa",
+    "code_hex": "U+F190F"
+  },
+  {
+    "name": "jaki",
+    "code_hex": "U+F1910"
+  },
+  {
+    "name": "jan",
+    "code_hex": "U+F1911"
+  },
+  {
+    "name": "jelo",
+    "code_hex": "U+F1912"
+  },
+  {
+    "name": "jo",
+    "code_hex": "U+F1913"
+  },
+  {
+    "name": "kala",
+    "code_hex": "U+F1914"
+  },
+  {
+    "name": "kala2",
+    "code_hex": "U+FFAA0"
+  },
+  {
+    "name": "kalama",
+    "code_hex": "U+F1915"
+  },
+  {
+    "name": "kama",
+    "code_hex": "U+F1916"
+  },
+  {
+    "name": "kasi",
+    "code_hex": "U+F1917"
+  },
+  {
+    "name": "ken",
+    "code_hex": "U+F1918"
+  },
+  {
+    "name": "kepeken",
+    "code_hex": "U+F1919"
+  },
+  {
+    "name": "kili",
+    "code_hex": "U+F191A"
+  },
+  {
+    "name": "kiwen",
+    "code_hex": "U+F191B"
+  },
+  {
+    "name": "ko",
+    "code_hex": "U+F191C"
+  },
+  {
+    "name": "kon",
+    "code_hex": "U+F191D"
+  },
+  {
+    "name": "kule",
+    "code_hex": "U+F191E"
+  },
+  {
+    "name": "kulupu",
+    "code_hex": "U+F191F"
+  },
+  {
+    "name": "kute",
+    "code_hex": "U+F1920"
+  },
+  {
+    "name": "la",
+    "code_hex": "U+F1921"
+  },
+  {
+    "name": "lape",
+    "code_hex": "U+F1922"
+  },
+  {
+    "name": "laso",
+    "code_hex": "U+F1923"
+  },
+  {
+    "name": "lawa",
+    "code_hex": "U+F1924"
+  },
+  {
+    "name": "len",
+    "code_hex": "U+F1925"
+  },
+  {
+    "name": "lete",
+    "code_hex": "U+F1926"
+  },
+  {
+    "name": "li",
+    "code_hex": "U+F1927"
+  },
+  {
+    "name": "lili",
+    "code_hex": "U+F1928"
+  },
+  {
+    "name": "linja",
+    "code_hex": "U+F1929"
+  },
+  {
+    "name": "lipu",
+    "code_hex": "U+F192A"
+  },
+  {
+    "name": "loje",
+    "code_hex": "U+F192B"
+  },
+  {
+    "name": "lon",
+    "code_hex": "U+F192C"
+  },
+  {
+    "name": "luka",
+    "code_hex": "U+F192D"
+  },
+  {
+    "name": "lukin",
+    "code_hex": "U+F192E"
+  },
+  {
+    "name": "lupa",
+    "code_hex": "U+F192F"
+  },
+  {
+    "name": "ma",
+    "code_hex": "U+F1930"
+  },
+  {
+    "name": "mama",
+    "code_hex": "U+F1931"
+  },
+  {
+    "name": "mani",
+    "code_hex": "U+F1932"
+  },
+  {
+    "name": "mi",
+    "code_hex": "U+F1934"
+  },
+  {
+    "name": "mi2",
+    "code_hex": "U+FFB05"
+  },
+  {
+    "name": "moku",
+    "code_hex": "U+F1936"
+  },
+  {
+    "name": "moli",
+    "code_hex": "U+F1937"
+  },
+  {
+    "name": "moli2",
+    "code_hex": "U+FFD68"
+  },
+  {
+    "name": "monsi",
+    "code_hex": "U+F1938"
+  },
+  {
+    "name": "mu",
+    "code_hex": "U+F1939"
+  },
+  {
+    "name": "mu2",
+    "code_hex": "U+FFAB8"
+  },
+  {
+    "name": "mun",
+    "code_hex": "U+F193A"
+  },
+  {
+    "name": "musi",
+    "code_hex": "U+F193B"
+  },
+  {
+    "name": "musi2",
+    "code_hex": "U+FFD2E"
+  },
+  {
+    "name": "mute",
+    "code_hex": "U+F193C"
+  },
+  {
+    "name": "mute2",
+    "code_hex": "U+FFD69"
+  },
+  {
+    "name": "nanpa",
+    "code_hex": "U+F193D"
+  },
+  {
+    "name": "nasa",
+    "code_hex": "U+F193E"
+  },
+  {
+    "name": "nasin",
+    "code_hex": "U+F193F"
+  },
+  {
+    "name": "nena",
+    "code_hex": "U+F1940"
+  },
+  {
+    "name": "ni",
+    "code_hex": "U+F1941"
+  },
+  {
+    "name": "ni2",
+    "code_hex": "U+FFB02"
+  },
+  {
+    "name": "ni3",
+    "code_hex": "U+FFB01"
+  },
+  {
+    "name": "ni4",
+    "code_hex": "U+FFB00"
+  },
+  {
+    "name": "ni5",
+    "code_hex": "U+FFD72"
+  },
+  {
+    "name": "ni6",
+    "code_hex": "U+FFD71"
+  },
+  {
+    "name": "ni7",
+    "code_hex": "U+FFD70"
+  },
+  {
+    "name": "ni8",
+    "code_hex": "U+FFD73"
+  },
+  {
+    "name": "nimi",
+    "code_hex": "U+F1942"
+  },
+  {
+    "name": "noka",
+    "code_hex": "U+F1943"
+  },
+  {
+    "name": "o",
+    "code_hex": "U+F1944"
+  },
+  {
+    "name": "o2",
+    "code_hex": "U+FFB13"
+  },
+  {
+    "name": "olin",
+    "code_hex": "U+F1945"
+  },
+  {
+    "name": "olin1",
+    "code_hex": "U+FFD75"
+  },
+  {
+    "name": "olin2",
+    "code_hex": "U+FFAA3"
+  },
+  {
+    "name": "ona",
+    "code_hex": "U+F1946"
+  },
+  {
+    "name": "ona2",
+    "code_hex": "U+FFB09"
+  },
+  {
+    "name": "open",
+    "code_hex": "U+F1947"
+  },
+  {
+    "name": "pakala",
+    "code_hex": "U+F1948"
+  },
+  {
+    "name": "pali",
+    "code_hex": "U+F1949"
+  },
+  {
+    "name": "palisa",
+    "code_hex": "U+F194A"
+  },
+  {
+    "name": "pan",
+    "code_hex": "U+F194B"
+  },
+  {
+    "name": "pana",
+    "code_hex": "U+F194C"
+  },
+  {
+    "name": "pi",
+    "code_hex": "U+F194D"
+  },
+  {
+    "name": "pilin",
+    "code_hex": "U+F194E"
+  },
+  {
+    "name": "pimeja",
+    "code_hex": "U+F194F"
+  },
+  {
+    "name": "pini",
+    "code_hex": "U+F1950"
+  },
+  {
+    "name": "pipi",
+    "code_hex": "U+F1951"
+  },
+  {
+    "name": "poka",
+    "code_hex": "U+F1952"
+  },
+  {
+    "name": "poki",
+    "code_hex": "U+F1953"
+  },
+  {
+    "name": "pona",
+    "code_hex": "U+F1954"
+  },
+  {
+    "name": "pu",
+    "code_hex": "U+F1955"
+  },
+  {
+    "name": "sama",
+    "code_hex": "U+F1956"
+  },
+  {
+    "name": "seli",
+    "code_hex": "U+F1957"
+  },
+  {
+    "name": "selo",
+    "code_hex": "U+F1958"
+  },
+  {
+    "name": "seme",
+    "code_hex": "U+F1959"
+  },
+  {
+    "name": "sewi",
+    "code_hex": "U+F195A"
+  },
+  {
+    "name": "sewi2",
+    "code_hex": "U+FFAA4"
+  },
+  {
+    "name": "sijelo",
+    "code_hex": "U+F195B"
+  },
+  {
+    "name": "sike",
+    "code_hex": "U+F195C"
+  },
+  {
+    "name": "sin",
+    "code_hex": "U+F195D"
+  },
+  {
+    "name": "sina",
+    "code_hex": "U+F195E"
+  },
+  {
+    "name": "sina2",
+    "code_hex": "U+FFB07"
+  },
+  {
+    "name": "sinpin",
+    "code_hex": "U+F195F"
+  },
+  {
+    "name": "sitelen",
+    "code_hex": "U+F1960"
+  },
+  {
+    "name": "sona",
+    "code_hex": "U+F1961"
+  },
+  {
+    "name": "soweli",
+    "code_hex": "U+F1962"
+  },
+  {
+    "name": "soweli2",
+    "code_hex": "U+FFE09"
+  },
+  {
+    "name": "suli",
+    "code_hex": "U+F1963"
+  },
+  {
+    "name": "suno",
+    "code_hex": "U+F1964"
+  },
+  {
+    "name": "supa",
+    "code_hex": "U+F1965"
+  },
+  {
+    "name": "suwi",
+    "code_hex": "U+F1966"
+  },
+  {
+    "name": "tan",
+    "code_hex": "U+F1967"
+  },
+  {
+    "name": "taso",
+    "code_hex": "U+F1968"
+  },
+  {
+    "name": "tawa",
+    "code_hex": "U+F1969"
+  },
+  {
+    "name": "telo",
+    "code_hex": "U+F196A"
+  },
+  {
+    "name": "tenpo",
+    "code_hex": "U+F196B"
+  },
+  {
+    "name": "toki",
+    "code_hex": "U+F196C"
+  },
+  {
+    "name": "tomo",
+    "code_hex": "U+F196D"
+  },
+  {
+    "name": "tu",
+    "code_hex": "U+F196E"
+  },
+  {
+    "name": "unpa",
+    "code_hex": "U+F196F"
+  },
+  {
+    "name": "uta",
+    "code_hex": "U+F1970"
+  },
+  {
+    "name": "uta2",
+    "code_hex": "U+FFAA5"
+  },
+  {
+    "name": "utala",
+    "code_hex": "U+F1971"
+  },
+  {
+    "name": "walo",
+    "code_hex": "U+F1972"
+  },
+  {
+    "name": "wan",
+    "code_hex": "U+F1973"
+  },
+  {
+    "name": "waso",
+    "code_hex": "U+F1974"
+  },
+  {
+    "name": "wawa",
+    "code_hex": "U+F1975"
+  },
+  {
+    "name": "weka",
+    "code_hex": "U+F1976"
+  },
+  {
+    "name": "wile",
+    "code_hex": "U+F1977"
+  },
+  {
+    "name": "wile2",
+    "code_hex": "U+FFAA6"
+  },
+  {
+    "name": "kijetesantakalu",
+    "code_hex": "U+F1980"
+  },
+  {
+    "name": "kijetesantakalu2",
+    "code_hex": "U+FFDC8"
+  },
+  {
+    "name": "kin",
+    "code_hex": "U+F1979"
+  },
+  {
+    "name": "kin2",
+    "code_hex": "U+FFB15"
+  },
+  {
+    "name": "kipisi",
+    "code_hex": "U+F197B"
+  },
+  {
+    "name": "kipisi2",
+    "code_hex": "U+FFE0B"
+  },
+  {
+    "name": "ku",
+    "code_hex": "U+F1988"
+  },
+  {
+    "name": "ku2",
+    "code_hex": "U+FFD76"
+  },
+  {
+    "name": "ku3",
+    "code_hex": "U+FFD77"
+  },
+  {
+    "name": "ku4",
+    "code_hex": "U+FFD78"
+  },
+  {
+    "name": "ku5",
+    "code_hex": "U+FFD79"
+  },
+  {
+    "name": "ku6",
+    "code_hex": "U+FFD7A"
+  },
+  {
+    "name": "ku7",
+    "code_hex": "U+FFD7B"
+  },
+  {
+    "name": "leko",
+    "code_hex": "U+F197C"
+  },
+  {
+    "name": "meli",
+    "code_hex": "U+F1933"
+  },
+  {
+    "name": "meli2",
+    "code_hex": "U+FFAA1"
+  },
+  {
+    "name": "meli3",
+    "code_hex": "U+FFD19"
+  },
+  {
+    "name": "mije",
+    "code_hex": "U+F1935"
+  },
+  {
+    "name": "mije2",
+    "code_hex": "U+FFAA2"
+  },
+  {
+    "name": "mije3",
+    "code_hex": "U+FFD18"
+  },
+  {
+    "name": "misikeke",
+    "code_hex": "U+F1987"
+  },
+  {
+    "name": "misikeke2",
+    "code_hex": "U+FFD6A"
+  },
+  {
+    "name": "monsuta",
+    "code_hex": "U+F197D"
+  },
+  {
+    "name": "n",
+    "code_hex": "U+F1986"
+  },
+  {
+    "name": "n2",
+    "code_hex": "U+FFB1A"
+  },
+  {
+    "name": "namako",
+    "code_hex": "U+F1978"
+  },
+  {
+    "name": "namako2",
+    "code_hex": "U+FFAA8"
+  },
+  {
+    "name": "soko",
+    "code_hex": "U+F1981"
+  },
+  {
+    "name": "soko2",
+    "code_hex": "U+FFD66"
+  },
+  {
+    "name": "soko1",
+    "code_hex": "U+FFD65"
+  },
+  {
+    "name": "tonsi",
+    "code_hex": "U+F197E"
+  },
+  {
+    "name": "tonsi2",
+    "code_hex": "U+FFD08"
+  },
+  {
+    "name": "tonsi3",
+    "code_hex": "U+FFD1A"
+  },
+  {
+    "name": "tonsi4",
+    "code_hex": "U+FFD1B"
+  },
+  {
+    "name": "ali",
+    "code_hex": "U+F1904"
+  },
+  {
+    "name": "epiku",
+    "code_hex": "U+F1983"
+  },
+  {
+    "name": "epiku1",
+    "code_hex": "U+FFAAB"
+  },
+  {
+    "name": "jasima",
+    "code_hex": "U+F197F"
+  },
+  {
+    "name": "lanpan",
+    "code_hex": "U+F1985"
+  },
+  {
+    "name": "lanpan2",
+    "code_hex": "U+FFAB0"
+  },
+  {
+    "name": "lanpan3",
+    "code_hex": "U+FFAB1"
+  },
+  {
+    "name": "linluwi",
+    "code_hex": "U+FFAC4"
+  },
+  {
+    "name": "linluwi2",
+    "code_hex": "U+FFBA5"
+  },
+  {
+    "name": "linluwi3",
+    "code_hex": "U+FFD6B"
+  },
+  {
+    "name": "linluwi4",
+    "code_hex": "U+FFD6C"
+  },
+  {
+    "name": "majuna",
+    "code_hex": "U+F19A2"
+  },
+  {
+    "name": "majuna2",
+    "code_hex": "U+FFAB3"
+  },
+  {
+    "name": "meso",
+    "code_hex": "U+F1982"
+  },
+  {
+    "name": "meso2",
+    "code_hex": "U+FFAAA"
+  },
+  {
+    "name": "nimisin",
+    "code_hex": "U+FFD96"
+  },
+  {
+    "name": "oko",
+    "code_hex": "U+F197A"
+  },
+  {
+    "name": "su",
+    "code_hex": "U+FFB2F"
+  },
+  {
+    "name": "su2",
+    "code_hex": "U+FFE0A"
+  },
+  {
+    "name": "apeja",
+    "code_hex": "U+F19A1"
+  },
+  {
+    "name": "isipin",
+    "code_hex": "U+FFAC0"
+  },
+  {
+    "name": "jami",
+    "code_hex": "U+FFB31"
+  },
+  {
+    "name": "jonke",
+    "code_hex": "U+FFB4F"
+  },
+  {
+    "name": "kamalawala",
+    "code_hex": "U+FFADA"
+  },
+  {
+    "name": "kapesi",
+    "code_hex": "U+FFAC1"
+  },
+  {
+    "name": "kapesi2",
+    "code_hex": "U+FFAC2"
+  },
+  {
+    "name": "kiki",
+    "code_hex": "U+FFAC3"
+  },
+  {
+    "name": "kiki2",
+    "code_hex": "U+FFD6D"
+  },
+  {
+    "name": "kiki3",
+    "code_hex": "U+FFD6E"
+  },
+  {
+    "name": "kiki4",
+    "code_hex": "U+FFD6F"
+  },
+  {
+    "name": "kokosila",
+    "code_hex": "U+F1984"
+  },
+  {
+    "name": "kokosila2",
+    "code_hex": "U+FFAAE"
+  },
+  {
+    "name": "konwe",
+    "code_hex": "U+FFB58"
+  },
+  {
+    "name": "kulijo",
+    "code_hex": "U+FFAE1"
+  },
+  {
+    "name": "kulijo2",
+    "code_hex": "U+FFDBF"
+  },
+  {
+    "name": "melome",
+    "code_hex": "U+FFB32"
+  },
+  {
+    "name": "mijomi",
+    "code_hex": "U+FFB36"
+  },
+  {
+    "name": "misa",
+    "code_hex": "U+FFAD2"
+  },
+  {
+    "name": "misa2",
+    "code_hex": "U+FFAD3"
+  },
+  {
+    "name": "misa3",
+    "code_hex": "U+FFAD4"
+  },
+  {
+    "name": "misa4",
+    "code_hex": "U+FFAD5"
+  },
+  {
+    "name": "misa5",
+    "code_hex": "U+FFAD6"
+  },
+  {
+    "name": "misa6",
+    "code_hex": "U+FFAD7"
+  },
+  {
+    "name": "mulapisu",
+    "code_hex": "U+FFAC8"
+  },
+  {
+    "name": "nja",
+    "code_hex": "U+FFB60"
+  },
+  {
+    "name": "ojuta",
+    "code_hex": "U+FFD83"
+  },
+  {
+    "name": "oke",
+    "code_hex": "U+FFAE4"
+  },
+  {
+    "name": "omekapo",
+    "code_hex": "U+FFB3B"
+  },
+  {
+    "name": "owe",
+    "code_hex": "U+FFB65"
+  },
+  {
+    "name": "pake",
+    "code_hex": "U+F19A0"
+  },
+  {
+    "name": "pakola",
+    "code_hex": "U+FFD9A"
+  },
+  {
+    "name": "pakola2",
+    "code_hex": "U+FFD9B"
+  },
+  {
+    "name": "penpo",
+    "code_hex": "U+FFDC9"
+  },
+  {
+    "name": "pika",
+    "code_hex": "U+FFB6A"
+  },
+  {
+    "name": "pika2",
+    "code_hex": "U+FFD9D"
+  },
+  {
+    "name": "po",
+    "code_hex": "U+FFAE7"
+  },
+  {
+    "name": "powe",
+    "code_hex": "U+F19A3"
+  },
+  {
+    "name": "puwa",
+    "code_hex": "U+FFB3C"
+  },
+  {
+    "name": "san",
+    "code_hex": "U+FFAEB"
+  },
+  {
+    "name": "san2",
+    "code_hex": "U+FFE63"
+  },
+  {
+    "name": "san3",
+    "code_hex": "U+FFE6C"
+  },
+  {
+    "name": "soto",
+    "code_hex": "U+FFAEC"
+  },
+  {
+    "name": "sutopatikuna",
+    "code_hex": "U+FFAFB"
+  },
+  {
+    "name": "taki",
+    "code_hex": "U+FFAED"
+  },
+  {
+    "name": "taki2",
+    "code_hex": "U+FFAEE"
+  },
+  {
+    "name": "teje",
+    "code_hex": "U+FFAEF"
+  },
+  {
+    "name": "te",
+    "code_hex": "U+FFAF0"
+  },
+  {
+    "name": "to",
+    "code_hex": "U+FFAF1"
+  },
+  {
+    "name": "unu",
+    "code_hex": "U+FFACA"
+  },
+  {
+    "name": "usawi",
+    "code_hex": "U+FFAF6"
+  },
+  {
+    "name": "wa",
+    "code_hex": "U+FFACB"
+  },
+  {
+    "name": "wa2",
+    "code_hex": "U+FFB1F"
+  },
+  {
+    "name": "wasoweli",
+    "code_hex": "U+FFAF7"
+  },
+  {
+    "name": "wekama",
+    "code_hex": "U+FFB3E"
+  },
+  {
+    "name": "wuwojiti",
+    "code_hex": "U+FFD86"
+  },
+  {
+    "name": "yupekosi",
+    "code_hex": "U+FFAFC"
+  },
+  {
+    "name": "aka",
+    "code_hex": "U+FFB3A"
+  },
+  {
+    "name": "akesiv",
+    "code_hex": "U+FFAFF"
+  },
+  {
+    "name": "akesiv2",
+    "code_hex": "U+FFD64"
+  },
+  {
+    "name": "ako",
+    "code_hex": "U+FFB73"
+  },
+  {
+    "name": "ako2",
+    "code_hex": "U+FFB2B"
+  },
+  {
+    "name": "aku",
+    "code_hex": "U+FFD87"
+  },
+  {
+    "name": "alente",
+    "code_hex": "U+FFD80"
+  },
+  {
+    "name": "alu",
+    "code_hex": "U+FFB40"
+  },
+  {
+    "name": "ana",
+    "code_hex": "U+FFDB1"
+  },
+  {
+    "name": "ani",
+    "code_hex": "U+FFD88"
+  },
+  {
+    "name": "anta",
+    "code_hex": "U+FFD89"
+  },
+  {
+    "name": "antikontitutonelema",
+    "code_hex": "U+FFDCE"
+  },
+  {
+    "name": "antikontitutonelema1",
+    "code_hex": "U+FFDCF"
+  },
+  {
+    "name": "apelo",
+    "code_hex": "U+FFD8A"
+  },
+  {
+    "name": "api",
+    "code_hex": "U+FFDBB"
+  },
+  {
+    "name": "api2",
+    "code_hex": "U+FFDBC"
+  },
+  {
+    "name": "api3",
+    "code_hex": "U+FFDBD"
+  },
+  {
+    "name": "api4",
+    "code_hex": "U+FFDBA"
+  },
+  {
+    "name": "asu",
+    "code_hex": "U+FFE55"
+  },
+  {
+    "name": "awase",
+    "code_hex": "U+FFB41"
+  },
+  {
+    "name": "eki",
+    "code_hex": "U+FFB3A"
+  },
+  {
+    "name": "elen",
+    "code_hex": "U+FFD8B"
+  },
+  {
+    "name": "eliki",
+    "code_hex": "U+FFDAC"
+  },
+  {
+    "name": "ene",
+    "code_hex": "U+FFDB2"
+  },
+  {
+    "name": "enepi",
+    "code_hex": "U+FFDAD"
+  },
+  {
+    "name": "eni",
+    "code_hex": "U+FFDB2"
+  },
+  {
+    "name": "enko",
+    "code_hex": "U+FFB43"
+  },
+  {
+    "name": "enko2",
+    "code_hex": "U+FFB44"
+  },
+  {
+    "name": "enko3",
+    "code_hex": "U+FFB45"
+  },
+  {
+    "name": "epikule",
+    "code_hex": "U+FFB8B"
+  },
+  {
+    "name": "ete",
+    "code_hex": "U+FFACC"
+  },
+  {
+    "name": "ete2",
+    "code_hex": "U+FFACD"
+  },
+  {
+    "name": "ewe",
+    "code_hex": "U+FFAD9"
+  },
+  {
+    "name": "i",
+    "code_hex": "U+FFB46"
+  },
+  {
+    "name": "iki",
+    "code_hex": "U+FFB47"
+  },
+  {
+    "name": "iki2",
+    "code_hex": "U+FFB0B"
+  },
+  {
+    "name": "inta",
+    "code_hex": "U+FFE56"
+  },
+  {
+    "name": "ipi",
+    "code_hex": "U+FFB48"
+  },
+  {
+    "name": "ipi2",
+    "code_hex": "U+FFB0D"
+  },
+  {
+    "name": "iseki",
+    "code_hex": "U+FFD8C"
+  },
+  {
+    "name": "itomi",
+    "code_hex": "U+FFB49"
+  },
+  {
+    "name": "ja",
+    "code_hex": "U+FFD2F"
+  },
+  {
+    "name": "jaku",
+    "code_hex": "U+FFB4D"
+  },
+  {
+    "name": "jalan",
+    "code_hex": "U+FFAD1"
+  },
+  {
+    "name": "jans",
+    "code_hex": "U+FFB8E"
+  },
+  {
+    "name": "je",
+    "code_hex": "U+FFB4E"
+  },
+  {
+    "name": "je2",
+    "code_hex": "U+FFB29"
+  },
+  {
+    "name": "jete",
+    "code_hex": "U+FFE57"
+  },
+  {
+    "name": "jew",
+    "code_hex": "U+FFB8F"
+  },
+  {
+    "name": "jule",
+    "code_hex": "U+FFD81"
+  },
+  {
+    "name": "jume",
+    "code_hex": "U+FFB74"
+  },
+  {
+    "name": "kalamARR",
+    "code_hex": "U+FFAFE"
+  },
+  {
+    "name": "kalapisituwi",
+    "code_hex": "U+FFD8D"
+  },
+  {
+    "name": "kalijopilale",
+    "code_hex": "U+FFBA0"
+  },
+  {
+    "name": "kan",
+    "code_hex": "U+FFACF"
+  },
+  {
+    "name": "kana",
+    "code_hex": "U+FFD8E"
+  },
+  {
+    "name": "kani",
+    "code_hex": "U+FFE58"
+  },
+  {
+    "name": "kankuli",
+    "code_hex": "U+FFDE1"
+  },
+  {
+    "name": "kapa",
+    "code_hex": "U+FFB51"
+  },
+  {
+    "name": "ke",
+    "code_hex": "U+FFADB"
+  },
+  {
+    "name": "ke2",
+    "code_hex": "U+FFB24"
+  },
+  {
+    "name": "kelo",
+    "code_hex": "U+FFDCC"
+  },
+  {
+    "name": "kepa",
+    "code_hex": "U+FFE50"
+  },
+  {
+    "name": "kepen",
+    "code_hex": "U+F1919"
+  },
+  {
+    "name": "kese",
+    "code_hex": "U+FFADF"
+  },
+  {
+    "name": "kewe",
+    "code_hex": "U+FFDCB"
+  },
+  {
+    "name": "ki",
+    "code_hex": "U+FFB55"
+  },
+  {
+    "name": "kijesankalu",
+    "code_hex": "U+FFE59"
+  },
+  {
+    "name": "kijosin",
+    "code_hex": "U+FFBA1"
+  },
+  {
+    "name": "kikolo",
+    "code_hex": "U+FFD8F"
+  },
+  {
+    "name": "kikulo",
+    "code_hex": "U+FFD90"
+  },
+  {
+    "name": "kinute",
+    "code_hex": "U+FFE5A"
+  },
+  {
+    "name": "kisa",
+    "code_hex": "U+FFB57"
+  },
+  {
+    "name": "kitu",
+    "code_hex": "U+FFE5B"
+  },
+  {
+    "name": "kokoliko",
+    "code_hex": "U+FFD91"
+  },
+  {
+    "name": "kolo",
+    "code_hex": "U+FFDBE"
+  },
+  {
+    "name": "koni",
+    "code_hex": "U+FFD92"
+  },
+  {
+    "name": "konsi",
+    "code_hex": "U+FFB75"
+  },
+  {
+    "name": "kosan",
+    "code_hex": "U+FFB59"
+  },
+  {
+    "name": "kosikosa",
+    "code_hex": "U+FFD93"
+  },
+  {
+    "name": "kulaso",
+    "code_hex": "U+FFDCA"
+  },
+  {
+    "name": "kulepiku",
+    "code_hex": "U+FFB8A"
+  },
+  {
+    "name": "kulu",
+    "code_hex": "U+FFB5D"
+  },
+  {
+    "name": "kuntu",
+    "code_hex": "U+FFAD0"
+  },
+  {
+    "name": "kutopoma",
+    "code_hex": "U+FFB77"
+  },
+  {
+    "name": "lan",
+    "code_hex": "U+FFE68"
+  },
+  {
+    "name": "lan2",
+    "code_hex": "U+FFE69"
+  },
+  {
+    "name": "lansan",
+    "code_hex": "U+FFBAB"
+  },
+  {
+    "name": "lato",
+    "code_hex": "U+FFDB4"
+  },
+  {
+    "name": "lijokuku",
+    "code_hex": "U+FFB78"
+  },
+  {
+    "name": "lijokuku2",
+    "code_hex": "U+FFB79"
+  },
+  {
+    "name": "likujo",
+    "code_hex": "U+FFAE2"
+  },
+  {
+    "name": "lisana",
+    "code_hex": "U+FFDC0"
+  },
+  {
+    "name": "lisana2",
+    "code_hex": "U+FFDC1"
+  },
+  {
+    "name": "lo",
+    "code_hex": "U+FFB7A"
+  },
+  {
+    "name": "loka",
+    "code_hex": "U+FFAD1"
+  },
+  {
+    "name": "lokon",
+    "code_hex": "U+FFB5E"
+  },
+  {
+    "name": "lu2",
+    "code_hex": "U+FFB7A"
+  },
+  {
+    "name": "mamasi",
+    "code_hex": "U+FFBA9"
+  },
+  {
+    "name": "mamasina",
+    "code_hex": "U+FFBA9"
+  },
+  {
+    "name": "masalo",
+    "code_hex": "U+FFD94"
+  },
+  {
+    "name": "masenta",
+    "code_hex": "U+FFDCD"
+  },
+  {
+    "name": "masu",
+    "code_hex": "U+FFDB3"
+  },
+  {
+    "name": "matula",
+    "code_hex": "U+FFD95"
+  },
+  {
+    "name": "me",
+    "code_hex": "U+FFB7C"
+  },
+  {
+    "name": "miko",
+    "code_hex": "U+FFE51"
+  },
+  {
+    "name": "miko2",
+    "code_hex": "U+FFE52"
+  },
+  {
+    "name": "molusa",
+    "code_hex": "U+FFB5F"
+  },
+  {
+    "name": "nalanja",
+    "code_hex": "U+FFDB6"
+  },
+  {
+    "name": "nalanja1",
+    "code_hex": "U+FFD82"
+  },
+  {
+    "name": "nan",
+    "code_hex": "U+FFE5C"
+  },
+  {
+    "name": "nasin+mani",
+    "code_hex": "U+FFDAE"
+  },
+  {
+    "name": "natu",
+    "code_hex": "U+FFB3A"
+  },
+  {
+    "name": "neja",
+    "code_hex": "U+FFAE3"
+  },
+  {
+    "name": "nele",
+    "code_hex": "U+FFB7D"
+  },
+  {
+    "name": "nowi",
+    "code_hex": "U+FFD97"
+  },
+  {
+    "name": "nu2",
+    "code_hex": "U+FFB7E"
+  },
+  {
+    "name": "nusun",
+    "code_hex": "U+FFE5D"
+  },
+  {
+    "name": "nuwa",
+    "code_hex": "U+FFB7F"
+  },
+  {
+    "name": "okepuma",
+    "code_hex": "U+FFB61"
+  },
+  {
+    "name": "oki",
+    "code_hex": "U+FFB84"
+  },
+  {
+    "name": "olala",
+    "code_hex": "U+FFD98"
+  },
+  {
+    "name": "omekalike",
+    "code_hex": "U+FFD84"
+  },
+  {
+    "name": "omen",
+    "code_hex": "U+FFB62"
+  },
+  {
+    "name": "oni",
+    "code_hex": "U+FFB63"
+  },
+  {
+    "name": "oni2",
+    "code_hex": "U+FFB64"
+  },
+  {
+    "name": "onono",
+    "code_hex": "U+FFE5E"
+  },
+  {
+    "name": "opasan",
+    "code_hex": "U+FFD99"
+  },
+  {
+    "name": "pa",
+    "code_hex": "U+FFB66"
+  },
+  {
+    "name": "paka",
+    "code_hex": "U+FFE5F"
+  },
+  {
+    "name": "panke",
+    "code_hex": "U+FFD9C"
+  },
+  {
+    "name": "panpan",
+    "code_hex": "U+FFE60"
+  },
+  {
+    "name": "pasila",
+    "code_hex": "U+FFB67"
+  },
+  {
+    "name": "pata",
+    "code_hex": "U+FFAE5"
+  },
+  {
+    "name": "pe",
+    "code_hex": "U+FFE61"
+  },
+  {
+    "name": "peta",
+    "code_hex": "U+FFB69"
+  },
+  {
+    "name": "peto",
+    "code_hex": "U+FFAE6"
+  },
+  {
+    "name": "Pingo",
+    "code_hex": "U+FFAFD"
+  },
+  {
+    "name": "pipo",
+    "code_hex": "U+FFB6B"
+  },
+  {
+    "name": "pipolo",
+    "code_hex": "U+FFD9E"
+  },
+  {
+    "name": "polinpin",
+    "code_hex": "U+FFAE8"
+  },
+  {
+    "name": "pomotolo",
+    "code_hex": "U+FFAE9"
+  },
+  {
+    "name": "poni1",
+    "code_hex": "U+FFB80"
+  },
+  {
+    "name": "poni2",
+    "code_hex": "U+FFD85"
+  },
+  {
+    "name": "poni3",
+    "code_hex": "U+FFDC2"
+  },
+  {
+    "name": "poni4",
+    "code_hex": "U+FFDC3"
+  },
+  {
+    "name": "poni5",
+    "code_hex": "U+FFDC4"
+  },
+  {
+    "name": "poni6",
+    "code_hex": "U+FFDC5"
+  },
+  {
+    "name": "poni7",
+    "code_hex": "U+FFDC6"
+  },
+  {
+    "name": "poni8",
+    "code_hex": "U+FFDC7"
+  },
+  {
+    "name": "pulaso",
+    "code_hex": "U+FFDCC"
+  },
+  {
+    "name": "saja",
+    "code_hex": "U+FFDB0"
+  },
+  {
+    "name": "salantapotalusa",
+    "code_hex": "U+FFE62"
+  },
+  {
+    "name": "samu",
+    "code_hex": "U+FFAC9"
+  },
+  {
+    "name": "santa",
+    "code_hex": "U+FFE64"
+  },
+  {
+    "name": "sapelipope",
+    "code_hex": "U+FFD9F"
+  },
+  {
+    "name": "sikako",
+    "code_hex": "U+FFDA0"
+  },
+  {
+    "name": "sikomo",
+    "code_hex": "U+FFB6C"
+  },
+  {
+    "name": "silapa",
+    "code_hex": "U+FFDA1"
+  },
+  {
+    "name": "silapa1",
+    "code_hex": "U+FFDF0"
+  },
+  {
+    "name": "silapa2",
+    "code_hex": "U+FFDF1"
+  },
+  {
+    "name": "silapa3",
+    "code_hex": "U+FFDF2"
+  },
+  {
+    "name": "sipi",
+    "code_hex": "U+FFB81"
+  },
+  {
+    "name": "sipije",
+    "code_hex": "U+FFDA2"
+  },
+  {
+    "name": "sisi",
+    "code_hex": "U+FFDA3"
+  },
+  {
+    "name": "siwala",
+    "code_hex": "U+FFDA4"
+  },
+  {
+    "name": "slape",
+    "code_hex": "U+FFB8D"
+  },
+  {
+    "name": "snoweli",
+    "code_hex": "U+FFDA5"
+  },
+  {
+    "name": "sokeli",
+    "code_hex": "U+FFE65"
+  },
+  {
+    "name": "soni",
+    "code_hex": "U+FFDA6"
+  },
+  {
+    "name": "sowoli",
+    "code_hex": "U+FFB86"
+  },
+  {
+    "name": "su0",
+    "code_hex": "U+FFB3D"
+  },
+  {
+    "name": "sulaso",
+    "code_hex": "U+FFDCB"
+  },
+  {
+    "name": "sunta",
+    "code_hex": "U+FFE66"
+  },
+  {
+    "name": "ta",
+    "code_hex": "U+FFDA7"
+  },
+  {
+    "name": "ta2",
+    "code_hex": "U+FFE53"
+  },
+  {
+    "name": "tasun",
+    "code_hex": "U+FFDA8"
+  },
+  {
+    "name": "tasun1",
+    "code_hex": "U+FFDF5"
+  },
+  {
+    "name": "tasun2",
+    "code_hex": "U+FFDF6"
+  },
+  {
+    "name": "tasun3",
+    "code_hex": "U+FFDF7"
+  },
+  {
+    "name": "taasun",
+    "code_hex": "U+FFDF8"
+  },
+  {
+    "name": "taaasun",
+    "code_hex": "U+FFDF9"
+  },
+  {
+    "name": "tawake",
+    "code_hex": "U+FFE6D"
+  },
+  {
+    "name": "teken",
+    "code_hex": "U+FFDB9"
+  },
+  {
+    "name": "ten",
+    "code_hex": "U+F196B"
+  },
+  {
+    "name": "ten2",
+    "code_hex": "U+FFBAD"
+  },
+  {
+    "name": "tokana",
+    "code_hex": "U+FFB70"
+  },
+  {
+    "name": "tokana2",
+    "code_hex": "U+FFDA9"
+  },
+  {
+    "name": "tokana3",
+    "code_hex": "U+FFDAA"
+  },
+  {
+    "name": "tona",
+    "code_hex": "U+FFBAE"
+  },
+  {
+    "name": "topo",
+    "code_hex": "U+FFDB5"
+  },
+  {
+    "name": "tuli",
+    "code_hex": "U+FFAEB"
+  },
+  {
+    "name": "tuli2",
+    "code_hex": "U+FFE63"
+  },
+  {
+    "name": "tuli3",
+    "code_hex": "U+FFE6C"
+  },
+  {
+    "name": "tuwa",
+    "code_hex": "U+FFE54"
+  },
+  {
+    "name": "uka",
+    "code_hex": "U+FFE67"
+  },
+  {
+    "name": "umesu",
+    "code_hex": "U+FFAF2"
+  },
+  {
+    "name": "umesu2",
+    "code_hex": "U+FFDB8"
+  },
+  {
+    "name": "waken",
+    "code_hex": "U+FFBAA"
+  },
+  {
+    "name": "waleja",
+    "code_hex": "U+FFAD8"
+  },
+  {
+    "name": "wawajete",
+    "code_hex": "U+FFB71"
+  },
+  {
+    "name": "we (content word)",
+    "code_hex": "U+FFDB7"
+  },
+  {
+    "name": "we1 (particle)",
+    "code_hex": "U+FFB72"
+  },
+  {
+    "name": "wi",
+    "code_hex": "U+FFB82"
+  },
+  {
+    "name": "wi2",
+    "code_hex": "U+FFB0F"
+  },
+  {
+    "name": "wiju",
+    "code_hex": "U+FFDAF"
+  },
+  {
+    "name": "wiki",
+    "code_hex": "U+FFBAC"
+  },
+  {
+    "name": "wiwi",
+    "code_hex": "U+FFDAB"
+  },
+  {
+    "name": "wowujiti",
+    "code_hex": "U+FFD86"
+  },
+  {
+    "name": "yutu",
+    "code_hex": "U+FFB8C"
+  },
+  {
+    "name": "ijo+ni+li+seme",
+    "code_hex": "U+FFBFF"
+  },
+  {
+    "name": "interpunct",
+    "code_hex": "U+F199C"
+  },
+  {
+    "name": "colon",
+    "code_hex": "U+F199D"
+  },
+  {
+    "name": "Aja",
+    "code_hex": "U+FFD30"
+  },
+  {
+    "name": "AkesiKon",
+    "code_hex": "U+FFD31"
+  },
+  {
+    "name": "Alisa",
+    "code_hex": "U+FFEA2"
+  },
+  {
+    "name": "Amelin",
+    "code_hex": "U+FFD32"
+  },
+  {
+    "name": "Ansu",
+    "code_hex": "U+FFD33"
+  },
+  {
+    "name": "Ante",
+    "code_hex": "U+FFEA3"
+  },
+  {
+    "name": "Antepan",
+    "code_hex": "U+FFD34"
+  },
+  {
+    "name": "Asiku",
+    "code_hex": "U+FFD35"
+  },
+  {
+    "name": "a+suli",
+    "code_hex": "U+FFB90"
+  },
+  {
+    "name": "Asuto",
+    "code_hex": "U+FFB91"
+  },
+  {
+    "name": "Atu",
+    "code_hex": "U+FFD36"
+  },
+  {
+    "name": "Eko",
+    "code_hex": "U+FFB92"
+  },
+  {
+    "name": "Eko2",
+    "code_hex": "U+FFEA9"
+  },
+  {
+    "name": "Eko3",
+    "code_hex": "U+FFEAA"
+  },
+  {
+    "name": "Enki",
+    "code_hex": "U+FFDEE"
+  },
+  {
+    "name": "Esile",
+    "code_hex": "U+FFD37"
+  },
+  {
+    "name": "Eweke",
+    "code_hex": "U+FFD38"
+  },
+  {
+    "name": "Eweke2",
+    "code_hex": "U+FFDDA"
+  },
+  {
+    "name": "ijo+Stella",
+    "code_hex": "U+FFEA7"
+  },
+  {
+    "name": "ijo+tan+anpa+nanpa",
+    "code_hex": "U+FFDE0"
+  },
+  {
+    "name": "ijo+vivi",
+    "code_hex": "U+FFEAC"
+  },
+  {
+    "name": "Ilaje",
+    "code_hex": "U+FFEA0"
+  },
+  {
+    "name": "Ipan",
+    "code_hex": "U+FFEA8"
+  },
+  {
+    "name": "Ipawi",
+    "code_hex": "U+FFD39"
+  },
+  {
+    "name": "Iseja",
+    "code_hex": "U+FFD3A"
+  },
+  {
+    "name": "Jalepu",
+    "code_hex": "U+FFD3B"
+  },
+  {
+    "name": "Jan",
+    "code_hex": "U+FFB93"
+  },
+  {
+    "name": "Jasun",
+    "code_hex": "U+FFD3C"
+  },
+  {
+    "name": "Jesi",
+    "code_hex": "U+FFDD0"
+  },
+  {
+    "name": "Jonatan",
+    "code_hex": "U+FFD3D"
+  },
+  {
+    "name": "Jules",
+    "code_hex": "U+FFD3E"
+  },
+  {
+    "name": "Kaken",
+    "code_hex": "U+FFEA4"
+  },
+  {
+    "name": "Kalu",
+    "code_hex": "U+FFDD6"
+  },
+  {
+    "name": "Kapilu",
+    "code_hex": "U+FFB94"
+  },
+  {
+    "name": "KekanSan",
+    "code_hex": "U+FFDEF"
+  },
+  {
+    "name": "kekantesantakalu",
+    "code_hex": "U+FFD5F"
+  },
+  {
+    "name": "Keli",
+    "code_hex": "U+FFDE2"
+  },
+  {
+    "name": "Kemu",
+    "code_hex": "U+FFD3F"
+  },
+  {
+    "name": "Kepi",
+    "code_hex": "U+FFD40"
+  },
+  {
+    "name": "KeTami",
+    "code_hex": "U+FFDE3"
+  },
+  {
+    "name": "Kijan",
+    "code_hex": "U+FFD41"
+  },
+  {
+    "name": "kili+ma",
+    "code_hex": "U+FFB95"
+  },
+  {
+    "name": "Kita",
+    "code_hex": "U+FFDE4"
+  },
+  {
+    "name": "Koko",
+    "code_hex": "U+FFD42"
+  },
+  {
+    "name": "Kolisin",
+    "code_hex": "U+FFEA1"
+  },
+  {
+    "name": "kulupu+en",
+    "code_hex": "U+FFB96"
+  },
+  {
+    "name": "lenlen",
+    "code_hex": "U+FFDD7"
+  },
+  {
+    "name": "Lepeka",
+    "code_hex": "U+FFABF"
+  },
+  {
+    "name": "lipamanka",
+    "code_hex": "U+FFABE"
+  },
+  {
+    "name": "lokoso",
+    "code_hex": "U+FFDD1"
+  },
+  {
+    "name": "Luke",
+    "code_hex": "U+FFD44"
+  },
+  {
+    "name": "Luna",
+    "code_hex": "U+FFD45"
+  },
+  {
+    "name": "Majeka",
+    "code_hex": "U+FFEA5"
+  },
+  {
+    "name": "Maki",
+    "code_hex": "U+FFD46"
+  },
+  {
+    "name": "Mako",
+    "code_hex": "U+FFD47"
+  },
+  {
+    "name": "Mekuwi",
+    "code_hex": "U+FFD48"
+  },
+  {
+    "name": "melinjakulekule",
+    "code_hex": "U+FFABF"
+  },
+  {
+    "name": "Mila",
+    "code_hex": "U+FFD49"
+  },
+  {
+    "name": "Mimuki",
+    "code_hex": "U+FFD4A"
+  },
+  {
+    "name": "motan",
+    "code_hex": "U+FFD4B"
+  },
+  {
+    "name": "Nalasuni",
+    "code_hex": "U+FFD4C"
+  },
+  {
+    "name": "nano",
+    "code_hex": "U+FFD4D"
+  },
+  {
+    "name": "nata",
+    "code_hex": "U+FFABD"
+  },
+  {
+    "name": "Niko",
+    "code_hex": "U+FFD4E"
+  },
+  {
+    "name": "Nili",
+    "code_hex": "U+FFB98"
+  },
+  {
+    "name": "Nito",
+    "code_hex": "U+FFDD2"
+  },
+  {
+    "name": "Nito2",
+    "code_hex": "U+FFDD3"
+  },
+  {
+    "name": "Nlsn",
+    "code_hex": "U+FFD4F"
+  },
+  {
+    "name": "Opa",
+    "code_hex": "U+FFD50"
+  },
+  {
+    "name": "Palensi",
+    "code_hex": "U+FFD51"
+  },
+  {
+    "name": "Pami",
+    "code_hex": "U+FFD52"
+  },
+  {
+    "name": "Pensa",
+    "code_hex": "U+FFDD8"
+  },
+  {
+    "name": "Poman",
+    "code_hex": "U+FFD53"
+  },
+  {
+    "name": "Samin",
+    "code_hex": "U+FFDD4"
+  },
+  {
+    "name": "Satun",
+    "code_hex": "U+FFDD5"
+  },
+  {
+    "name": "Sijala",
+    "code_hex": "U+FFD54"
+  },
+  {
+    "name": "Silani",
+    "code_hex": "U+FFD55"
+  },
+  {
+    "name": "Siwan",
+    "code_hex": "U+FFD56"
+  },
+  {
+    "name": "Stella",
+    "code_hex": "U+FFEA6"
+  },
+  {
+    "name": "Temi",
+    "code_hex": "U+FFD57"
+  },
+  {
+    "name": "tenpi",
+    "code_hex": "U+FFD5E"
+  },
+  {
+    "name": "Tensi",
+    "code_hex": "U+FFD58"
+  },
+  {
+    "name": "to2",
+    "code_hex": "U+FFB85"
+  },
+  {
+    "name": "Tonpite",
+    "code_hex": "U+FFDD9"
+  },
+  {
+    "name": "Tonyu",
+    "code_hex": "U+FFD59"
+  },
+  {
+    "name": "unikijetesantakalu",
+    "code_hex": "U+FFB99"
+  },
+  {
+    "name": "Usawi",
+    "code_hex": "U+FFD5A"
+  },
+  {
+    "name": "vivi",
+    "code_hex": "U+FFEAB"
+  },
+  {
+    "name": "Vriska",
+    "code_hex": "U+FFD5B"
+  },
+  {
+    "name": "Waje",
+    "code_hex": "U+FFD5C"
+  },
+  {
+    "name": "waso+pimeja",
+    "code_hex": "U+FFB9A"
+  },
+  {
+    "name": "Weko",
+    "code_hex": "U+FFB9B"
+  },
+  {
+    "name": "Wen",
+    "code_hex": "U+FFD5D"
+  },
+  {
+    "name": "kama+sona",
+    "code_hex": "U+FFDED"
+  },
+  {
+    "name": "kulupu+pali+pi+sitelen+pona",
+    "code_hex": "U+FFEAE"
+  },
+  {
+    "name": "Linku",
+    "code_hex": "U+FFBF2"
+  },
+  {
+    "name": "lipu+Wesi+pi+toki+pona",
+    "code_hex": "U+FFBF3"
+  },
+  {
+    "name": "ma+pi+nasin+sitelen",
+    "code_hex": "U+FFBF1"
+  },
+  {
+    "name": "ma+pona+pi+toki+pona",
+    "code_hex": "U+FFBF0"
+  },
+  {
+    "name": "ma+toki+pona+VR",
+    "code_hex": "U+FFDE5"
+  },
+  {
+    "name": "pali+Pape",
+    "code_hex": "U+FFDE6"
+  },
+  {
+    "name": "Seka",
+    "code_hex": "U+FFDE7"
+  },
+  {
+    "name": "Seki",
+    "code_hex": "U+FFDDF"
+  },
+  {
+    "name": "Losupan",
+    "code_hex": "U+FFDE8"
+  },
+  {
+    "name": "Towan",
+    "code_hex": "U+FFDE9"
+  },
+  {
+    "name": "Votgil",
+    "code_hex": "U+FF1E0"
+  },
+  {
+    "name": "Amonka",
+    "code_hex": "U+FFBFC"
+  },
+  {
+    "name": "Manka",
+    "code_hex": "U+FFBFD"
+  },
+  {
+    "name": "Nasulin",
+    "code_hex": "U+FFB9C"
+  },
+  {
+    "name": "Nutan",
+    "code_hex": "U+FFBFE"
+  },
+  {
+    "name": "mun+pi+ante+toki",
+    "code_hex": "U+FFDDE"
+  },
+  {
+    "name": "suno+pi+toki+pona",
+    "code_hex": "U+FFDEA"
+  },
+  {
+    "name": "Token",
+    "code_hex": "U+FFDDD"
+  },
+  {
+    "name": "Wakalito",
+    "code_hex": "U+FFDEB"
+  },
+  {
+    "name": "Wikipesija",
+    "code_hex": "U+FFEAD"
+  },
+  {
+    "name": "asuki",
+    "code_hex": "U+FFDEC"
+  },
+  {
+    "name": "juniko",
+    "code_hex": "U+FFB9D"
+  },
+  {
+    "name": "sijesuwa",
+    "code_hex": "U+FFB9E"
+  },
+  {
+    "name": "jusijesuwa",
+    "code_hex": "U+FFB9F"
+  },
+  {
+    "name": "mono",
+    "code_hex": "U+FFB97"
+  },
+  {
+    "name": "sitelen+seli+kiwen",
+    "code_hex": "U+FFBF9"
+  },
+  {
+    "name": "anpa-lawa",
+    "code_hex": "U+FF900"
+  },
+  {
+    "name": "ijo-akesi",
+    "code_hex": "U+FF901"
+  },
+  {
+    "name": "ijo-ala",
+    "code_hex": "U+FF902"
+  },
+  {
+    "name": "ijo-alasa",
+    "code_hex": "U+FF903"
+  },
+  {
+    "name": "ijo-ale",
+    "code_hex": "U+FF904"
+  },
+  {
+    "name": "ijo-ali",
+    "code_hex": "U+FF904"
+  },
+  {
+    "name": "ijo-anpa",
+    "code_hex": "U+FF905"
+  },
+  {
+    "name": "ijo-ante",
+    "code_hex": "U+FF906"
+  },
+  {
+    "name": "ijo-anu",
+    "code_hex": "U+FF907"
+  },
+  {
+    "name": "ijo-apeja",
+    "code_hex": "U+FF908"
+  },
+  {
+    "name": "ijo-awen",
+    "code_hex": "U+FF909"
+  },
+  {
+    "name": "ijo-en",
+    "code_hex": "U+FF90A"
+  },
+  {
+    "name": "ijo-esun",
+    "code_hex": "U+FF90B"
+  },
+  {
+    "name": "ijo-ike",
+    "code_hex": "U+FF90C"
+  },
+  {
+    "name": "ijo-ilo",
+    "code_hex": "U+FF90D"
+  },
+  {
+    "name": "ijo-insa",
+    "code_hex": "U+FF90E"
+  },
+  {
+    "name": "ijo-jaki",
+    "code_hex": "U+FF90F"
+  },
+  {
+    "name": "ijo-jan",
+    "code_hex": "U+FF910"
+  },
+  {
+    "name": "ijo-jelo",
+    "code_hex": "U+FF911"
+  },
+  {
+    "name": "ijo-jo",
+    "code_hex": "U+FF912"
+  },
+  {
+    "name": "ijo-kala",
+    "code_hex": "U+FF913"
+  },
+  {
+    "name": "ijo-kalama",
+    "code_hex": "U+FF914"
+  },
+  {
+    "name": "ijo-kama",
+    "code_hex": "U+FF915"
+  },
+  {
+    "name": "ijo-kasi",
+    "code_hex": "U+FF916"
+  },
+  {
+    "name": "ijo-ken",
+    "code_hex": "U+FF917"
+  },
+  {
+    "name": "ijo-kepeken",
+    "code_hex": "U+FF918"
+  },
+  {
+    "name": "ijo-kepen",
+    "code_hex": "U+FF918"
+  },
+  {
+    "name": "ijo-kijetesantakalu",
+    "code_hex": "U+FF919"
+  },
+  {
+    "name": "ijo-kili",
+    "code_hex": "U+FF91A"
+  },
+  {
+    "name": "ijo-kin",
+    "code_hex": "U+FF91B"
+  },
+  {
+    "name": "ijo-kipisi",
+    "code_hex": "U+FF91C"
+  },
+  {
+    "name": "ijo-kiwen",
+    "code_hex": "U+FF91D"
+  },
+  {
+    "name": "ijo-ko",
+    "code_hex": "U+FF91E"
+  },
+  {
+    "name": "ijo-kon",
+    "code_hex": "U+FF91F"
+  },
+  {
+    "name": "ijo-kule",
+    "code_hex": "U+FF920"
+  },
+  {
+    "name": "ijo-kulupu",
+    "code_hex": "U+FF921"
+  },
+  {
+    "name": "ijo-kute",
+    "code_hex": "U+FF922"
+  },
+  {
+    "name": "ijo-lape",
+    "code_hex": "U+FF923"
+  },
+  {
+    "name": "ijo-laso",
+    "code_hex": "U+FF924"
+  },
+  {
+    "name": "ijo-lawa",
+    "code_hex": "U+FF925"
+  },
+  {
+    "name": "ijo-leko",
+    "code_hex": "U+FF926"
+  },
+  {
+    "name": "ijo-len",
+    "code_hex": "U+FF927"
+  },
+  {
+    "name": "ijo-lete",
+    "code_hex": "U+FF928"
+  },
+  {
+    "name": "ijo-lili",
+    "code_hex": "U+FF929"
+  },
+  {
+    "name": "ijo-linja",
+    "code_hex": "U+FF92A"
+  },
+  {
+    "name": "ijo-lipu",
+    "code_hex": "U+FF92B"
+  },
+  {
+    "name": "ijo-loje",
+    "code_hex": "U+FF92C"
+  },
+  {
+    "name": "ijo-lon",
+    "code_hex": "U+FF92D"
+  },
+  {
+    "name": "ijo-luka",
+    "code_hex": "U+FF92E"
+  },
+  {
+    "name": "ijo-lukin",
+    "code_hex": "U+FF92F"
+  },
+  {
+    "name": "ijo-lupa",
+    "code_hex": "U+FF930"
+  },
+  {
+    "name": "ijo-ma",
+    "code_hex": "U+FF931"
+  },
+  {
+    "name": "ijo-mama",
+    "code_hex": "U+FF932"
+  },
+  {
+    "name": "ijo-mani",
+    "code_hex": "U+FF933"
+  },
+  {
+    "name": "ijo-meli",
+    "code_hex": "U+FF934"
+  },
+  {
+    "name": "ijo-meli2",
+    "code_hex": "U+FFBB0"
+  },
+  {
+    "name": "ijo-mi",
+    "code_hex": "U+FF935"
+  },
+  {
+    "name": "ijo-mije",
+    "code_hex": "U+FF936"
+  },
+  {
+    "name": "ijo-mije2",
+    "code_hex": "U+FFBB1"
+  },
+  {
+    "name": "ijo-moku",
+    "code_hex": "U+FF937"
+  },
+  {
+    "name": "ijo-moli",
+    "code_hex": "U+FF938"
+  },
+  {
+    "name": "ijo-monsi",
+    "code_hex": "U+FF939"
+  },
+  {
+    "name": "ijo-monsuta",
+    "code_hex": "U+FF93A"
+  },
+  {
+    "name": "ijo-mu",
+    "code_hex": "U+FF93B"
+  },
+  {
+    "name": "ijo-mun",
+    "code_hex": "U+FF93C"
+  },
+  {
+    "name": "ijo-musi",
+    "code_hex": "U+FF93D"
+  },
+  {
+    "name": "ijo-mute",
+    "code_hex": "U+FF93E"
+  },
+  {
+    "name": "ijo-namako",
+    "code_hex": "U+FF93F"
+  },
+  {
+    "name": "ijo-namako2",
+    "code_hex": "U+FFBB2"
+  },
+  {
+    "name": "ijo-nanpa",
+    "code_hex": "U+FF940"
+  },
+  {
+    "name": "ijo-nasa",
+    "code_hex": "U+FF941"
+  },
+  {
+    "name": "ijo-nasin",
+    "code_hex": "U+FF942"
+  },
+  {
+    "name": "ijo-nena",
+    "code_hex": "U+FF943"
+  },
+  {
+    "name": "ijo-ni",
+    "code_hex": "U+FF944"
+  },
+  {
+    "name": "ijo^ni",
+    "code_hex": "U+FFD00"
+  },
+  {
+    "name": "ijo-ni-li-seme",
+    "code_hex": "U+FFBFF"
+  },
+  {
+    "name": "ijo-nimi",
+    "code_hex": "U+FF945"
+  },
+  {
+    "name": "ijo-noka",
+    "code_hex": "U+FF946"
+  },
+  {
+    "name": "ijo-oko",
+    "code_hex": "U+FF947"
+  },
+  {
+    "name": "ijo-olin",
+    "code_hex": "U+FF948"
+  },
+  {
+    "name": "ijo-olin2",
+    "code_hex": "U+FFBB3"
+  },
+  {
+    "name": "ijo-ona",
+    "code_hex": "U+FF949"
+  },
+  {
+    "name": "ijo-open",
+    "code_hex": "U+FF94A"
+  },
+  {
+    "name": "ijo-pakala",
+    "code_hex": "U+FF94B"
+  },
+  {
+    "name": "ijo-pake",
+    "code_hex": "U+FF94C"
+  },
+  {
+    "name": "ijo-pali",
+    "code_hex": "U+FF94D"
+  },
+  {
+    "name": "ijo-palisa",
+    "code_hex": "U+FF94E"
+  },
+  {
+    "name": "ijo-pan",
+    "code_hex": "U+FF94F"
+  },
+  {
+    "name": "ijo-pana",
+    "code_hex": "U+FF950"
+  },
+  {
+    "name": "ijo-pilin",
+    "code_hex": "U+FF951"
+  },
+  {
+    "name": "ijo-pimeja",
+    "code_hex": "U+FF952"
+  },
+  {
+    "name": "ijo-pini",
+    "code_hex": "U+FF953"
+  },
+  {
+    "name": "ijo-pipi",
+    "code_hex": "U+FF954"
+  },
+  {
+    "name": "ijo-poka",
+    "code_hex": "U+FF955"
+  },
+  {
+    "name": "ijo-poki",
+    "code_hex": "U+FF956"
+  },
+  {
+    "name": "ijo-pona",
+    "code_hex": "U+FF957"
+  },
+  {
+    "name": "ijo-pu",
+    "code_hex": "U+FF958"
+  },
+  {
+    "name": "ijo-sama",
+    "code_hex": "U+FF959"
+  },
+  {
+    "name": "ijo-seli",
+    "code_hex": "U+FF95A"
+  },
+  {
+    "name": "ijo-selo",
+    "code_hex": "U+FF95B"
+  },
+  {
+    "name": "ijo-seme",
+    "code_hex": "U+FF95C"
+  },
+  {
+    "name": "ijo-sewi",
+    "code_hex": "U+FF95D"
+  },
+  {
+    "name": "ijo-sewi2",
+    "code_hex": "U+FFBB4"
+  },
+  {
+    "name": "ijo-sijelo",
+    "code_hex": "U+FF95E"
+  },
+  {
+    "name": "ijo-sike",
+    "code_hex": "U+FF95F"
+  },
+  {
+    "name": "ijo-sin",
+    "code_hex": "U+FF960"
+  },
+  {
+    "name": "ijo-sina",
+    "code_hex": "U+FF961"
+  },
+  {
+    "name": "ijo-sinpin",
+    "code_hex": "U+FF962"
+  },
+  {
+    "name": "ijo-sitelen",
+    "code_hex": "U+FF963"
+  },
+  {
+    "name": "ijo-sona",
+    "code_hex": "U+FF964"
+  },
+  {
+    "name": "ijo-soweli",
+    "code_hex": "U+FF965"
+  },
+  {
+    "name": "ijo-suli",
+    "code_hex": "U+FF966"
+  },
+  {
+    "name": "ijo-suno",
+    "code_hex": "U+FF967"
+  },
+  {
+    "name": "ijo-supa",
+    "code_hex": "U+FF968"
+  },
+  {
+    "name": "ijo-suwi",
+    "code_hex": "U+FF969"
+  },
+  {
+    "name": "ijo-tan",
+    "code_hex": "U+FF96A"
+  },
+  {
+    "name": "ijo-taso",
+    "code_hex": "U+FF96B"
+  },
+  {
+    "name": "ijo-tawa",
+    "code_hex": "U+FF96C"
+  },
+  {
+    "name": "ijo-telo",
+    "code_hex": "U+FF96D"
+  },
+  {
+    "name": "ijo-tenpo",
+    "code_hex": "U+FF96E"
+  },
+  {
+    "name": "ijo-toki",
+    "code_hex": "U+FF96F"
+  },
+  {
+    "name": "ijo-tomo",
+    "code_hex": "U+FF970"
+  },
+  {
+    "name": "ijo-tonsi",
+    "code_hex": "U+FF971"
+  },
+  {
+    "name": "ijo-tu",
+    "code_hex": "U+FF972"
+  },
+  {
+    "name": "ijo-unpa",
+    "code_hex": "U+FF973"
+  },
+  {
+    "name": "ijo-uta",
+    "code_hex": "U+FF974"
+  },
+  {
+    "name": "ijo-uta2",
+    "code_hex": "U+FFBB5"
+  },
+  {
+    "name": "ijo-utala",
+    "code_hex": "U+FF975"
+  },
+  {
+    "name": "ijo-walo",
+    "code_hex": "U+FF976"
+  },
+  {
+    "name": "ijo-wan",
+    "code_hex": "U+FF977"
+  },
+  {
+    "name": "ijo-waso",
+    "code_hex": "U+FF978"
+  },
+  {
+    "name": "ijo-wawa",
+    "code_hex": "U+FF979"
+  },
+  {
+    "name": "ijo-weka",
+    "code_hex": "U+FF97A"
+  },
+  {
+    "name": "ijo-wile",
+    "code_hex": "U+FF97B"
+  },
+  {
+    "name": "ijo-wile2",
+    "code_hex": "U+FFBB6"
+  },
+  {
+    "name": "ike-ala",
+    "code_hex": "U+FF97C"
+  },
+  {
+    "name": "ike-lili",
+    "code_hex": "U+FF97D"
+  },
+  {
+    "name": "ike-lukin",
+    "code_hex": "U+FF97E"
+  },
+  {
+    "name": "ike-mute",
+    "code_hex": "U+FFD1C"
+  },
+  {
+    "name": "ilo-kipisi",
+    "code_hex": "U+FF97F"
+  },
+  {
+    "name": "ilo-lape",
+    "code_hex": "U+FF980"
+  },
+  {
+    "name": "ilo-lukin",
+    "code_hex": "U+FF981"
+  },
+  {
+    "name": "ilo-moli",
+    "code_hex": "U+FF982"
+  },
+  {
+    "name": "ilo-musi",
+    "code_hex": "U+FF983"
+  },
+  {
+    "name": "ilo-nanpa",
+    "code_hex": "U+FF984"
+  },
+  {
+    "name": "ilo-oko",
+    "code_hex": "U+FF985"
+  },
+  {
+    "name": "ilo-open",
+    "code_hex": "U+FF986"
+  },
+  {
+    "name": "ilo-suno",
+    "code_hex": "U+FF987"
+  },
+  {
+    "name": "ilo-toki",
+    "code_hex": "U+FF988"
+  },
+  {
+    "name": "jan-ala",
+    "code_hex": "U+FF989"
+  },
+  {
+    "name": "jan-alasa",
+    "code_hex": "U+FF98A"
+  },
+  {
+    "name": "jan-ale",
+    "code_hex": "U+FF98B"
+  },
+  {
+    "name": "jan-ali",
+    "code_hex": "U+FF98B"
+  },
+  {
+    "name": "jan-ante",
+    "code_hex": "U+FF98C"
+  },
+  {
+    "name": "jan-ike",
+    "code_hex": "U+FF98D"
+  },
+  {
+    "name": "jan-kala",
+    "code_hex": "U+FF98E"
+  },
+  {
+    "name": "jan-kalama",
+    "code_hex": "U+FF98F"
+  },
+  {
+    "name": "jan-kasi",
+    "code_hex": "U+FF990"
+  },
+  {
+    "name": "jan-kulupu",
+    "code_hex": "U+FF991"
+  },
+  {
+    "name": "jan-lawa",
+    "code_hex": "U+FF992"
+  },
+  {
+    "name": "jan-lili",
+    "code_hex": "U+FF993"
+  },
+  {
+    "name": "jan-monsuta",
+    "code_hex": "U+FF994"
+  },
+  {
+    "name": "jan-mute",
+    "code_hex": "U+FF995"
+  },
+  {
+    "name": "jan-nasa",
+    "code_hex": "U+FF996"
+  },
+  {
+    "name": "jan-ni",
+    "code_hex": "U+FFD01"
+  },
+  {
+    "name": "jan-olin",
+    "code_hex": "U+FF997"
+  },
+  {
+    "name": "jan-olin2",
+    "code_hex": "U+FFBB7"
+  },
+  {
+    "name": "jan-pakala",
+    "code_hex": "U+FF998"
+  },
+  {
+    "name": "jan-pali",
+    "code_hex": "U+FF999"
+  },
+  {
+    "name": "jan-poka",
+    "code_hex": "U+FF99A"
+  },
+  {
+    "name": "jan-pona",
+    "code_hex": "U+FF99B"
+  },
+  {
+    "name": "jan-sama",
+    "code_hex": "U+FF99C"
+  },
+  {
+    "name": "jan-seme",
+    "code_hex": "U+FF99D"
+  },
+  {
+    "name": "jan-sewi",
+    "code_hex": "U+FF99E"
+  },
+  {
+    "name": "jan-sewi2",
+    "code_hex": "U+FFBB8"
+  },
+  {
+    "name": "jan-sin",
+    "code_hex": "U+FF99F"
+  },
+  {
+    "name": "jan-sona",
+    "code_hex": "U+FF9A0"
+  },
+  {
+    "name": "jan-suli",
+    "code_hex": "U+FF9A1"
+  },
+  {
+    "name": "jan-suwi",
+    "code_hex": "U+FF9A2"
+  },
+  {
+    "name": "jan-toki",
+    "code_hex": "U+FF9A3"
+  },
+  {
+    "name": "jan-unpa",
+    "code_hex": "U+FF9A4"
+  },
+  {
+    "name": "jan-utala",
+    "code_hex": "U+FF9A5"
+  },
+  {
+    "name": "jan-wawa",
+    "code_hex": "U+FF9A6"
+  },
+  {
+    "name": "kala-ike",
+    "code_hex": "U+FFE00"
+  },
+  {
+    "name": "kala-lete",
+    "code_hex": "U+FF9A7"
+  },
+  {
+    "name": "kala^lete",
+    "code_hex": "U+FFBB9"
+  },
+  {
+    "name": "kala2^lete",
+    "code_hex": "U+FFBBA"
+  },
+  {
+    "name": "kala-lili",
+    "code_hex": "U+FF9A8"
+  },
+  {
+    "name": "kala^lili",
+    "code_hex": "U+FFBBB"
+  },
+  {
+    "name": "kala2^lili",
+    "code_hex": "U+FFBBC"
+  },
+  {
+    "name": "kala-pona",
+    "code_hex": "U+FFE01"
+  },
+  {
+    "name": "kalama-musi",
+    "code_hex": "U+FF9A9"
+  },
+  {
+    "name": "kama-pona",
+    "code_hex": "U+FFE02"
+  },
+  {
+    "name": "kama-sona",
+    "code_hex": "U+FFE03"
+  },
+  {
+    "name": "kasi-jelo",
+    "code_hex": "U+FF9AA"
+  },
+  {
+    "name": "kasi-ko",
+    "code_hex": "U+FFE04"
+  },
+  {
+    "name": "kasi-kule",
+    "code_hex": "U+FF9AB"
+  },
+  {
+    "name": "kasi-laso",
+    "code_hex": "U+FF9AC"
+  },
+  {
+    "name": "kasi-lili",
+    "code_hex": "U+FF9AD"
+  },
+  {
+    "name": "kasi-loje",
+    "code_hex": "U+FF9AE"
+  },
+  {
+    "name": "kasi-pimeja",
+    "code_hex": "U+FF9AF"
+  },
+  {
+    "name": "kasi-walo",
+    "code_hex": "U+FF9B0"
+  },
+  {
+    "name": "kijetesantakalu-soweli",
+    "code_hex": "U+FFD28"
+  },
+  {
+    "name": "kili-jelo",
+    "code_hex": "U+FF9B1"
+  },
+  {
+    "name": "kili-laso",
+    "code_hex": "U+FF9B2"
+  },
+  {
+    "name": "kili-lili",
+    "code_hex": "U+FF9B3"
+  },
+  {
+    "name": "kili-loje",
+    "code_hex": "U+FF9B4"
+  },
+  {
+    "name": "kili-palisa",
+    "code_hex": "U+FF9B5"
+  },
+  {
+    "name": "kili-pimeja",
+    "code_hex": "U+FF9B6"
+  },
+  {
+    "name": "kili-suwi",
+    "code_hex": "U+FF9B7"
+  },
+  {
+    "name": "kili-walo",
+    "code_hex": "U+FF9B8"
+  },
+  {
+    "name": "kiwen-ike",
+    "code_hex": "U+FFD2A"
+  },
+  {
+    "name": "kiwen-jelo",
+    "code_hex": "U+FF9B9"
+  },
+  {
+    "name": "kiwen-kasi",
+    "code_hex": "U+FF9BA"
+  },
+  {
+    "name": "kiwen-laso",
+    "code_hex": "U+FF9BB"
+  },
+  {
+    "name": "kiwen-lete",
+    "code_hex": "U+FF9BC"
+  },
+  {
+    "name": "kiwen-lili",
+    "code_hex": "U+FF9BD"
+  },
+  {
+    "name": "kiwen-loje",
+    "code_hex": "U+FF9BE"
+  },
+  {
+    "name": "kiwen-mun",
+    "code_hex": "U+FF9BF"
+  },
+  {
+    "name": "kiwen-pimeja",
+    "code_hex": "U+FF9C0"
+  },
+  {
+    "name": "kiwen-pona",
+    "code_hex": "U+FFD2B"
+  },
+  {
+    "name": "kiwen-seli",
+    "code_hex": "U+FF9C1"
+  },
+  {
+    "name": "kiwen-suno",
+    "code_hex": "U+FF9C2"
+  },
+  {
+    "name": "kiwen-walo",
+    "code_hex": "U+FF9C3"
+  },
+  {
+    "name": "ko-jaki",
+    "code_hex": "U+FF9C4"
+  },
+  {
+    "name": "ko-jelo",
+    "code_hex": "U+FF9C5"
+  },
+  {
+    "name": "ko-kasi",
+    "code_hex": "U+FF9C6"
+  },
+  {
+    "name": "ko-kule",
+    "code_hex": "U+FF9C7"
+  },
+  {
+    "name": "ko-laso",
+    "code_hex": "U+FF9C8"
+  },
+  {
+    "name": "ko-lete",
+    "code_hex": "U+FF9C9"
+  },
+  {
+    "name": "ko-lili",
+    "code_hex": "U+FF9CA"
+  },
+  {
+    "name": "ko-loje",
+    "code_hex": "U+FF9CB"
+  },
+  {
+    "name": "ko-nasa",
+    "code_hex": "U+FF9CC"
+  },
+  {
+    "name": "ko-pimeja",
+    "code_hex": "U+FF9CD"
+  },
+  {
+    "name": "ko-seli",
+    "code_hex": "U+FF9CE"
+  },
+  {
+    "name": "ko-walo",
+    "code_hex": "U+FF9CF"
+  },
+  {
+    "name": "kon-lete",
+    "code_hex": "U+FF9D0"
+  },
+  {
+    "name": "kule-kasi",
+    "code_hex": "U+FFD23"
+  },
+  {
+    "name": "kule-kili",
+    "code_hex": "U+FFD21"
+  },
+  {
+    "name": "kule-ma",
+    "code_hex": "U+FFD1F"
+  },
+  {
+    "name": "kule-mun",
+    "code_hex": "U+FFD26"
+  },
+  {
+    "name": "kule-pilin",
+    "code_hex": "U+FFD27"
+  },
+  {
+    "name": "kule-sewi",
+    "code_hex": "U+FFD24"
+  },
+  {
+    "name": "kule-suno",
+    "code_hex": "U+FFD22"
+  },
+  {
+    "name": "kule-telo",
+    "code_hex": "U+FFD25"
+  },
+  {
+    "name": "kule-uta",
+    "code_hex": "U+FFD20"
+  },
+  {
+    "name": "lan-sin",
+    "code_hex": "U+FFE6A"
+  },
+  {
+    "name": "lan2-sin",
+    "code_hex": "U+FFE6B"
+  },
+  {
+    "name": "laso-kasi",
+    "code_hex": "U+FFBBD"
+  },
+  {
+    "name": "laso-mun",
+    "code_hex": "U+FFBBE"
+  },
+  {
+    "name": "laso-sewi",
+    "code_hex": "U+FFBBF"
+  },
+  {
+    "name": "laso-sewi2",
+    "code_hex": "U+FFBC0"
+  },
+  {
+    "name": "laso-telo",
+    "code_hex": "U+FFBC1"
+  },
+  {
+    "name": "len-jan",
+    "code_hex": "U+FF9D1"
+  },
+  {
+    "name": "len-jelo",
+    "code_hex": "U+FF9D2"
+  },
+  {
+    "name": "len-laso",
+    "code_hex": "U+FF9D3"
+  },
+  {
+    "name": "len-lawa",
+    "code_hex": "U+FF9D4"
+  },
+  {
+    "name": "len-lili",
+    "code_hex": "U+FF9D5"
+  },
+  {
+    "name": "len-loje",
+    "code_hex": "U+FF9D6"
+  },
+  {
+    "name": "len-luka",
+    "code_hex": "U+FF9D7"
+  },
+  {
+    "name": "len-noka",
+    "code_hex": "U+FF9D8"
+  },
+  {
+    "name": "len-pimeja",
+    "code_hex": "U+FF9D9"
+  },
+  {
+    "name": "len-sin",
+    "code_hex": "U+FF9DA"
+  },
+  {
+    "name": "len-walo",
+    "code_hex": "U+FF9DB"
+  },
+  {
+    "name": "linja-lili",
+    "code_hex": "U+FF9DC"
+  },
+  {
+    "name": "linja-pona",
+    "code_hex": "U+FF9DD"
+  },
+  {
+    "name": "linja-sike",
+    "code_hex": "U+FFBF4"
+  },
+  {
+    "name": "linja-suwi",
+    "code_hex": "U+FFBF5"
+  },
+  {
+    "name": "lipu-kasi",
+    "code_hex": "U+FF9DE"
+  },
+  {
+    "name": "lipu-kule",
+    "code_hex": "U+FFD13"
+  },
+  {
+    "name": "lipu^kule",
+    "code_hex": "U+FFD12"
+  },
+  {
+    "name": "lipu-majuna",
+    "code_hex": "U+FFD11"
+  },
+  {
+    "name": "lipu^majuna",
+    "code_hex": "U+FFD10"
+  },
+  {
+    "name": "lipu-nanpa",
+    "code_hex": "U+FF9DF"
+  },
+  {
+    "name": "lipu-nimi",
+    "code_hex": "U+FFBC2"
+  },
+  {
+    "name": "lipu-sewi",
+    "code_hex": "U+FF9E0"
+  },
+  {
+    "name": "lipu-sewi2",
+    "code_hex": "U+FFBC3"
+  },
+  {
+    "name": "lipu-sona",
+    "code_hex": "U+FF9E1"
+  },
+  {
+    "name": "lipu-tenpo",
+    "code_hex": "U+FFBC4"
+  },
+  {
+    "name": "lipu*tenpo",
+    "code_hex": "U+FFD15"
+  },
+  {
+    "name": "lipu^tenpo",
+    "code_hex": "U+FFD14"
+  },
+  {
+    "name": "lipu-toki",
+    "code_hex": "U+FF9E2"
+  },
+  {
+    "name": "lipu-unpa",
+    "code_hex": "U+FFD17"
+  },
+  {
+    "name": "lipu^unpa",
+    "code_hex": "U+FFD16"
+  },
+  {
+    "name": "loje-jelo",
+    "code_hex": "U+FFBC5"
+  },
+  {
+    "name": "loje-walo",
+    "code_hex": "U+FFBC6"
+  },
+  {
+    "name": "luka-luka",
+    "code_hex": "U+FFA49"
+  },
+  {
+    "name": "luka^luka",
+    "code_hex": "U+FF9E3"
+  },
+  {
+    "name": "luka*luka",
+    "code_hex": "U+FFBC7"
+  },
+  {
+    "name": "luka-luka-luka",
+    "code_hex": "U+FFA4F"
+  },
+  {
+    "name": "luka-luka-luka-luka",
+    "code_hex": "U+FFD69"
+  },
+  {
+    "name": "luka-luka-luka-tu",
+    "code_hex": "U+FFBC8"
+  },
+  {
+    "name": "luka-luka-luka-tu-tu",
+    "code_hex": "U+FFBC9"
+  },
+  {
+    "name": "luka-luka-luka-tu-wan",
+    "code_hex": "U+FFBCA"
+  },
+  {
+    "name": "luka-luka-luka-wan",
+    "code_hex": "U+FFBCB"
+  },
+  {
+    "name": "luka-luka-luka-wan-tu",
+    "code_hex": "U+FFBCC"
+  },
+  {
+    "name": "luka-luka-tu",
+    "code_hex": "U+FFA4B"
+  },
+  {
+    "name": "luka-luka-tu-tu",
+    "code_hex": "U+FFA4E"
+  },
+  {
+    "name": "luka-luka-tu-wan",
+    "code_hex": "U+FFA4C"
+  },
+  {
+    "name": "luka-luka-wan",
+    "code_hex": "U+FFA4A"
+  },
+  {
+    "name": "luka-luka-wan-tu",
+    "code_hex": "U+FFA4D"
+  },
+  {
+    "name": "luka-tu",
+    "code_hex": "U+FFA44"
+  },
+  {
+    "name": "luka^tu",
+    "code_hex": "U+FFBCD"
+  },
+  {
+    "name": "luka-tu-tu",
+    "code_hex": "U+FFA48"
+  },
+  {
+    "name": "luka-tu-wan",
+    "code_hex": "U+FFA46"
+  },
+  {
+    "name": "luka-wan",
+    "code_hex": "U+FFA42"
+  },
+  {
+    "name": "luka^wan",
+    "code_hex": "U+FFBCE"
+  },
+  {
+    "name": "luka-wan-tu",
+    "code_hex": "U+FFA47"
+  },
+  {
+    "name": "lupa-jaki",
+    "code_hex": "U+FF9E4"
+  },
+  {
+    "name": "lupa-kiwen",
+    "code_hex": "U+FF9E5"
+  },
+  {
+    "name": "lupa-kute",
+    "code_hex": "U+FF9E6"
+  },
+  {
+    "name": "lupa-lili",
+    "code_hex": "U+FF9E7"
+  },
+  {
+    "name": "lupa-meli",
+    "code_hex": "U+FF9E8"
+  },
+  {
+    "name": "lupa-meli2",
+    "code_hex": "U+FFBCF"
+  },
+  {
+    "name": "lupa-monsi",
+    "code_hex": "U+FF9E9"
+  },
+  {
+    "name": "lupa-nena",
+    "code_hex": "U+FF9EA"
+  },
+  {
+    "name": "lupa-tomo",
+    "code_hex": "U+FF9EB"
+  },
+  {
+    "name": "ma-ale",
+    "code_hex": "U+FF9EC"
+  },
+  {
+    "name": "ma-ali",
+    "code_hex": "U+FF9EC"
+  },
+  {
+    "name": "ma-ike",
+    "code_hex": "U+FFD05"
+  },
+  {
+    "name": "ma-kasi",
+    "code_hex": "U+FF9ED"
+  },
+  {
+    "name": "ma-ni",
+    "code_hex": "U+FFD02"
+  },
+  {
+    "name": "ma-pona",
+    "code_hex": "U+FFD06"
+  },
+  {
+    "name": "ma-tomo",
+    "code_hex": "U+FF9EE"
+  },
+  {
+    "name": "mama-mama",
+    "code_hex": "U+FF9EF"
+  },
+  {
+    "name": "mama-meli",
+    "code_hex": "U+FF9F0"
+  },
+  {
+    "name": "mama-meli2",
+    "code_hex": "U+FFBD0"
+  },
+  {
+    "name": "mama-mije",
+    "code_hex": "U+FF9F1"
+  },
+  {
+    "name": "mama-mije2",
+    "code_hex": "U+FFBD1"
+  },
+  {
+    "name": "mama-tonsi",
+    "code_hex": "U+FFBD2"
+  },
+  {
+    "name": "meli-ike",
+    "code_hex": "U+FF9F2"
+  },
+  {
+    "name": "meli2-ike",
+    "code_hex": "U+FFBD3"
+  },
+  {
+    "name": "meli-lili",
+    "code_hex": "U+FF9F3"
+  },
+  {
+    "name": "meli2-lili",
+    "code_hex": "U+FFBD4"
+  },
+  {
+    "name": "meli-mije",
+    "code_hex": "U+FFD07"
+  },
+  {
+    "name": "meli2-mije2",
+    "code_hex": "U+FFD08"
+  },
+  {
+    "name": "meli-pona",
+    "code_hex": "U+FF9F4"
+  },
+  {
+    "name": "meli2-pona",
+    "code_hex": "U+FFBD5"
+  },
+  {
+    "name": "meli-sama",
+    "code_hex": "U+FF9F5"
+  },
+  {
+    "name": "meli2-sama",
+    "code_hex": "U+FFBD6"
+  },
+  {
+    "name": "meli-tonsi",
+    "code_hex": "U+FFBD7"
+  },
+  {
+    "name": "meli2-tonsi",
+    "code_hex": "U+FFBD8"
+  },
+  {
+    "name": "meli-unpa",
+    "code_hex": "U+FF9F6"
+  },
+  {
+    "name": "meli2-unpa",
+    "code_hex": "U+FFBD9"
+  },
+  {
+    "name": "meli-wawa",
+    "code_hex": "U+FFBDA"
+  },
+  {
+    "name": "meli2-wawa",
+    "code_hex": "U+FFBDB"
+  },
+  {
+    "name": "mije-ike",
+    "code_hex": "U+FF9F7"
+  },
+  {
+    "name": "mije2-ike",
+    "code_hex": "U+FFBDC"
+  },
+  {
+    "name": "mije-lili",
+    "code_hex": "U+FF9F8"
+  },
+  {
+    "name": "mije2-lili",
+    "code_hex": "U+FFBDD"
+  },
+  {
+    "name": "mije-meli",
+    "code_hex": "U+FFD07"
+  },
+  {
+    "name": "mije2-meli2",
+    "code_hex": "U+FFD08"
+  },
+  {
+    "name": "mije-pona",
+    "code_hex": "U+FF9F9"
+  },
+  {
+    "name": "mije2-pona",
+    "code_hex": "U+FFBDE"
+  },
+  {
+    "name": "mije-sama",
+    "code_hex": "U+FF9FA"
+  },
+  {
+    "name": "mije2-sama",
+    "code_hex": "U+FFBDF"
+  },
+  {
+    "name": "mije-tonsi",
+    "code_hex": "U+FFBE0"
+  },
+  {
+    "name": "mije2-tonsi",
+    "code_hex": "U+FFBE1"
+  },
+  {
+    "name": "mije-unpa",
+    "code_hex": "U+FF9FB"
+  },
+  {
+    "name": "mije2-unpa",
+    "code_hex": "U+FFBE2"
+  },
+  {
+    "name": "mije-wawa",
+    "code_hex": "U+FF9FC"
+  },
+  {
+    "name": "mije2-wawa",
+    "code_hex": "U+FFBE3"
+  },
+  {
+    "name": "musi-lili",
+    "code_hex": "U+FF9FD"
+  },
+  {
+    "name": "mute-mute",
+    "code_hex": "U+FFD1D"
+  },
+  {
+    "name": "nasin-nanpa",
+    "code_hex": "U+FFBF6"
+  },
+  {
+    "name": "nasin^nanpa",
+    "code_hex": "U+FFBF7"
+  },
+  {
+    "name": "nasin-sitelen",
+    "code_hex": "U+FFBF8"
+  },
+  {
+    "name": "nena-kon",
+    "code_hex": "U+FF9FE"
+  },
+  {
+    "name": "nena-kute",
+    "code_hex": "U+FF9FF"
+  },
+  {
+    "name": "nena-lili",
+    "code_hex": "U+FFA00"
+  },
+  {
+    "name": "nena-mama",
+    "code_hex": "U+FFA01"
+  },
+  {
+    "name": "nena-meli",
+    "code_hex": "U+FFA02"
+  },
+  {
+    "name": "nena-meli2",
+    "code_hex": "U+FFBE4"
+  },
+  {
+    "name": "nimi-sin",
+    "code_hex": "U+FFD96"
+  },
+  {
+    "name": "nimi^sin",
+    "code_hex": "U+FFBFA"
+  },
+  {
+    "name": "nimi*sin",
+    "code_hex": "U+FFBFB"
+  },
+  {
+    "name": "palisa-lili",
+    "code_hex": "U+FFA03"
+  },
+  {
+    "name": "pilin-ala",
+    "code_hex": "U+FFA04"
+  },
+  {
+    "name": "pilin-ike",
+    "code_hex": "U+FFA05"
+  },
+  {
+    "name": "pilin-nasa",
+    "code_hex": "U+FFA06"
+  },
+  {
+    "name": "pilin-pakala",
+    "code_hex": "U+FFA07"
+  },
+  {
+    "name": "pilin-pona",
+    "code_hex": "U+FFA08"
+  },
+  {
+    "name": "pilin-sama",
+    "code_hex": "U+FFA09"
+  },
+  {
+    "name": "pilin-seme",
+    "code_hex": "U+FFE05"
+  },
+  {
+    "name": "pimeja-jelo",
+    "code_hex": "U+FFD09"
+  },
+  {
+    "name": "pimeja-laso",
+    "code_hex": "U+FFD0A"
+  },
+  {
+    "name": "pimeja-loje",
+    "code_hex": "U+FFD0B"
+  },
+  {
+    "name": "poki-kon",
+    "code_hex": "U+FFA0A"
+  },
+  {
+    "name": "poki-len",
+    "code_hex": "U+FFA0B"
+  },
+  {
+    "name": "poki-lete",
+    "code_hex": "U+FFA0C"
+  },
+  {
+    "name": "poki-lili",
+    "code_hex": "U+FFA0D"
+  },
+  {
+    "name": "poki-seli",
+    "code_hex": "U+FFA0E"
+  },
+  {
+    "name": "poki-telo",
+    "code_hex": "U+FFA0F"
+  },
+  {
+    "name": "poki-tona",
+    "code_hex": "U+FFBAF"
+  },
+  {
+    "name": "pona-ala",
+    "code_hex": "U+FFA10"
+  },
+  {
+    "name": "pona-lili",
+    "code_hex": "U+FFA11"
+  },
+  {
+    "name": "pona-lukin",
+    "code_hex": "U+FFA12"
+  },
+  {
+    "name": "pona-mute",
+    "code_hex": "U+FFD1E"
+  },
+  {
+    "name": "selo-len",
+    "code_hex": "U+FFA13"
+  },
+  {
+    "name": "selo-soweli",
+    "code_hex": "U+FFA14"
+  },
+  {
+    "name": "sike-lili",
+    "code_hex": "U+FFA15"
+  },
+  {
+    "name": "sitelen-ike",
+    "code_hex": "U+FFA16"
+  },
+  {
+    "name": "sitelen-ma",
+    "code_hex": "U+FFA17"
+  },
+  {
+    "name": "sitelen-monsuta",
+    "code_hex": "U+FFA18"
+  },
+  {
+    "name": "sitelen-pona",
+    "code_hex": "U+FFA19"
+  },
+  {
+    "name": "sitelen-sitelen",
+    "code_hex": "U+FFA1A"
+  },
+  {
+    "name": "sitelen-tawa",
+    "code_hex": "U+FFA1B"
+  },
+  {
+    "name": "sitelen-toki",
+    "code_hex": "U+FFA1C"
+  },
+  {
+    "name": "sona-ala",
+    "code_hex": "U+FFA1D"
+  },
+  {
+    "name": "sona-ike",
+    "code_hex": "U+FFA1E"
+  },
+  {
+    "name": "sona-lili",
+    "code_hex": "U+FFA1F"
+  },
+  {
+    "name": "sona-ma",
+    "code_hex": "U+FFA20"
+  },
+  {
+    "name": "sona-nanpa",
+    "code_hex": "U+FFA21"
+  },
+  {
+    "name": "sona-pona",
+    "code_hex": "U+FFA22"
+  },
+  {
+    "name": "sona-sijelo",
+    "code_hex": "U+FFA23"
+  },
+  {
+    "name": "sona-tenpo",
+    "code_hex": "U+FFA24"
+  },
+  {
+    "name": "sona-toki",
+    "code_hex": "U+FFA25"
+  },
+  {
+    "name": "sona-utala",
+    "code_hex": "U+FFA26"
+  },
+  {
+    "name": "soweli-kijetesantakalu",
+    "code_hex": "U+FFD29"
+  },
+  {
+    "name": "suno-sama",
+    "code_hex": "U+FFE0C"
+  },
+  {
+    "name": "supa-lape",
+    "code_hex": "U+FFA27"
+  },
+  {
+    "name": "supa-lawa",
+    "code_hex": "U+FFA28"
+  },
+  {
+    "name": "supa-lupa",
+    "code_hex": "U+FFA29"
+  },
+  {
+    "name": "supa-moku",
+    "code_hex": "U+FFA2A"
+  },
+  {
+    "name": "supa-monsi",
+    "code_hex": "U+FFA2B"
+  },
+  {
+    "name": "supa-pali",
+    "code_hex": "U+FFA2C"
+  },
+  {
+    "name": "tawa-pona",
+    "code_hex": "U+FFE06"
+  },
+  {
+    "name": "tawa-sona",
+    "code_hex": "U+FFE07"
+  },
+  {
+    "name": "telo-lete",
+    "code_hex": "U+FFA2D"
+  },
+  {
+    "name": "telo-lili",
+    "code_hex": "U+FFA2E"
+  },
+  {
+    "name": "telo-sitelen",
+    "code_hex": "U+FFD0C"
+  },
+  {
+    "name": "tenpo-ike",
+    "code_hex": "U+FFD2C"
+  },
+  {
+    "name": "tenpo-ni",
+    "code_hex": "U+FFD03"
+  },
+  {
+    "name": "tenpo-pona",
+    "code_hex": "U+FFD2D"
+  },
+  {
+    "name": "toki-ala",
+    "code_hex": "U+FFA2F"
+  },
+  {
+    "name": "toki-ike",
+    "code_hex": "U+FFA30"
+  },
+  {
+    "name": "toki-pona",
+    "code_hex": "U+FFA31"
+  },
+  {
+    "name": "toki-sin",
+    "code_hex": "U+FFA32"
+  },
+  {
+    "name": "toki-sona",
+    "code_hex": "U+FFA33"
+  },
+  {
+    "name": "toki-utala",
+    "code_hex": "U+FFA34"
+  },
+  {
+    "name": "tomo-lape",
+    "code_hex": "U+FFA35"
+  },
+  {
+    "name": "tomo-mani",
+    "code_hex": "U+FFA36"
+  },
+  {
+    "name": "tomo-moku",
+    "code_hex": "U+FFA37"
+  },
+  {
+    "name": "tomo-monsuta",
+    "code_hex": "U+FFA38"
+  },
+  {
+    "name": "tomo-nasin",
+    "code_hex": "U+FFA39"
+  },
+  {
+    "name": "tomo-ni",
+    "code_hex": "U+FFD04"
+  },
+  {
+    "name": "tomo-pali",
+    "code_hex": "U+FFA3A"
+  },
+  {
+    "name": "tomo-sona",
+    "code_hex": "U+FFA3B"
+  },
+  {
+    "name": "tomo-tawa",
+    "code_hex": "U+FFA3C"
+  },
+  {
+    "name": "tomo-telo",
+    "code_hex": "U+FFE08"
+  },
+  {
+    "name": "tomo-unpa",
+    "code_hex": "U+FFA3D"
+  },
+  {
+    "name": "tomo-utala",
+    "code_hex": "U+FFA3E"
+  },
+  {
+    "name": "tonsi-ike",
+    "code_hex": "U+FFBE5"
+  },
+  {
+    "name": "tonsi-lili",
+    "code_hex": "U+FFBE6"
+  },
+  {
+    "name": "tonsi-pona",
+    "code_hex": "U+FFBE7"
+  },
+  {
+    "name": "tonsi-sama",
+    "code_hex": "U+FFBE8"
+  },
+  {
+    "name": "tonsi-sin",
+    "code_hex": "U+FFBE9"
+  },
+  {
+    "name": "tonsi-unpa",
+    "code_hex": "U+FFBEA"
+  },
+  {
+    "name": "tonsi-wawa",
+    "code_hex": "U+FFBEB"
+  },
+  {
+    "name": "tu-luka",
+    "code_hex": "U+FFA45"
+  },
+  {
+    "name": "tu-tu",
+    "code_hex": "U+FFA3F"
+  },
+  {
+    "name": "tu-wan",
+    "code_hex": "U+FFA40"
+  },
+  {
+    "name": "walo-jelo",
+    "code_hex": "U+FFD0D"
+  },
+  {
+    "name": "walo-laso",
+    "code_hex": "U+FFD0E"
+  },
+  {
+    "name": "walo-loje",
+    "code_hex": "U+FFD0F"
+  },
+  {
+    "name": "walo-pimeja",
+    "code_hex": "U+FFBEC"
+  },
+  {
+    "name": "wan-luka",
+    "code_hex": "U+FFA43"
+  },
+  {
+    "name": "wan-tu",
+    "code_hex": "U+FFA41"
+  },
+  {
+    "name": "wawa-tenpo",
+    "code_hex": "U+FFBED"
+  },
+  {
+    "name": "a",
+    "code_hex": "U+F1C40"
+  },
+  {
+    "name": "ala",
+    "code_hex": "U+F1C41"
+  },
+  {
+    "name": "i",
+    "code_hex": "U+F1C42"
+  },
+  {
+    "name": "iku",
+    "code_hex": "U+F1C43"
+  },
+  {
+    "name": "ilu",
+    "code_hex": "U+F1C44"
+  },
+  {
+    "name": "ka",
+    "code_hex": "U+F1C45"
+  },
+  {
+    "name": "kati",
+    "code_hex": "U+F1C46"
+  },
+  {
+    "name": "ki",
+    "code_hex": "U+F1C47"
+  },
+  {
+    "name": "kiku",
+    "code_hex": "U+F1C48"
+  },
+  {
+    "name": "ku",
+    "code_hex": "U+F1C49"
+  },
+  {
+    "name": "la",
+    "code_hex": "U+F1C4A"
+  },
+  {
+    "name": "lapi",
+    "code_hex": "U+F1C4B"
+  },
+  {
+    "name": "li",
+    "code_hex": "U+F1C4C"
+  },
+  {
+    "name": "lika",
+    "code_hex": "U+F1C4D"
+  },
+  {
+    "name": "lili",
+    "code_hex": "U+F1C4E"
+  },
+  {
+    "name": "lu",
+    "code_hex": "U+F1C4F"
+  },
+  {
+    "name": "lupa",
+    "code_hex": "U+F1C50"
+  },
+  {
+    "name": "mi",
+    "code_hex": "U+F1C51"
+  },
+  {
+    "name": "muku",
+    "code_hex": "U+F1C52"
+  },
+  {
+    "name": "muti",
+    "code_hex": "U+F1C53"
+  },
+  {
+    "name": "paka",
+    "code_hex": "U+F1C54"
+  },
+  {
+    "name": "pali",
+    "code_hex": "U+F1C55"
+  },
+  {
+    "name": "puka",
+    "code_hex": "U+F1C56"
+  },
+  {
+    "name": "pula",
+    "code_hex": "U+F1C57"
+  },
+  {
+    "name": "taka",
+    "code_hex": "U+F1C58"
+  },
+  {
+    "name": "tama",
+    "code_hex": "U+F1C59"
+  },
+  {
+    "name": "tiki",
+    "code_hex": "U+F1C5A"
+  },
+  {
+    "name": "tiku",
+    "code_hex": "U+F1C5B"
+  },
+  {
+    "name": "tila",
+    "code_hex": "U+F1C5C"
+  },
+  {
+    "name": "tilu",
+    "code_hex": "U+F1C5D"
+  },
+  {
+    "name": "timi",
+    "code_hex": "U+F1C5E"
+  },
+  {
+    "name": "tipi",
+    "code_hex": "U+F1C5F"
+  },
+  {
+    "name": "titi",
+    "code_hex": "U+F1C60"
+  },
+  {
+    "name": "tu",
+    "code_hex": "U+F1C61"
+  },
+  {
+    "name": "tuki",
+    "code_hex": "U+F1C62"
+  },
+  {
+    "name": "tula",
+    "code_hex": "U+F1C63"
+  },
+  {
+    "name": "tulu",
+    "code_hex": "U+F1C64"
+  },
+  {
+    "name": "uli",
+    "code_hex": "U+F1C65"
+  },
+  {
+    "name": "upi",
+    "code_hex": "U+F1C66"
+  }
+]
