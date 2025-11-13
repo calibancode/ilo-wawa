@@ -483,6 +483,6 @@ class MainWindow(QMainWindow):
             self,
             entry,
             self.output.font(),
-            self.palette.filter.text().strip()
+            query=""
         )
         dlg.exec()

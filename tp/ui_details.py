@@ -103,8 +103,6 @@ class GlyphDetailDialog(QDialog):
         cursor.beginEditBlock()
         cursor.setPosition(0)
 
-        flags = QTextDocument.FindCaseSensitively
-
         import re
         pattern = re.compile(re.escape(q), re.IGNORECASE)
 
