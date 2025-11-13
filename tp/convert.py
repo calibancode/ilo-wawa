@@ -134,29 +134,44 @@ def convert_text(text: str, opts: Options) -> str:
         if not tok:
             continue
 
+        # newlines
         if tok in ("\r\n", "\r", "\n"):
             out.append(tok if opts.preserve_newlines else "")
             continue
 
+        # spaces / tabs
         if tok.isspace():
             if opts.remove_spaces:
                 continue
             out.append(tok)
             continue
 
+        # literal ZWJ / ZWNJ passed through
         if tok in ("\u200D", "\u200C"):
             out.append(tok)
             continue
 
+        # standalone ASCII controls → UCSUR
         if opts.allow_ascii and tok in ASCII_TO_UCSUR:
             out.append(_ch(ASCII_TO_UCSUR[tok]))
             continue
 
+        # ------------------------------------------------------
+        # NEW: for tokens with '+', prefer explicit compound
+        # expansion (word+word → word ZWJ word) over any
+        # monolithic TP_TO_UCSUR mapping (e.g. juniko ligatures)
+        # ------------------------------------------------------
+        if "+" in tok:
+            if _expand_join_compound(tok, opts, out):
+                continue
+
+        # direct word → glyph (primary data + supplementary)
         low = tok.lower()
         if low in TP_TO_UCSUR:
             out.append(chr(TP_TO_UCSUR[low]))
             continue
 
+        # word with variation digits, e.g. toki2, ni33
         m = VAR_TAIL_RE.match(tok)
         if m:
             base = m.group("word")
@@ -165,12 +180,17 @@ def convert_text(text: str, opts: Options) -> str:
             glyph = _tp_to_ucsur(base)
             if glyph == base and not opts.pass_unknown:
                 glyph = ""
+
             out.append(glyph + _emit_variations(variations))
             continue
 
+        # last-resort compound handling (still handles things
+        # like toki-pona by inserting the stack mark + glyphs
+        # when there's no direct mapping)
         if _expand_join_compound(tok, opts, out):
             continue
 
+        # unknown token
         out.append(tok if opts.pass_unknown else "")
 
     return "".join(out)
