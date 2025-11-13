@@ -6,7 +6,7 @@ supports **juniko (extended)**, **nasin-nanpa**, and custom UCSUR fonts.
 
 features:
 
-* realtime sitelen-lasina → UCSUR conversion
+* realtime sitelen-lasina -> UCSUR conversion
 * full glyph palette (primary glyphs + juniko supplementary)
 * semantic search (vector similarity over english sentences)
 * keyword search (word, gloss, long semantic text)
@@ -14,7 +14,7 @@ features:
 * glyph details dialog w/ full semantic descriptions
 * copy as glyphs or as codepoints
 * unicode joiner support (ZWJ/ZWNJ + UCSUR controls)
-* toggleable ASCII→UCSUR mapping
+* toggleable ASCII->UCSUR mapping
 * file open/save
 * customizable font + font size
 
