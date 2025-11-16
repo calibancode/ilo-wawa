@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview.png">
+</p>
+
 ## **󱤎󱦕󱥵 ilo-wawa (sitelen pona education + semantic engine)**
 
 <p align="center">
