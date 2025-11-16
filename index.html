@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>ilo wawa lili</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fafafa" />
+  <meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#000000" />
+
+  <style>
+    :root {
+      color-scheme: light dark;
+
+      --font-ui: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+      --font-glyph: "sitelen seli kiwen juniko", "nasin-nanpa", system-ui, sans-serif;
+
+      --bg: #f6f6f7;
+      --bg-alt: #ffffff;
+      --fg: #0b0b0c;
+      --border: #dcdcdc;
+
+      --accent: #8a7dff;
+      --accent-text: #101010;
+
+      --danger: #ff6b6b;
+
+      --scroll-track: #efefef;
+      --scroll-thumb: #c5c5c5;
+
+      accent-color: var(--accent);
+      scrollbar-color: var(--scroll-thumb) var(--scroll-track);
+    }
+
+    @supports (color: AccentColor) {
+      :root {
+        --accent: AccentColor;
+        --accent-text: AccentColorText;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0b0b0c;
+        --bg-alt: #101010;
+        --fg: #eeeeee;
+        --border: #2b2b2b;
+        --scroll-track: #0a0a0a;
+        --scroll-thumb: #333333;
+      }
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: var(--font-ui);
+      color: var(--fg);
+      background: var(--bg);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      padding: 8px 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      background: var(--bg-alt);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(8px);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 18px;
+      letter-spacing: 0.06em;
+      text-transform: lowercase;
+    }
+
+    header .subtitle {
+      font-size: 12px;
+      opacity: 0.65;
+    }
+
+    #toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+    }
+
+    button,
+    select,
+    input[type="checkbox"],
+    input[type="number"],
+    input[type="file"],
+    .pill {
+      font-family: inherit;
+      font-size: 13px;
+    }
+
+    button {
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--bg-alt);
+      color: var(--fg);
+      padding: 4px 10px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: background 0.12s ease, border-color 0.12s ease;
+    }
+
+    button:hover { background: var(--scroll-track); }
+
+    button.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--accent-text);
+      font-weight: 600;
+    }
+
+    button.primary:hover { filter: brightness(1.08); }
+
+    button.ghost { background: transparent; }
+
+    button.small { padding: 2px 8px; font-size: 12px; }
+
+    label.inline {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+    }
+
+    main {
+      flex: 1;
+      display: flex;
+      min-height: 0;
+    }
+
+    #left-pane, #right-pane { min-height: 0; }
+
+    #left-pane {
+      flex: 2;
+      display: flex;
+      flex-direction: column;
+      border-right: 1px solid var(--border);
+      background: color-mix(in oklab, var(--bg) 80%, transparent);
+      padding: 10px;
+      gap: 10px;
+    }
+
+    #right-pane {
+      flex: 1.6;
+      display: flex;
+      flex-direction: column;
+      background: color-mix(in oklab, var(--bg) 88%, transparent);
+      padding: 10px;
+      gap: 8px;
+    }
+
+    .panel {
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--bg-alt);
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+    }
+
+    .panel.flex { flex: 1 1 auto; }
+
+    .panel-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 6px;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      opacity: 0.7;
+    }
+
+    .panel-header .title {
+      display: flex;
+      align-items: center; gap: 6px;
+    }
+
+    .panel-header .title .dot {
+      width: 6px; height: 6px;
+      border-radius: 999px;
+      background: var(--accent);
+    }
+
+    textarea {
+      width: 100%;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--bg-alt);
+      color: var(--fg);
+      padding: 8px;
+      font-family: var(--font-glyph), "JetBrains Mono", monospace;
+      font-size: 24px;
+      flex: 1 1 auto;
+      min-height: 0;
+      resize: vertical;
+      max-height: 70vh;
+    }
+
+    #output {
+      font-family: var(--font-glyph);
+      font-size: 32px;
+      line-height: 1.25;
+      white-space: pre-wrap;
+    }
+
+    #unknown-list {
+      font-size: 11px;
+      opacity: 0.8;
+      max-height: 70px;
+      overflow-y: auto;
+    }
+
+    #unknown-list .badge {
+      display: inline-block;
+      margin: 2px 4px 2px 0;
+      padding: 2px 6px;
+      border-radius: 999px;
+      border: 1px dashed var(--danger);
+      color: var(--danger);
+    }
+
+    #status-bar {
+      font-size: 11px;
+      opacity: 0.7;
+      padding: 3px 2px 0;
+    }
+
+    #palette-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      margin-bottom: 6px;
+    }
+
+    #palette-filter {
+      flex: 1; min-width: 0;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      padding: 4px 8px;
+      background: var(--bg-alt);
+      color: var(--fg);
+    }
+
+    #palette-mode {
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--bg-alt);
+      color: var(--fg);
+      padding: 3px 6px;
+      font-size: 12px;
+    }
+
+    #palette {
+      flex: 1; min-height: 0;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    #palette-grid {
+      flex: 1;
+      min-height: 0;
+      overflow-y: auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
+      gap: 6px;
+      padding: 4px;
+    }
+
+    .glyph-btn {
+      aspect-ratio: 1 / 1;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--bg-alt);
+      color: var(--fg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-glyph);
+      font-size: clamp(20px, 4vw, 36px);
+      padding: 0;
+      transition: background 0.08s, border-color 0.08s, transform 0.06s;
+    }
+
+    .glyph-btn:hover {
+      background: var(--scroll-track);
+      transform: translateY(-1px);
+    }
+
+    .glyph-btn:active { transform: translateY(0); }
+
+    #palette-footer {
+      font-size: 11px;
+      opacity: 0.7;
+      padding-top: 2px;
+    }
+
+    dialog {
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: var(--bg-alt);
+      color: var(--fg);
+      max-width: 720px;
+      width: 90vw;
+      max-height: 80vh;
+      padding: 12px 14px;
+    }
+
+    dialog::backdrop { background: rgba(0,0,0,0.6); }
+
+    #details-header { display: flex; gap: 12px; margin-bottom: 8px; }
+
+    #details-glyph {
+      min-width: 90px;
+      font-size: 64px;
+      text-align: center;
+      font-family: var(--font-glyph);
+    }
+
+    #details-meta { flex: 1; font-size: 14px; }
+
+    #details-meta h2 { margin: 0 0 4px; font-size: 16px; }
+
+    #details-gloss { margin: 0 0 4px; font-size: 13px; opacity: 0.87; }
+
+    #details-body {
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--bg);
+      padding: 8px;
+      font-size: 13px;
+      max-height: 40vh;
+      overflow-y: auto;
+      white-space: pre-wrap;
+    }
+
+    #details-footer {
+      margin-top: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 11px;
+      opacity: 0.75;
+    }
+
+    a { color: var(--accent); }
+    a:hover { text-decoration: underline; }
+
+    @media (prefers-contrast: more) {
+      button, .glyph-btn, textarea, #palette-grid { border-width: 2px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; transition: none !important; }
+    }
+
+    @media (prefers-reduced-transparency: reduce) {
+      header { backdrop-filter: none; }
+    }
+
+    @media (forced-colors: active) {
+      * { forced-color-adjust: auto; }
+    }
+
+    @media (max-width: 900px) {
+      main { flex-direction: column; }
+      #left-pane { border-right: none; border-bottom: 1px solid var(--border); }
+    }
+  </style>
+</head>
+
+<body spellcheck="false">
+  <header>
+    <div>
+      <h1>ilo wawa lili</h1>
+      <div class="subtitle">sitelen lasina → UCSUR</div>
+    </div>
+
+    <div id="toolbar">
+      <label class="inline">
+        <input type="checkbox" id="opt-auto" checked />
+        auto
+      </label>
+      <button id="btn-convert" class="ghost small">convert</button>
+      <button id="btn-insert"  class="ghost small">insert</button>
+      <button id="btn-font"    class="ghost small">font</button>
+      <button id="btn-file"    class="ghost small">file</button>
+      <button id="btn-options" class="ghost small">options</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="left-pane">
+      <div class="panel flex">
+        <div class="panel-header">
+          <div class="title"><span class="dot"></span><span>input (sitelen lasina)</span></div>
+          <span style="font-size:11px;opacity:0.7;">type toki pona here</span>
+        </div>
+        <textarea id="input" placeholder="toki pona li lon…" spellcheck="false" autocorrect="off" autocapitalize="none" autocomplete="off"></textarea>
+      </div>
+
+      <div class="panel flex">
+        <div class="panel-header">
+          <div class="title"><span class="dot"></span><span>output (ucsur)</span></div>
+          <span id="status-bar">ready</span>
+        </div>
+        <textarea id="output" readonly></textarea>
+      </div>
+
+      <div class="panel" style="flex:0 0 auto;">
+        <div class="panel-header">
+          <div class="title"><span class="dot"></span><span>unknown tokens</span></div>
+          <span style="font-size:11px;opacity:0.7;">from input</span>
+        </div>
+        <div id="unknown-list">none</div>
+      </div>
+    </section>
+
+    <section id="right-pane">
+      <div class="panel" id="palette">
+        <div class="panel-header">
+          <div class="title"><span class="dot"></span><span>glyphs</span></div>
+          <span id="palette-footer">0 shown</span>
+        </div>
+
+        <div id="palette-toolbar">
+          <input id="palette-filter" type="search" placeholder="search: word / gloss / concept…" />
+          <select id="palette-mode">
+            <option value="latin">insert latin</option>
+            <option value="glyph">insert glyph</option>
+          </select>
+        </div>
+
+        <div id="palette-grid"></div>
+      </div>
+    </section>
+  </main>
+
+  <input type="file" id="file-open" accept=".txt,text/plain" style="display:none;" />
+
+  <dialog id="dialog-insert">
+    <h3>insert</h3>
+    <p style="font-size:12px;opacity:0.8;margin-top:0;">quick tokens</p>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;">
+      <button class="small" data-insert="&#x200D;">ZWJ</button>
+      <button class="small" data-insert="&#x200C;">ZWNJ</button>
+      <button class="small" data-insert="-">stack -</button>
+      <button class="small" data-insert="+">scale +</button>
+      <button class="small" data-insert="[">[</button>
+      <button class="small" data-insert="]">]</button>
+      <button class="small" data-insert="=">=</button>
+      <button class="small" data-insert="(">(</button>
+      <button class="small" data-insert=")">)</button>
+      <button class="small" data-insert="_">_</button>
+      <button class="small" data-insert="{">{</button>
+      <button class="small" data-insert="}">}</button>
+    </div>
+    <p style="font-size:12px;opacity:0.8;margin:4px 0 4px;">variations (VAR01–VAR08)</p>
+    <div style="display:flex;flex-wrap:wrap;gap:6px;">
+      <button class="small" data-insert="1">1</button>
+      <button class="small" data-insert="2">2</button>
+      <button class="small" data-insert="3">3</button>
+      <button class="small" data-insert="4">4</button>
+      <button class="small" data-insert="5">5</button>
+      <button class="small" data-insert="6">6</button>
+      <button class="small" data-insert="7">7</button>
+      <button class="small" data-insert="8">8</button>
+    </div>
+    <form method="dialog" style="margin-top:12px;text-align:right;"><button>close</button></form>
+  </dialog>
+
+  <dialog id="dialog-font">
+    <h3>font</h3>
+    <div style="display:flex;flex-direction:column;gap:6px;margin-top:4px;font-size:13px;">
+      <label>family:
+        <select id="font-family">
+          <option value="sitelen seli kiwen juniko">sitelen seli kiwen juniko</option>
+          <option value="nasin-nanpa">nasin-nanpa</option>
+          <option value="custom">custom…</option>
+        </select>
+      </label>
+      <label>custom:
+        <input type="text" id="font-custom" placeholder="font family name…" disabled />
+      </label>
+      <label>size:
+        <input type="number" id="font-size" min="8" max="96" value="32" />
+      </label>
+    </div>
+    <form method="dialog" style="margin-top:12px;text-align:right;"><button>close</button></form>
+  </dialog>
+
+  <dialog id="dialog-file">
+    <h3>file</h3>
+    <div style="display:flex;flex-direction:column;gap:6px;margin-top:4px;">
+      <button class="small" id="file-open-btn">open…</button>
+      <button class="small" id="file-save-btn">save output…</button>
+      <button class="small" id="file-copy-output">copy output</button>
+      <button class="small" id="file-copy-codes">copy codepoints</button>
+      <button class="small" id="file-swap">swap input/output</button>
+      <button class="small" id="file-clear">clear</button>
+    </div>
+    <form method="dialog" style="margin-top:12px;text-align:right;"><button>close</button></form>
+  </dialog>
+
+  <dialog id="dialog-options">
+    <h3>options</h3>
+    <div style="display:flex;flex-direction:column;gap:6px;margin-top:4px;">
+      <label class="inline"><input type="checkbox" id="opt-keep-spaces" /> keep spaces</label>
+      <label class="inline"><input type="checkbox" id="opt-keep-newlines" checked /> keep newlines</label>
+      <label class="inline"><input type="checkbox" id="opt-ascii-map" checked /> ASCII→UCSUR</label>
+      <label class="inline"><input type="checkbox" id="opt-keep-unknown" checked /> keep unknown</label>
+    </div>
+    <form method="dialog" style="margin-top:12px;text-align:right;"><button>close</button></form>
+  </dialog>
+
+  <dialog id="dialog-details">
+    <div id="details-header">
+      <div id="details-glyph">󰀀</div>
+      <div id="details-meta">
+        <h2 id="details-word">word</h2>
+        <p id="details-gloss"></p>
+        <p id="details-link" style="font-size:12px;"></p>
+      </div>
+    </div>
+    <div id="details-body"></div>
+    <div id="details-footer">
+      <span>semantic text © lipamanka — <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank">CC BY-NC-SA 4.0</a></span>
+      <div>
+        <button class="small" id="details-insert-latin">insert latin</button>
+        <button class="small" id="details-insert-glyph">insert glyph</button>
+        <button class="small" id="details-close">close</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="app.js"></script>
+
+  <script>
+    (() => {
+      const mql = matchMedia("(prefers-color-scheme: dark)");
+      const apply = () => {
+        const color = mql.matches ? "#000000" : "#fafafa";
+        let meta = document.querySelector('meta[name="theme-color"][data-dynamic]');
+        if (!meta) {
+          meta = document.createElement("meta");
+          meta.setAttribute("name", "theme-color");
+          meta.setAttribute("data-dynamic", "true");
+          document.head.appendChild(meta);
+        }
+        meta.setAttribute("content", color);
+      };
+      apply();
+      mql.addEventListener?.("change", apply);
+    })();
+  </script>
+</body>
+</html>
