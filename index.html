@@ -15,6 +15,7 @@
 
       --font-ui: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
       --font-glyph: "sitelen seli kiwen juniko", "nasin-nanpa", sans-serif;
+      --font-input: "JetBrains Mono", ui-monospace, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
       --bg: #f6f6f7;
       --bg-alt: #ffffff;
@@ -217,6 +218,13 @@
       min-height: 0;
       resize: vertical;
       max-height: 70vh;
+    }
+
+    #input{
+      font-family: var(--font-input), var(--font-glyph), "JetBrains Mono", monospace;
+      /* stop fonts like nasin-nanpa from substituting latin into pictos */
+      font-variant-ligatures: none;
+      font-feature-settings: "liga" 0, "clig" 0, "calt" 0, "dlig" 0, "hlig" 0;
     }
 
     #output {

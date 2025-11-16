@@ -536,30 +536,25 @@ function updateStatusFromOutput() {
 // font + palette sync
 // -------------------------------------------------------------------
 
-function applyFontFromDialog() {
+function applyFontFromDialog(){
   const famSel = $("font-family");
   const custom = $("font-custom");
   const sizeInput = $("font-size");
   const output = $("output");
+  if(!famSel || !sizeInput || !output) return;
 
-  if (!famSel || !sizeInput || !output) return;
+  let fam = famSel.value === "custom"
+    ? (custom.disabled = false, custom.value.trim() || "sitelen seli kiwen juniko")
+    : (custom.disabled = true, famSel.value);
 
-  let fam;
-  if (famSel.value === "custom") {
-    custom.disabled = false;
-    fam = custom.value.trim() || "sitelen seli kiwen juniko";
-  } else {
-    custom.disabled = true;
-    fam = famSel.value;
-  }
+  const size = parseInt(sizeInput.value,10) || 32;
 
-  const size = parseInt(sizeInput.value, 10) || 32;
   output.style.fontFamily = fam;
   output.style.fontSize = size + "px";
 
+  // key line: drive palette/output via the css var
   document.documentElement.style.setProperty("--font-glyph", fam);
 
-  // palette uses same font family
   rebuildPalette();
 }
 
