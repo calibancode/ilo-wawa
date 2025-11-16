@@ -49,6 +49,9 @@ recommended to use a virtual environment.
 **code** (all .py files):
 GPLv3
 
+**favicon design** (`favicon.ico`)
+by exaccghost
+
 **semantic data** (`tp_semantic_spaces.json`):
 © lipamanka — CC BY-NC-SA 4.0
 
