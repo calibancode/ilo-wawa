@@ -288,7 +288,7 @@
       overflow: hidden;
       display: flex;
       flex-direction: column;
-      gap: 4px;
+      gap: 2px;
     }
 
     #palette-grid {
@@ -299,6 +299,12 @@
       grid-template-columns: repeat(auto-fit, minmax(64px, 1fr));
       gap: 6px;
       padding: 4px;
+    }
+
+    .palette-hint {
+      font-size: 11px;
+      opacity: 0.5;
+      margin: 0 4px 4px;
     }
 
     .glyph-btn {
@@ -475,6 +481,10 @@
             <option value="latin">insert latin</option>
             <option value="glyph">insert glyph</option>
           </select>
+        </div>
+
+        <div id="palette-hint" class="palette-hint">
+          tip: right-click a glyph for details · shift-click to join with +
         </div>
 
         <div id="palette-grid"></div>
