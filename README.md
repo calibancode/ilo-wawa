@@ -9,6 +9,8 @@
 
 supports **juniko (extended)**, **nasin-nanpa**, and custom UCSUR fonts.
 
+try **ilo-wawa lili** (for web/no semantic search) here: [ilo-wawa lili](https://calibancode.github.io/ilo-wawa/)
+
 features:
 
 * realtime sitelen-lasina -> UCSUR conversion
@@ -39,6 +41,8 @@ recommended to use a virtual environment.
 > this includes the venv, spaCy model, and cached semantic-vector data.
 >
 > too much power? swap the model out for `en_core_web_md` in [ui_palette.py](tp/ui_palette.py): `python -m spacy download en_core_web_md`
+>
+> alternatively, try out [ilo-wawa lili](https://calibancode.github.io/ilo-wawa/) for a browser-only experience without semantic search
 
 ## licensing
 
@@ -49,6 +53,12 @@ GPLv3
 © lipamanka — CC BY-NC-SA 4.0
 
 **Tatoeba translation corpus** (`tatoeba_tp.tsv`):
+MIT license
+
+**sitelen seli kiwen juniko** (`fonts/juniko.*`):
+SIL Open Font license
+
+**nasin-nanpa** (`fonts/nasin-nanpa.*`):
 MIT license
 
 these licenses apply to their respective components only.

@@ -557,6 +557,8 @@ function applyFontFromDialog() {
   output.style.fontFamily = fam;
   output.style.fontSize = size + "px";
 
+  document.documentElement.style.setProperty("--font-glyph", fam);
+
   // palette uses same font family
   rebuildPalette();
 }
