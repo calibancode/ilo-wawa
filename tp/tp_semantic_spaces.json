@@ -2,655 +2,655 @@
   {
     "word": "a",
     "codepoint": "U+F1900",
-    "definition": "interjection: so, oh, ah",
+    "definition": "(interjection) ah, oh, ha, eh, um, oy; (particle) [placed after something for emphasis or emotion]",
     "semantic_space": null
   },
   {
     "word": "o",
     "codepoint": "U+F1944",
-    "definition": "particle: should, must, please",
+    "definition": "(particle) [marks the end of a vocative], [marks the start of an imperative], should",
     "semantic_space": null
   },
   {
     "word": "n",
     "codepoint": "U+F1986",
-    "definition": "interjection: hmm, uhm",
+    "definition": "(interjection) hm, uh, mm, er, umm, [indicate thinking or pause]",
     "semantic_space": null
   },
   {
     "word": "kin",
     "codepoint": "U+F1979",
-    "definition": "adjective: too, even",
+    "definition": "(particle) [after phrase or at sentence start] too, also, as well, additionally",
     "semantic_space": "kin is in almost all usage close to \"also.\" kin is almost always used as a modifier. Instead of modifying the semantic space of the word it follows, it clarifies the relationship between that word and other ideas that could occupy the same position in the sentence. So if it modifies a subject, it means there are other things that do the same action. If it modifies a verb, it means there are other actions done by the same thing. If it modifies an object, it means that there are other things the action is done to.\n\nMany people also use \"kin\" at the end (or, less commonly, the beginning) to modify the whole thing, similar to the English word \"also.\" kin generally lacks a noun or transitive meaning for most speakers. If it is used in these positions, it may be similar to \"alsoness\" and \"to make something also.\""
   },
   {
     "word": "ni",
     "codepoint": "U+F1941",
-    "definition": "adjective/noun: this, these",
+    "definition": "this, that, these, those",
     "semantic_space": "ni is similar to \"this\" and \"that\" and \"yonder\" in english. it is used in two different contexts. The easiest way to use ni is to point at a physical object. This could be demonstrated with a finger, a gesture of the head, a glance, or even a drawn arrow. In those contexts, the semantic space of \"ni\" is that thing you're pointing at. You can also use ni as a modifier to be more specific. Are you pointing at a specific box? You can say \"poki ni.\" are you pointing at a specific location? \"ma ni\" works just as well as \"ni.\" What about the current situation? \"tenpo ni\" is perfect for this!\n\nextended into the metaphorical, ni can also be used to point at things you or others have said. It always stands in for at least one clause (a clause is any phrase with a verb in it). Most often you'll see it standing in for a previous or upcoming sentence.\n\nni can also be used as a modifier to elaborate on a word in a sentence. If your sentences are getting too long, ni is among the easiest way to break it up. you can turn \"mi wile e soweli pi linja pi suwi mute\" into \"mi wile e soweli ni: linja ona li suwi mute.\" Note how \"ona\" in the next sentence stands in for \"soweli ni.\" If you want to learn more about this, look into _anaphora_ and _deixis._\n\ntoki pona lacks proximity distinctions, unlike english. In english, the difference between \"this\" and \"that\" and \"yonder\" is how close the object is to the speaker and listener. toki pona's \"ni\" can fill the meaning of any of these. It is more general, but you can usually tell what it's talking about due to context. If you're worried that people might not be able to tell where something is, you can say how close it is by using \"poka\" and \"weka,\" among other tools."
   },
   {
     "word": "nasin",
     "codepoint": "U+F193F",
-    "definition": "noun: road, way",
+    "definition": "method, doctrine, tradition; path, road, way",
     "semantic_space": "nasin ties together method and path. Physically, a nasin is a path or direction one follows, a road you can drive along, any way to reach a location, or perhaps even to wander. metaphysically, nasin refers to a way to live your life, a way to make something, or any other method. just as easily as main street can be a nasin, so can communism or the pomodoro technique or setting an alarm or islam. It doesn't need a specific destination, but there's usually some purpose to it."
   },
   {
     "word": "taso",
     "codepoint": "U+F1968",
-    "definition": "particle: but; adverb/adjective: only, just",
+    "definition": "only, exclusively; (particle) [marks a sentence as qualifying or contradictory], but, however",
     "semantic_space": "taso doesn't actually change the semantic space of a word it modifies. instead, it trims away the possibility of other things filling the role of that object in a sentence. taso says that only the word it modifies does whatever it does. it's almost the inverse of ala in that instead of canceling out the semantic space of everything before it that it modifies, it cancels out everything else. taso is also used as a conjunction at the beginning of a sentence, meaning something similar to \"but\" in english."
   },
   {
     "word": "wan",
     "codepoint": "U+F1973",
-    "definition": "numeral: one; adjective: united",
+    "definition": "(number) one; singular; combine, join, mix, fuse",
     "semantic_space": "It is best to think about wan as first and foremost some type of union. other objects are coming together into one whole. That kind of motion is core to the word \"wan.\" the number meaning is secondary. wan is used frequently to mean combine, marry, mix, overlap, etc. using wan as a modifier can indeed mean that there is only one of something, but it's always good to think about it as a single unified whole."
   },
   {
     "word": "tu",
     "codepoint": "U+F196E",
-    "definition": "numeral: two, both",
+    "definition": "(number) two; separate, divide, split",
     "semantic_space": "tu is, at its core, an act of separation. in toki pona, if there are two of something, one is framing them as separate. you don't need to modify a word with tu in order for there to be two of it, so using tu is saying something: I am separating these two things. \"kili tu\" can evoke an importance between two heads of lettuce. tu is used frequently as a verb to mean \"cut\" or \"divide.\" it can be used for cutting something into more than two pieces because tu doesn't specify a specific amount of times. like \"mi tu e kili\" could describe four separate cuts, which could be up to 16 pieces! tu can also be metaphysical, describing divorce or any type of distance between people or objects with enough context. some other good examples of tu are splitting up a class into two groups or drawing the boundaries between two subparts of a large piece of land, potentially in a colonial context."
   },
   {
     "word": "mute",
     "codepoint": "U+F193C",
-    "definition": "adjective: many; adverb: very, a lot",
+    "definition": "many, several, very; quantity; (number) twenty",
     "semantic_space": "there's an old running joke that I take with me everywhere: toki ponists can't tell apart numbers above two. Whenever one of my professors asks a question about \"how many\" of something there are, I always say \"like three,\" whether that be tubes of paint or languages in the world or measures in a Bach chorale.\n\nmute doesn't specify a huge or small number. a few, several, a lot, and a ton are all mute. Usually in context, it's easy to tell these amounts apart. mute as a noun means \"amount\" and as a verb it can mean either \"multiply\" or \"divide.\" If I cut a kili in pieces, now I have many kili, and if I cast a spell to multiply a kili into multiple kili, I have many kili, so either way it doesn't matter. Unless it does matter, in which case, ask yourself: why does it matter? The answer to that question will guide you on disambiguating efficiently. mute is used as a general intensifier too when modifying some sort of quality or another modifier."
   },
   {
     "word": "nanpa",
     "codepoint": "U+F193D",
-    "definition": "particle: ordinal '-th'; noun: number; transitive verb: count",
+    "definition": "number; (particle) [ordinal number], -th",
     "semantic_space": "nanpa refers to numbers. Some examples of numbers could be phone numbers, HP in a video game, heart rate, or blood sugar. nanpa can also refer to things related to computers, because most things computers do are really lots of little numbers. Some people like to use nanpa for math in general, but everyone I know who's into math doesn't like considering all math as numbers. Some math is numbers, and that math can be nanpa, but other math isn't. It's your decision where you stand on that."
   },
   {
     "word": "en",
     "codepoint": "U+F190A",
-    "definition": "en ptcl and (between subjects)",
+    "definition": "(particle) [separates multiple subjects]",
     "semantic_space": null
   },
   {
     "word": "pi",
     "codepoint": "U+F194D",
-    "definition": "particle: introduces second noun group that describes previous noun group",
+    "definition": "(particle) [group the following words into one modifier for the previous word]",
     "semantic_space": null
   },
   {
     "word": "ken",
     "codepoint": "U+F1918",
-    "definition": "verb: can, be able; pre-verb: able to; adjective: capable; noun: possibility; adverb: maybe",
+    "definition": "can, may, ability, permission; possibility, maybe; allow, enable; (preverb) to be able to",
     "semantic_space": "ken is all about abilities. These could be inherent abilities, like the ability to fly, walk, or swim. These could also be external, like permission to use the bathroom. If I can blow bubbles with bubble gum because I'm not around anyone who I don't want to annoy, that ability is a ken. Unlike some languages, toki pona has a single word that contains all abilities. ken can also refer to a probability or a possibility. The throughline here is almost saying that an event is able to occur, but that doesn't mean it necessarily will or won't. These ideas of possibility and ability are two sides of the same coin."
   },
   {
     "word": "ala",
     "codepoint": "U+F1902",
-    "definition": "adverb/adjective: not, no",
+    "definition": "not, nothing, no; (particle) [negates a word or phrase]; (particle) [forms a yes-no question]; (number) zero",
     "semantic_space": "the semantic space of ala contains nothing. But don't be fooled, it isn't void of information. \"ala li lukin e kili\" can be \"nobody's looking at the fruit.\" \"jan li moku e ala\" can mean \"the person ate nothing.\" as a modifier, it actually reverses the semantic space of whatever words come before it, which no other content word does. \"soweli li alasa ala e kili\" can mean \"the monkey doesn't forage for fruit.\" An ijo ala is never a type of ijo. as a verb, ala can mean \"erase\" or \"delete.\""
   },
   {
     "word": "utala",
     "codepoint": "U+F1971",
-    "definition": "transitive verb: attack; adjective: violent; noun: battle",
+    "definition": "fight, compete, battle; competition, challenge; struggle, strive",
     "semantic_space": "The semantic space of utala contains conflicts, contests, and battles. When utala is used, it’s talking about some sort of struggle or competition between two or more parties, or something being framed that way. So it could be a battle between two rival armies, but it could also be a battle between me and myself if I’m framing it that way. utala is often targeted, closer to “attack” than “battle.” Anything can be an utala if it is being framed as a struggle or attack of some sort that involves two parties. Playing a musical instrument could be an utala for a beginner player. Taking a test is a very fun thing to call an utala, because the test-taker is fighting the test."
   },
   {
     "word": "ante",
     "codepoint": "U+F1906",
-    "definition": "adjective: other, different",
+    "definition": "different, altered; modify, change; other; difference",
     "semantic_space": "ante describes a different thing. there are loads of things in the world, and every thing has similarities and differences to other things. In a specific context, if one wishes to frame the differences between objects, ante is incredibly useful. It can refer to the different object itself, qualities of difference, or the concept of change itself. It can also be used as a verb to mean \"alter\" or \"change.\""
   },
   {
     "word": "weka",
     "codepoint": "U+F1976",
-    "definition": "noun: removal, absence; adverb: away; adjective: gone",
+    "definition": "absent, away, distant; remove, get rid of",
     "semantic_space": "weka describes distance. It is similar to other location words in that it can describe a place, but instead of describing a specific relation to proximity, it describes the lack thereof. Hence, weka describes a place that is not nearby. This could be outside a house or simply outside of reality. It can describe the act of disappearing or vanishing. Transitively, it can mean the act of removal or stealing. weka can also be more passive as an action, such as ignoring, just as easily as it can be an active action like getting rid of something."
   },
   {
     "word": "kipisi",
     "codepoint": "U+F197B",
-    "definition": "transitive verb: cut; noun: cutting, part, piece",
+    "definition": "split, cut, slice; piece, part; sharp, pointy",
     "semantic_space": null
   },
   {
     "word": "lete",
     "codepoint": "U+F1926",
-    "definition": "adjective: cold",
+    "definition": "cold, cool, frozen; freeze, chill; raw, uncooked",
     "semantic_space": "lete is the quality of coldness. If anything is cold, it is lete. lete is also occasionally used to describe raw food or unprocessed ore."
   },
   {
     "word": "seli",
     "codepoint": "U+F1957",
-    "definition": "adjective: hot",
+    "definition": "hot, warm; heat, fire, flame; burn",
     "semantic_space": "seli is heat. If something's hot or giving off heat, it's seli. the heat itself is also seli. this word can also be used to talk about spicy food through metaphor because spicy food literally makes your mouth feel warmer, but be careful not to calque english by explaining that if you use seli like that. Household appliances used to heat food can be seli, like a stovetop. seli can be used as a verb to mean \"cook,\" if in english you see cooking as always some sort of application of heat. Chopping up vegetables to put in a raw salad isn't a good example of seli."
   },
   {
     "word": "suwi",
     "codepoint": "U+F1966",
-    "definition": "adjective: cute, soft",
+    "definition": "sweet, fragrant; cute, adorable",
     "semantic_space": "suwi describes pleasant aspects of senses. If something is pleasant to the mouth, i.e. it is sweet, that is suwi. If something is pleasant to the eye, i.e. cute, that is suwi as well. The scent of apples might be suwi as well. A soft or fuzzy texture can be suwi. A pleasant sound can be described as suwi. suwi can also describe other pleasant things, such as actions or people. Like if someone bakes you a pie, not only is the pie usually suwi, but so is the act of making it. Note that suwi isn't used for savory pleasant flavors much, usually just sweet ones."
   },
   {
     "word": "monsuta",
     "codepoint": "U+F197D",
-    "definition": "adjective: afraid, monstrous, fearful; noun: monster",
+    "definition": "fear, nervousness, dread; scary, frightening; scary thing e.g. predator, threat, danger",
     "semantic_space": null
   },
   {
     "word": "kama",
     "codepoint": "U+F1916",
-    "definition": "intransitive verb: come, arrive; pre-verb: become; transitive verb: summon; noun: arrival",
+    "definition": "arriving, coming, future, summoned; (preverb) to become, manage to, succeed in",
     "semantic_space": "kama is a strong metaphor in toki pona. To arrive at a location and to arrive at a state of being are the same concept in toki pona. This means that kama can refer to arriving home to eat dinner, arriving at school, or the moment you become an akesi because an evil prescriptivist wizard cursed you for using too many nimisin. This of course describes kama's use as a preverb, in which its meaning is close to \"become.\" This can imply the start, body, or end of this process. It's easy to describe the reverse of whatever process kama preverb is representing by negating the word that follows it, i.e. \"kama X ala.\"\n\nkama is also used to talk about the future a lot. The future is things to come, but the past is things that already came, so this is less of a tense marking word. But often you'll see people modifying words with it to make them future-y, like \"soweli kama\" for \"the animal that will arrive\" or \"tenpo kama\" for \"the time that is to come.\"\n\nkama used transitively is best translated as \"summon,\" \"conjure,\" or \"bring about.\" It's the closest thing toki pona has to a deticated causative. Often something like \"I make you build a house\" is translated as \"mi kama e ni: sina pali e tomo.\" But for causatives, I recommend thinking about the actual act of making someone do something. Are you telling them to do something, using consequences as a means of motivation? Are you controlling them in some way? \"kama\" is certainly used here for causatives, but sometimes breaking down a causative into an actual action that describes what's going on is really fun and novel."
   },
   {
     "word": "awen",
     "codepoint": "U+F1908",
-    "definition": "adjective: protective; pre-verb: still; intransitive verb: stay, wait; transitive verb: protect",
+    "definition": "stay, remain, wait, pause; protect, keep safe; continue; (preverb) continue to",
     "semantic_space": "awen resists change. awen is the essence of inertia boiled down into one word. if an object is doing something and continues doing that thing, that continuation is awen. if an object is doing _nothing,_ and continues doing nothing, that continuation is also awen. awen is a preverb and changes the meaning from \"does the thing\" to \"continues to do the thing,\" or \"still does the thing.\"\n\nawen is also used by many speakers to mean \"maintain.\" This is very close to the idea of protection, so you'll see awen used for that as well in many situations as a transitive verb, but some ideas of \"protection\" are better described with \"[selo](https://lipamanka.gay/essays/dictionary#selo).\""
   },
   {
     "word": "tawa",
     "codepoint": "U+F1969",
-    "definition": "preposition: to, toward, for; intransitive verb: move, walk; transitive verb: transport; noun: movement",
+    "definition": "motion, e.g. walking, shaking, flight, travel; (preposition) to, for, going to, from the perspective of",
     "semantic_space": "tawa is motion. tawa frequently has a destination, and when used as a preposition, it marks the word after it as this destination. a destination isn't critical to tawa though; speakers will use tawa for vibrating or shaking in place, or wandering. When tawa is used as a preposition, it marks that which the motion approaches. This can be physical, but metaphysically tawa can mark a recipient, beneficiary, point of perspective, etc."
   },
   {
     "word": "waso",
     "codepoint": "U+F1974",
-    "definition": "noun: bird; adjective: winged",
+    "definition": "bird, flying creature, winged animal",
     "semantic_space": "waso are creatures. they almost always have wings, and when they want to move quickly they use those wings to propel them forward. They frequently have feathers. They have two legs that they use to walk on land. waso usually lay eggs and often (but not always) sing. many speakers use waso to refer to things like planes that aren't living creatures, which has been especially common in my experience with toki pona meetups, where the flight itself and the plane are both called waso. This usage is controversial though. waso can be used to refer to birds that don't fly or use their wings to fly, such as ostriches, kiwi birds, or penguins, and doing so shows the way you split up the animal kingdom. there are quite a few speakers (including myself) who don't use waso for these creatures, and that shows the way we split up the animal kingdom too. This semantic space is based off a pilot study I conducted with a sample size of 117. I will publish the results in a paper if enough people bother me."
   },
   {
     "word": "soweli",
     "codepoint": "U+F1962",
-    "definition": "noun: beast, mammal, animal",
+    "definition": "fuzzy creature, land animal, beast",
     "semantic_space": "soweli describes creatures with several distinctive traits. soweli tend to be fluffy. soweli tend to be larger than a plum. Their legs tend to be under them, and they tend to have four of them. When they want to move quickly, they run on their legs, with moments where all legs are off the ground. They are warm to the touch."
   },
   {
     "word": "kijetesantakalu",
     "codepoint": "U+F1980",
-    "definition": "noun: raccoon and related animals",
+    "definition": "raccoon, kinkajou; any procyonid; any musteloid",
     "semantic_space": "kijetesantakalu is a beloved april fool's joke coined by Sonja Lang in 2009. The whole point is to have one word that represents a uselessly specific set of objects. At the time, kijetesantakalu could only refer to procyonids (raccoons and other very similar animals). In 2021, nano pushed for the semantic space to be widened enough to include ferrets, and this push was so successful that nowadays kijetesantakalu is used to describe all musteloids (weasels, otters, minks, red pandas, wolverines, skunks, badgers, etc).\n\nI would like to bring it back to the community's attention here and now that there are plans for kijetesantakalu's semantic space to expand as time progresses. In 2029-2031, kijetesantakalu will begin to refer to any animal in Arctoidea, which includes seals and bears. This is perhaps the only word in any language with a planned semantic drift. We will see how successful it is. It would be really funny.\n\nThis definition was added on April 1st, 2025."
   },
   {
     "word": "pipi",
     "codepoint": "U+F1951",
-    "definition": "noun: bug, insect",
+    "definition": "insect, bug, spider, tiny crawling creature",
     "semantic_space": "pipi tend to be on the smaller side. They can have legs, and their legs will be under them. They usually have six or more legs if they have any at all. When they move quickly, they will usually move in straight lines, whether that be across a surface or through the air. Sometimes, they don't have legs. pipi tend to be squishy inside, and if there's a hard part it will be on the outside. This is similar to the concept of an exoskeleton.\n\npipi Kewapi has at times emphasized insignificance as a big part of pipi. We kill pipi. Perhaps as a group pipi are important, but, and I quote, \"a single pipi is not a loss.\" This means that if one pipi were to die, it wouldn't affect much. I recommend experimenting with what can or can't be a pipi.\n\nNote that pipi don't have to be terrestrial! They can fly or be aquatic. There's significant overlap between pipi and both kala and waso. A butterfly is a waso and a pipi, where a shrimp is both a kala and a pipi."
   },
   {
     "word": "akesi",
     "codepoint": "U+F1901",
-    "definition": "noun: reptile, amphibian",
+    "definition": "reptile, amphibian, scaly creature, crawling creature",
     "semantic_space": "akesi are creatures. they tend to be cold to the touch. When they move quickly, they go back and forth on sprawling legs or slither or squirm back and forth across the ground if they lack legs. They're close to the ground. They usually lay eggs. The contents of this semantic space is based off of a pilot study I conducted in 2023 with sample size 98 about the lexical semantics of akesi."
   },
   {
     "word": "pan",
     "codepoint": "U+F194B",
-    "definition": "noun: grain, wheat, rice, bread",
+    "definition": "grains, starchy foods, baked goods e.g. rice, sorghum, bread, noodles, masa, porridge, injera",
     "semantic_space": "pan is a starchy staple food such as rice, wheat, barley, teff, potato, and corn. pan can also refer to products made from these, such as breads and porridges. more specific examples include injera, fufu, pasta, tteokbokki, tortillas, cakes, congee, cereal. many speakers will use pan to describe corn products like corn flakes but won't use it to describe corn on the cob.\n\nA less common usage of pan refers to legumes as well as grains, as well as their products such as tempeh, natto, and tofu. This is less popular because legumes are usually seen as a \"protein,\" and are less starchy than the above examples. But legumes are indeed still high in starch, so especially when dried, pan can make sense.\n\nother plant-based foods are almost never called pan unless they resemble a food usually made of grains, like a zucchini pancake might still be pan even though it doesn't have any grain in it. foods with a type of pan as their primary ingredient can be called pan as a whole, such as (japanese style) poke, ramen, gyro, or a burrito, even if they have a lot of non-pan components."
   },
   {
     "word": "anu",
     "codepoint": "U+F1907",
-    "definition": "particle: or",
+    "definition": "(particle) [separates multiple possibilities, replacing another particle], or",
     "semantic_space": null
   },
   {
     "word": "lili",
     "codepoint": "U+F1928",
-    "definition": "adjective: small, little, short",
+    "definition": "small, short, young; few; piece, part",
     "semantic_space": "The semantic space of lili contains all qualities of smallness relative to context. The thing that ties all things lili together is their relative size. A tall man might be lili compared to a mountain. A long speech may be lili compared to a novel. lili is a relative word, and therefore is always dependent on context.\n\nThis isn't as common as \"suli ala,\" but lili is sometimes used to mean \"unimportant.\" About half of the time I see this usage, I hear it clarified with \"suli ala\" directly before or after, and the other half of the time, I don't. Definitely pay attention to if you are understood if you want to try using lili like this. You likely will be, but lili is less clearly \"unimportant\" than suli is \"important.\""
   },
   {
     "word": "suli",
     "codepoint": "U+F1963",
-    "definition": "adjective: large, long, deep, important, big",
+    "definition": "big, heavy, large, long, tall, wide; important, relevant",
     "semantic_space": "suli is big, tall, wide, vast, deep, etc. Any physical dimension of largeness can be suli. toki pona doesn't use different words to distinguish different ways of being big. In the metaphysical of toki pona, if something is big that means it is important, so suli can also mean important. suli could mean that something is made up of a lot of stuff, often implying that it's complex. suli can talk about necessity. If something is crucial, it is suli. Combining suli with perspectives can show what people value, allowing us to construct a map of what matters more or less to others. seme li suli tawa seme?"
   },
   {
     "word": "li",
     "codepoint": "U+F1927",
-    "definition": "particle: separates subject from predicate; introduces new verb for same subject",
+    "definition": "(particle) [marks the start of an indicative verb (statement)]",
     "semantic_space": null
   },
   {
     "word": "e",
     "codepoint": "U+F1909",
-    "definition": "particle: marks direct object; also 'and' for multiple objects; causes action",
+    "definition": "(particle) [marks the start of a direct object]",
     "semantic_space": null
   },
   {
     "word": "la",
     "codepoint": "U+F1921",
-    "definition": "particle: between context and sentence; means 'as', 'when', 'then'",
+    "definition": "(particle) [mark the previous statement as context to the following statement]",
     "semantic_space": null
   },
   {
     "word": "kute",
     "codepoint": "U+F1920",
-    "definition": "transitive verb: hear, obey",
+    "definition": "ear, hearing organ; hear, listen, pay attention to, obey",
     "semantic_space": "kute describes both passive hearing and active listening. It can also refer to things that hear, such as ears, or microphones. Tools like microphones may be more likely to be understood as \"ilo\" though. Many people use kute as a modifier in these contexts, because a microphone is primarily a tool to them. Deaf people, even ones without cochlear implants, frequently listen to music even though they don't use their ears to hear it. The vibrations can be plesant, and at some large concerts there are areas where deaf and hard of hearing people can touch balloons and other objects that carry vibrations well so they can enjoy the music as well. This is all kute.\n\n\"kute\" is occasionally used to mean \"obey,\" but in these contexts, it has been my experience that people interpret it as simply \"hear\" or \"listen.\" This usage has been on a steep decline for a while now, but you may still see it in older texts, or even in conversation."
   },
   {
     "word": "seme",
     "codepoint": "U+F1959",
-    "definition": "particle: what, which",
+    "definition": "(particle) [indicate a question by marking missing info in a sentence]; what, which, who",
     "semantic_space": "the semantic space of seme is unknown. That's the whole point! When one uses seme, it's unclear what it means. It is an invitation for an answer. this is very similar to wh- words in english like \"what\" and \"which\" and \"who.\" unlike english, toki pona only has the one. If you want to specify what your query is about, you can modify a different word with seme. \"kasi seme\" can mean \"which plant,\" for example. You can also modify seme with another word for a broader meaning. \"kasi seme\" can only be a type of kasi, but \"seme kasi\" can be anything related to any plant. Often, seme is a direct prompt to the listener, but it's frequently used as a prompt to the self or an expression of a lack of knowledge. speakers sometimes ask a question with seme only to answer it. Perhaps this is a me thing because I am jewish and that is how many jews tend to talk."
   },
   {
     "word": "kon",
     "codepoint": "U+F191D",
-    "definition": "noun: air, wind, spirit",
+    "definition": "air, breath, wind; essence, spirit, soul, ghost; unseen agent",
     "semantic_space": "kon covers a very wide range of ideas that are loosely related to each other through the concept of being known, but not seen. You'll often hear people use the phrase \"unseen agent\" to describe kon. I've divided this semantic space into three parts: spirits, meaning, and gas. toki pona connects these concepts by giving them all the same word, but this throughline is only a metaphor. In my opinion, these are three distinct senses, not one meaning.\n\nIf you'll indulge my spiritual worldview for a bit, a spirit could be some sort of supernatural being that we don't normally see. There are countless traditions around the globe that interpret divinity through unseen agents. For example, in christianity, the concept of the holy ghost could very easily be a type of kon. Dybbukim in Jewish folklore can easily be kon because they're not things people commonly see. If a spirit shows itself and becomes seen, using kon still works great to communicate that it _frequently_ is an unseen agent. The idea of a spirit can be extended to the part of humans or beings, depending on how a speaker considers the idea of a soul. Some people think that everything has a soul, while others think that only humans have souls. kon works very well for all of these souls, framing them as the unseen part of things. In fact, a minority of speakers goes as far to call aspects of identity like gender types of kon. The broad idea behind this category is that kon can be used for, specifically, an unseen _entity._\n\n\"Meaning\" is a broad category. The most common usage of kon for meaning is semantic meaning, i.e. the meaning of words in language. Every semantic space entry in this dictionary could be described as an instance of \"kon.\" If a speaker didn't know what another speaker meant even though they heard all the words, they could say that they didn't understand the \"kon.\" Less often you'll see kon used for more abstract ideas of meaning, such as the meaning of a piece of art. This category is about unseen _ideas_ or parts of _thought._\n\nFinally, gas. air is a very prototypical example of kon, but air is composed of a very specific set of gaseous matter. Even if a gas is visible, like steam or smoke, it's still squarely part of kon's semantic space. The entirety of Jupiter can be kon. Clouds can be kon. Hell, the sun can even be kon if you're looking at what composes it and framing it from that perspective instead of framing it as a producer of light."
   },
   {
     "word": "telo",
     "codepoint": "U+F196A",
-    "definition": "noun: water, liquid, beverage",
+    "definition": "liquids e.g. water, gasoline, soda, lava, soup, oil, ink",
     "semantic_space": "telo can be liquids and other things that don’t hold a shape. Water, milk, and vinegar are telo. telo can be more viscous. Oils are telo. telo can be used less literally, to describe things that aren’t physical objects. The changing aspect of a way of speaking toki pona that doesn’t stay the same can be telo. If something changes form and doesn’t hold its shape, it fits within telo’s semantic space."
   },
   {
     "word": "linja",
     "codepoint": "U+F1929",
-    "definition": "noun: rope, hair, stalk (of plant)",
+    "definition": "long, flexible thing, e.g. rope, yarn, hair, fur, line, strand",
     "semantic_space": "If it's long an you can tie it into a knot, it's linja! linja implies flexibility. By calling something linja, you are framing it as something that could be bent significantly, even if it can't. Let's say I call a metal bar a linja. I'm implying to me that I can bend it easily, that to me it is flimsy. But most of the time, linja are things like string or cooked spaghetti. Dried spaghetti would not be a linja because it's brittle. If I draw a line, perhaps it can be linja, because even though it is drawn and cannot be moved around on the page, it might be representing something that could."
   },
   {
     "word": "sewi",
     "codepoint": "U+F195A",
-    "definition": "noun: sky, god; adjective: divine, up",
+    "definition": "up, top, above, highest part; divine, sacred, supernatural; awesome, inspiring, excelling",
     "semantic_space": "sewi embodies a very powerful conceptual metaphor that exists within toki pona. In toki pona, upwards and high things and divinity are connected. These are two separate ideas that sewi connects by referring to both of them. Things that are religious or sacred can be sewi. For example, a religion could be \"nasin sewi,\" religious art can be \"sitelen sewi\", and a god, practitioner, or religious wisdom holder can all be \"jan sewi.\" sewi on its own can easily refer to that which is divine or worshipped. But sewi very simply talks about the space above something. \"sewi kiwen\" can mean \"the space above the rock\" or \"the top of the rock.\" Keep in mind that all of these examples can work in the other sense of sewi. \"nasin sewi\" can mean an upwards direction, \"sitelen sewi\" can be the top painting of two paintings, and \"jan sewi\" can be someone who just climbed a big mountain. And of course, \"sewi kiwen\" could be the divinity of a rock."
   },
   {
     "word": "mi",
     "codepoint": "U+F1934",
-    "definition": "noun: I, me, we; adjective: my, our",
+    "definition": "(pronoun) I, me, we, us",
     "semantic_space": "mi talks about the speaker. It can also refer to groups that include the speaker. Similarly to sina, when quoting others, it doesn't necessarily refer to the one who is speaking at the moment, and instead refers to the one being quoted. But besides situations like that, mi always includes the speaker."
   },
   {
     "word": "sina",
     "codepoint": "U+F195E",
-    "definition": "noun: you, y'all; adjective: your",
+    "definition": "(pronoun) you, y'all",
     "semantic_space": "sina is the listener, reader, the one who interprets what the speaker says, or any group that contains them. Similarly to mi, when quoting others, it doesn't necessarily refer to the one who is listening at the moment, and instead refers to the one listening from when the quote is from. But besides situations like that, sina always includes the listener. Many people also use sina as a general hypothetical pronoun, similar to \"one\" in english when used as a pronoun. This may be due to Anglophone influence and many speakers completely abstain from this usage, prefering \"jan\" or \"ijo.\" Others use sina when talking to inanimate objects. Perhaps this frames the object as listening. I recommend playing around with this at least a little bit."
   },
   {
     "word": "ona",
     "codepoint": "U+F1946",
-    "definition": "noun: he, she, they, it; adjective: their, his",
+    "definition": "(third-person pronoun) he, she, it, they",
     "semantic_space": "ona is the only third person pronoun in toki pona. unlike ni, ona is seldom used except for to point at objects from previous sentences. toki ponists don't usually use it to talk about things they're pointing at with their fingers. ona has no animacy connotation, just as no toki pona word does (except for _maybe_[jan](https://lipamanka.gay/essays/dictionary/jan)). ona can just as easily refer to a block of wood or a doorknob as it can to a human or animal. It also has no gender connotation, just like every other toki pona word, so it can just as easily mean he or she or they."
   },
   {
     "word": "jo",
     "codepoint": "U+F1913",
-    "definition": "transitive verb: have, hold",
+    "definition": "hold, carry, possess, contain, own",
     "semantic_space": "jo is the act of holding, carrying, possessing, owning, or broadly having. The english word \"have\" tends to be pretty broad, and jo is no different, but the size of its semantic space differs between speakers. Some speakers will only use jo if an object is in someone's hand or they're holding it. Others will use jo for something as abstract as a word having sounds in it or a language having words in it. for some speakers, if I'm borrowing your book, you don't jo it anymore, I do, even if you own it. For other speakers, in that situation both you and I jo the book at the same time in different ways. When you use jo, you're drawing a metaphor between someone's relationship with an object and a world in which they're holding it in their hands. some people like to stretch this metaphor much farther than others."
   },
   {
     "word": "lape",
     "codepoint": "U+F1922",
-    "definition": "intransitive verb/noun: sleep, rest; adjective: asleep",
+    "definition": "sleep, rest, break from an activity or work",
     "semantic_space": "The semantic space of lape contains sleep and rests. More abstractly, lape can mean anything from a short break from walking to a gap year in college, and less abstractly lape can mean a nap or sleeping. Using lape to describe an action often implies that the level of effort or involvement is lower when compared to surrounding activities."
   },
   {
     "word": "sin",
     "codepoint": "U+F195D",
-    "definition": "adjective: new; adverb: again",
+    "definition": "new, fresh, update; repeat, do again",
     "semantic_space": "sin means \"new\" or \"again.\" It's almost always clear from context which of those two sin means. I recommend paying attention to sin's usage in the wild to try to figure out if it's ever ambiguous between new and again. The reason why it isn't is because the difference between those two concepts isn't very far. It doesn't matter if you've done it before. In toki pona, something can be new even if it isn't the first time it's happened.\n\nsin can mean a lot of things, and that range of possibility is given by explaining what something is new _to._ children are new to this world, toki pona learners are new to toki pona communities, a new brand of soda is new to the Free Market Economy which we all Love So Much, etc. These can all be sin!"
   },
   {
     "word": "lon",
     "codepoint": "U+F192C",
-    "definition": "preposition: in, at, on, located; noun: truth; adjective: real",
+    "definition": "present, existing, real, true; (preposition) located at, in, during, in the context of",
     "semantic_space": "For many people, lon is core to the philosophy of toki pona. It's a key example that ties together the physical and metaphysical. lon is existence, lon is truth, lon is reality. lon is not only existing at a place, but also existing during a time, or in a context. lon's usage outside of a preposition mostly derives from this meaning of existing."
   },
   {
     "word": "sama",
     "codepoint": "U+F1956",
-    "definition": "preposition: like, same",
+    "definition": "same, similar, alike; (adjective) peer, fellow, each other; (preposition) similar to, same as",
     "semantic_space": "sama can be all qualities of similarity and sameness. Two siblings are sama because they have a parent in common. two stringed instruments are sama because they both have strings. Two action figures of the same exact character are sama."
   },
   {
     "word": "supa",
     "codepoint": "U+F1965",
-    "definition": "noun: platform, furniture",
+    "definition": "flat horizontal surface, especially to put or rest things on e.g. bed, floor, desk, plate, table, platform, stage",
     "semantic_space": "supa permeate all of our lives. notice all the flat objects around you. you use them every day. you sleep on one, you work on one, you eat at one, you cook at one. one important aspect of supa is that things can rest upon it. here's a good test you can try out to tell if something is supa: if I were to start tilting a supa on its side ever so slowly, it would cease to be supa as soon as things fell off of it. That means that a surface with very high friction (like felt) can continue to be supa for longer than something with very low friction (like a flat sheet of teflon). if you have stuck things to a surface and turn it completely upside down, it can stay a supa."
   },
   {
     "word": "selo",
     "codepoint": "U+F1958",
-    "definition": "noun: surface, boundary, shape, skin",
+    "definition": "outer layer, e.g. skin, peel, shell, bark; outer shape, outer form, boundary",
     "semantic_space": "selo describes the outer layer of an object. It doesn't matter what the object is. For example, skin can be selo, and bark can be selo. This can get extended into the metaphorical. What are outer layers for? Usually, they protect that which is inside. Perhaps an attempt to ignore bigotry could be described as a selo. But in doing so, you're framing it as an outer layer of your mind. selo for \"protect\" has a different vibe when compared with awen's protect meaning. With awen, a protection is an act of maintaining, perhaps from afar with no risk to yourself, but with selo, protection always puts something at risk, be it the skin of an apple, the walls of a castle, or the case of a guitar.\n\nselo don't always have to contain anything important, even though they usually do. Balloons are usually empty (save for air) and they can still be selo. In fact, a vacuum chamber's walls could be selo, even though they literally have nothing inside of the (save for \"dark energy\" or whatever don't @ me I'm not a physicist). As a verb, selo can mean \"to surround fully,\" or \"to become the outer layer of (something).\" Some people use this for hugging, which is very fun."
   },
   {
     "word": "sijelo",
     "codepoint": "U+F195B",
-    "definition": "noun: body, health state",
+    "definition": "body, shape, physical state, torso, substance, form",
     "semantic_space": "sijelo is the substance of something. it's the stuff. we're all made out of physical matter, and sijelo is that matter and the material it's made up of. Many speakers use sijelo as a modifier to mean \"physical.\" For example, \"lon sijelo\" could mean \"irl\" (as opposed to something like \"lon ilo\" to mean \"online.\")"
   },
   {
     "word": "ilo",
     "codepoint": "U+F190E",
-    "definition": "noun: device, tool, instrument",
+    "definition": "tool, implement, machine, device",
     "semantic_space": "The semantic space of ilo contains things that are used towards a goal. It’s easy to say that everything can be used. Likewise if something is being used or can commonly be used, it is easy to call it an ilo. If I am using a hammer to hammer a nail into the wall, that is an ilo. If i am using a psychological method to calm myself down when i’m stressed, that can be an ilo as well. Without much context, ilo can refer to things that are commonly used as tools. With the context of it being used for something, though, anything can be an ilo."
   },
   {
     "word": "pini",
     "codepoint": "U+F1950",
-    "definition": "adjective: past, finished; noun: end; adverb: finally",
+    "definition": "finish, stop, prevent; close, disable, turn off; ended, past; edge, end, conclusion",
     "semantic_space": "pini is the moment something comes to a close. this can be as simple as a door shutting or a light turning off, but it can be more abstract, like a department at a college fizzling out. pini has no connotations of irreversibility, unlike \"pinis\" in its language of origin (tok pisin), which can grammatically specify irreversibility."
   },
   {
     "word": "open",
     "codepoint": "U+F1947",
-    "definition": "verb: open, begin",
+    "definition": "begin, start, open, turn on; beginning",
     "semantic_space": "open describes activation. If I activate a light switch, that can be open. If I open a door, that can be open as well. open often describes something's function being activated, but it can also describe a beginning of an event, like the start of a concert or the start of a year. Perhaps childhood could be open. The throughline here is cause and effect. the act of open is always a cause, but open can also be the event around that activation. This activation usually isn't a type of creation and serves to exist within the function of the activated thing."
   },
   {
     "word": "poki",
     "codepoint": "U+F1953",
-    "definition": "noun: container",
+    "definition": "container e.g. bag, bowl, box, cup, cupboard, drawer, folder",
     "semantic_space": "poki are containers. They're meant to contain things. Bags, boxes, and bins are great examples of poki. Furniture that contains things, such as trash cans, drawers, shelves, and even closets, are a big part of poki. Some poki might be metaphysical rather than physical. All semantic spaces of all toki pona words can be framed as poki, containing possible meanings. You could look at labels through this lens, and people who choose to use a label are placing themselves within the semantic space of said label. This usage of poki is fairly common. To explore poki's semantic space more, click [here.](https://lipamanka.gay/essays/poki)"
   },
   {
     "word": "poka",
     "codepoint": "U+F1952",
-    "definition": "noun: side; preposition: with, near, together",
+    "definition": "hip, side; next to, nearby, vicinity",
     "semantic_space": "poka is at its core is anything, either an object or location, that is nearby or to the side of something else. This could be the space next to someone, or at the side of someone, such as the lefthand side of a walking person. But this can also be part of an object, such as someone's hips or a car door. Extended into the metaphorical space, poka becomes extremely useful for talking about relationships. toki ponists tend to place people and objects they have relationships with in proximity with them, so one might describe a friend as poka and a loose acquaintance as not poka. two things don't have to be physically next to each other in order to be \"lon poka.\" my uncles live in [aotearoa](https://www.cntraveler.com/story/why-referring-to-new-zealand-as-aotearoa-is-a-meaningful-step-for-travelers) and I live in the USA on either Dakota or Lenape land depending on the time of year, but I would still describe our relationship using poka despite the physical displacement."
   },
   {
     "word": "insa",
     "codepoint": "U+F190F",
-    "definition": "noun: inside, organ, innards; adjective: internal",
+    "definition": "inside, center, between, middle, midpoint, internal",
     "semantic_space": "insa talks about things inside of things. Commonly, this is used to describe a location. The location inside of a car is insa. It can also be used to describe objects that are inside of things. Someone's organs are insa. insa doesn't need to be contained completely, it can just mean \"in between.\" A book in the middle of a bookshelf is insa. The space between two city buildings is insa. It can be used more abstractly too. When compared to a head, a mind is insa. In the context of good and bad, insa can be neutral. When compared to hot and cold, insa can be lukewarm. If anything is being framed as inside of something else, it falls under the semantic space of insa."
   },
   {
     "word": "anpa",
     "codepoint": "U+F1905",
-    "definition": "transitive verb: defeat; adjective/adverb: lower, down, subservient",
+    "definition": "bottom, underside; below, beneath; defeated, humble, lowly",
     "semantic_space": "anpa refers to the space (or sometimes object) below something. For example, \"anpa supa\" is the space under a table. \"anpa kasi\" is the space under a plant. anpa can also refer to qualities of defeat and shame, such as beating someone in a game of chess. You can describe the loser as anpa, and you can use anpa as a verb to mean \"beat.\" anpa can also talk about social stratification and hierarchy. A lower class person can be a jan anpa."
   },
   {
     "word": "monsi",
     "codepoint": "U+F1938",
-    "definition": "noun: back",
+    "definition": "back, behind, rear",
     "semantic_space": "The semantic space of monsi contains things that are behind another thing or the back part of a thing. The caboose of a trains is monsi. The space behind a building is monsi. A person's back is monsi. monsi is relative, so its semantic space will always depend on what object it is in relation to."
   },
   {
     "word": "sinpin",
     "codepoint": "U+F195F",
-    "definition": "noun: wall, front",
+    "definition": "vertical surface e.g. wall, board; front of something e.g. face",
     "semantic_space": "sinpin refers to objects that face directions. walls can easily be sinpin, and so can human faces or any of the front part of an animal. the part of a building that faces the road can be sinpin. So can any other walls of the same building, though. By using sinpin to describe a surface, you're drawing attention to the directionality of it. When one rolls a die, perhaps the most crucial sinpin is the one facing up. At an art museum, even if a painting were to be placed on the ground face up, sinpin is still the best word to describe its physicality because the concept of using it as one would use a supa is disrespectful to the artist and the artwork. While sinpin is usually used for vertical surfaces, it is these examples of usage that restrict me from describing it as strictly such. sinpin is in contrast with [supa](https://lipamanka.gay/essays/dictionary#supa).\n\nsinpin also refers to the space that something else faces. \"sinpin tomo\" can mean both \"front surface of the house\" and \"the place in front of the house.\"\n\nsinpin can't be extended into a metaphorical space to talk about time. \"tenpo sinpin\" might mean future or past to people from different cultures, so in order to use it like that you'd need to build it up by explaining the metaphor. For example, if you framed yourself as facing the past and walking backwards, you could even use \"tenpo sinpin\" to talk about the past!"
   },
   {
     "word": "lipu",
     "codepoint": "U+F192A",
-    "definition": "noun: book",
+    "definition": "flat and bendable object, e.g. paper, card, leaf; written text or document, e.g. book, website, clay tablet",
     "semantic_space": "lipu's semantic space is tied together by a piece of flat paper with writing on it. lipu can talk about both the texture and properties of that paper or the information contained on it, often both. For example, a document on a computer, while in no way as flimsy as a paper, is still very much lipu. If you take the writing off of a piece of paper, it's just as much a lipu. Some speakers argue that this is an extended metaphor and by using lipu to describe these files, one is framing the computer as a lipu. For example, in Southeast Asia, language was written on dried palm leaves, which without writing are still lipu. In fact, many speakers use lipu for all leaves, be they large or small, without any implications of writing. Anything flat and flimsy can be a lipu for these speakers. As soon as it gets hard, it's likely to be a supa unless it has writing on it, though. For example, a maya stelae _could_ be lipu, but a rock shaped like one with no writing on it would almost definitely not be."
   },
   {
     "word": "leko",
     "codepoint": "U+F197C",
-    "definition": "noun: square, cube",
+    "definition": "square, cube, block, blocky object e.g. bricks, stairs",
     "semantic_space": "leko is, at its core, squares, or things that behave like squares. I find myself using leko a lot more in highly urban environments. leko tend to tile. I've seen leko used to describe most common polygons, and though squares are definitely most common and prototypical, hexagons in video games and on pavements are also leko, and any tiling pattern is leko too, even if the shapes are convex or unorthodox.\n\nleko is a relatively uncommon word. It's likely the least widespread and used word in this list, so usage you observe may differ from what I describe here."
   },
   {
     "word": "sona",
     "codepoint": "U+F1961",
-    "definition": "noun: knowledge; transitive verb: know; pre-verb: know how to",
+    "definition": "knowledge, information, data; know, be skilled in, be wise about; (preverb) know how to",
     "semantic_space": "The semantic space of sona contains all knowledge. If something is knowable or known, it is sona. For example, the knowledge of time of day can sona. Wisdom can be sona. sona can also be a skill. The knowledge of how to write a book can certainly be sona. Knowing about a person or who they are can be sona. A person's memory can be sona. If I were to describe information on a computer as \"sona,\" I would be framing it as being known by the computer. A warning to english speaking learners: the type of knowledge that sona covers doesn't completely contain the english concept of \"knowing someone.\" For that, it might be a better idea to explain what your relationship with that person is in more detail."
   },
   {
     "word": "sitelen",
     "codepoint": "U+F1960",
-    "definition": "noun: picture, symbol; transitive verb: write, depict",
+    "definition": "image, picture, representation, symbol, mark, writing",
     "semantic_space": "sitelen are depictions, such as images or symbols. A painting or a photograph are both sitelen. It's also common to see sitelen used to describe a symbol in a writing system. The letter Q and the maya glyph for [b'alam (jaguar)](https://commons.wikimedia.org/wiki/File:Balam_1.svg) are both sitelen. Even three dimensional objects can be sitelen, like a scale model of a boat of a model of architecture in a modern art museum. sitelen is usually used for things that were created, but these don't need to be organized. A random scribble is still a sitelen even though it doesn't necessarily represent anything. pure random noise has the potential to be a sitelen too, but doing so will likely frame the noise as having some sort of order to it. perhaps it was chosen? maybe it's being used for something? maybe it's a mistake? explore sitelen!\n\nAsk yourself: is static a type of sitelen? When does randomness become something we can see as made with intent? Must we name something for it to have meaning to us? If nobody looks at a picture, is it still a sitelen?"
   },
   {
     "word": "pakala",
     "codepoint": "U+F1948",
-    "definition": "adjective: broken; transitive verb: damage, harm",
+    "definition": "damaged, broken, botched, harmed, messed up; mistake",
     "semantic_space": "pakala describes the act of destruction. pakala is often not intended, for example a mistake. The thing being destroyed were your expectations. Sometimes, when people's expectations are destroyed, they say \"pakala\" by itself to describe said destruction, similar to the way expletives work in other languages. This isn't something special that pakala does, but pakala is used this way because the situations we swear in are often situations where we've made mistakes, or when something has been destroyed. pakala can also be intentional, such as smash therapy or intentional use of explosions. pakala can also describe harm. If something cut my skin, I might use pakala to describe that. In fact, pakala merges the ideas of harm and destruction. In English, these concepts are given separate words that are used based on the animacy of what they describe."
   },
   {
     "word": "pu",
     "codepoint": "U+F1955",
-    "definition": "intransitive verb/adjective: interacting with *Toki Pona: The Language of Good*",
+    "definition": "interacting with the book *Toki Pona: The Language of Good* by Sonja Lang",
     "semantic_space": "The semantic space of pu contains all interactions with the official toki pona book: _Toki Pona the Language of Good by Sonja Lang._ This could be anything from reading it to using it in a project to folding origami out of its pages to throwing it at your enemies to reanimating it like frankenstein's monster. In order for something to be pu, it must be some sort of interaction with the official toki pona book."
   },
   {
     "word": "ku",
     "codepoint": "U+F1988",
-    "definition": "intransitive verb/adjective: interacting with the Toki Pona Dictionary",
+    "definition": "interacting with the book *Toki Pona Dictionary* (2021) by Sonja Lang",
     "semantic_space": null
   },
   {
     "word": "len",
     "codepoint": "U+F1925",
-    "definition": "noun: clothing, garment, fabric, cloth",
+    "definition": "cloth, clothing, fabric, textile; covered, hidden, secret, private",
     "semantic_space": "The semantic space of len contains both cloth and the act of hiding something. Any fabric or clothing can be len, for example a shirt or a blanket. The pivot between \"cloth\" and \"to hide something\" is similar to covering something with a blanket. This meaning comes from the idea of applying a cloth to something to hide it. Both a hidden bird and a clothed bird could be a \"waso len.\" len can also refer to secrecy or privacy, and other qualities of being hidden."
   },
   {
     "word": "ijo",
     "codepoint": "U+F190C",
-    "definition": "noun: thing, item",
+    "definition": "thing, object, entity, being, matter, phenomenon",
     "semantic_space": "Everything is within the semantic space of ijo. If a thing is a thing, it is an ijo. This could be anything or something. This could be a physical object, an idea, an action, a place, a sentient being, or any other thing. You are in the semantic space of ijo.\n\nSome people refuse to use ijo for sentient things. They claim it has inanimate connotations. I don't see why this would happen unless toki pona speakers assumed it was the same as english \"thing\" or portuguese \"coisa\" etc. In reality, toki pona words don't have the history of dehumanization that words like \"thing\" in english have. In toki pona, humans are as ijo as a dog or a book or a galaxy."
   },
   {
     "word": "tenpo",
     "codepoint": "U+F196B",
-    "definition": "noun: time, period",
+    "definition": "time, event, situation, moment, period, duration",
     "semantic_space": "you'll usually hear people say that tenpo means \"time.\" but what does that mean? what even is the abstract concept of time? this definition isn't very useful, so a different angle I suggest people take is to look at tenpo as either a situation or a duration. tenpo could be that one time I robbed a bank, or all the times I cooked with shmalts. tenpo could be a minute, or an hour, or an eon (1 billion years). tenpo can be the time when the sun shines, or the cycle it takes for the earth to rotate around the sun, or for the earth to rotate such that the sun goes away and comes back. tenpo can be the time when it's dark, the time when it's cold or warm, the time it takes for the moon to go through all its phases, the time it takes for markets to set up and disband a few times a week, the time when we work, the time when we sleep, the time when we travel, or the time when we arrive. tenpo _can_ talk about the abstract concept of time, but usually it is used to talk about specific events, situations, and durations."
   },
   {
     "word": "sike",
     "codepoint": "U+F195C",
-    "definition": "noun: sphere, round thing, circle, wheel",
+    "definition": "circle, sphere, spiral; round thing e.g. ball, wheel; repeating thing e.g. cycle, orbit, loop",
     "semantic_space": "sike represents round objects and cycles. sike can be used to refer to the smoothness of an edge. sike can be used to talk about marbles and flat disks such as cookies. sike can talk about wheels or balls or even gyroscopes. Because sike can also represent cycles, it can be used to describe a repeated action. A for loop (in computer coding) is a sike. \"toki sike\" could be repeating the same thing over and over again. \"utala sike\" could be a never ending cycle of war, or some online discourse that just won't end. Whether it's physical or not, a sike will always loop around and end where it started."
   },
   {
     "word": "moli",
     "codepoint": "U+F1937",
-    "definition": "adjective: dead; transitive verb: kill",
+    "definition": "death, dead, die, dying; kill, murder",
     "semantic_space": "moli means death, but what does death mean? Sometimes, moli describes a kind of destruction that cannot be undone. Death is permanent. But other times, moli can describe harm or destruction that comes to a treasured object. In these situations, there is still usually a sense of permanency. \"ilo mi li moli\" would probably be interpreted as \"my phone is broken,\" or even \"my phone is broken beyond repair,\" but probably not \"my phone is out of battery.\" That doesn't mean that moli inherently means that there is no possible way to undo the destruction. For example, if resurrection was real, I might still use moli for death anyway. Many cultures believe in reincarnation, life after death, or some sort of returning to nature. Perhaps in these frameworks, moli still describes permanence, but it's not inherently negative."
   },
   {
     "word": "ma",
     "codepoint": "U+F1930",
-    "definition": "noun: land",
+    "definition": "earth, land, soil; country, territory, world; outdoors",
     "semantic_space": "ma is a place or location. This can be a physical one, like a country or spot on the ground. It's far more common to see ma used to talk about grounded locations, but it's also used to talk about anything from a tree branch something's on or even an airplane miles or kilometers above the ground. ma can sometimes be the ground itself, like dirt or rocks, or even an entire planet with a hard surface. don't confuse ma with kiwen though, because ma denotes location and ground where kiwen doesn't.\n\nMany people also use ma to refer to the metaphysical, such as a location in a sentence. But a lot of speakers don't use it like this, and there are valid criticisms that this feels Anglophone influence. You will likely be understood if you use ma like this. I use it like this all the time and I have rarely had an issue being understood."
   },
   {
     "word": "mun",
     "codepoint": "U+F193A",
-    "definition": "noun: celestial object, moon, star",
+    "definition": "moon, night sky object, star, celestial body",
     "semantic_space": "across the sky are many objects, some of which move quickly or slowly and some of which seem to be fixed in place. The moon, the stars, the planets, even the sun. All of these objects fit within mun's semantic space, especially the ones that are most obvious at night. If you brought a star down to earth, it would still be mun, so things like mun Kekan San, who is a shining star, are mun as well. If you left earth and visited a mun, it would still be a mun, so mars from the perspective of a rover might still be mun. The big question here is that to that mars rover, is earth mun? and then again, to us, is earth a mun? That's for you to find out."
   },
   {
     "word": "suno",
     "codepoint": "U+F1964",
-    "definition": "noun: sun",
+    "definition": "light, shine, glow, radiance; sun, light source; brightness",
     "semantic_space": "suno is an object that emits light or the light itself. It can be brightness or a shimmer or a sparkle. the sun is a suno, a lamp is a suno, but sunlight and lamplight are also suno. many people use suno by itself to mean a day cycle, framing a day as a type of light. this kind of framing is interesting because it doesn't sit right with all speakers, but it's understandable, so speakers can learn more about how each other see the world this way."
   },
   {
     "word": "toki",
     "codepoint": "U+F196C",
-    "definition": "verb: speak, say, talk, communicate",
+    "definition": "communicate, say, think; conversation, story; language",
     "semantic_space": "The semantic space of toki contains any form or act of communication. This can be communication using the mouth, such as spoken language, or communication using the hands, such as signed languages. This could be communication using a written medium. toki doesn't have to just be for humans. Bee dances are toki. toki doesn't have to be between two parties either. Communication with one's self (such as someone thinking or talking to themselves) is toki. toki can get very abstract. If I can feel the atmospheric pressure change and I can detect that it's probably going to rain later because I'm old, I could say that the sky is toki-ing to me. If I read a sign, the action that sign is doing can be toki."
   },
   {
     "word": "mani",
     "codepoint": "U+F1932",
-    "definition": "noun/adjective: valuable",
+    "definition": "money, currency; thing of value e.g. gold, investment, livestock",
     "semantic_space": "mani describes anything that is used to measure the value of other objects. In most societies nowadays, the best example of mani include paper, coins, and numbers stored in machines. Video games are great examples of places that give us opprotunities to call other things \"mani.\" In some Fallout games, bottlecaps are mani. In Ena: Dream BBQ, chocolate is mani. (It's not lost on me that both of these examples are depicted as small coin sized circles.) But we don't need video games to find examples fall outside the monitary systems toki pona learners may be familiar with. There are still people out there who use livestock to measure the value of other things. Long ago, this method was likely MORE common than using paper and coins. So in these contexts, and these contexts alone, livestock can be a type of \"mani.\" This is the etymology of the sitelen pona glyph, which is meant to resemble an ox.\n\nmani is quite the elusive varmant. On the surface, it seems like it just refers to money. But most dictionaries will list \"livestock\" as another meaning. Why? And when can livestock truely be called \"mani\"? This has led many people in the past, including myself, to describe \"mani\" as \"anything being used in the exchange of goods.\" After speaking with some more toki ponists about this I realized that this isn't the core of mani, and updated this definition a couple of days later."
   },
   {
     "word": "wawa",
     "codepoint": "U+F1975",
-    "definition": "adjective: powerful, strong; noun: power, confidence; adverb: intensely",
+    "definition": "power, energy, strength; confident, intense, forceful; amazing, impressive",
     "semantic_space": "wawa is qualities of power and strength. A very strong person is wawa. The strength required to talk to new people one has never met before is wawa. wawa focuses less on the ability or possibility itself and more on the power and motivation behind it. wawa belongs to things with agency. If something is enabled, it is wawa. For example, if a lightbulb has been turned on, it becomes wawa. wawa is used frequently to refer to energy itself, both in an abstract sense (such as spoons or motivation) and in a physical sense, such as electricity or force. Many people aren't wawa until they drink their morning coffee. The coffee makes them wawa.\n\nAnother great angle of \"wawa\" is the concept of saturation and concentration. For example, a strong drink (as in, one that has a lot of alcohol) is wawa, but as you dilute it with water, it becomes less wawa. Another example is paint. Saturated paint mixed with a neutral shade of paint (like gray, black, or white) will slowly and slowly become less wawa. Depending on how salty water is, one could describe it as wawa, for example if comparing saltwater fish to freshwater fish."
   },
   {
     "word": "kulupu",
     "codepoint": "U+F191F",
-    "definition": "noun: group",
+    "definition": "group, community, society, company, nation, collection, team, crowd",
     "semantic_space": "Any group of other things can be a kulupu. It's commonly used to describe groups of people: communities, clubs, cultures, cliques, charters, committees, collectives, corporations, and perhaps other words that don't start with the letter \"c\" like a baseball team or a pride of lions. kulupu can also be groups of objects or animals, like a bunch of bananas, a basket filled with small clay pots, or a murder of crows. kulupu is often used to describe a plural system/collective (i.e. multiple people in one body). Usually a kulupu will be a group of items that have some sort of shared attribute, and using kulupu to describe a group of anything is emphasizing that they have something in common. These shared qualities can be anything from location to color to desire."
   },
   {
     "word": "mu",
     "codepoint": "U+F1939",
-    "definition": "intransitive verb/interjection/noun: make an animal sound",
+    "definition": "(animal noise or communication, onomatopoeia)",
     "semantic_space": "The semantic space of mu contains noises coming from things being framed as living. A lion's roar is mu. A cough is mu. Humans are animals, but often when they say things, we can understand them, so we might choose to use a different word over mu. But mu is often used to describe languages and vocalizations that are not understood by the speaker. Adjacently, many people describe non-language vocalizations as mu, such as coughs, sneezes, or vocal stims.\n\nBy using mu to describe a noise, you are ascribing some level of livingness to the thing that produced it. Using mu to describe a robot's noise makes the robot feel more like a living thing. This can be taken to any extreme, and it often ends up seeming humorous. For example, the sound of some sizzling bacon could be a mu, which is thought provoking. But the sound of a waterfall can also be mu, which is thought provoking in a completely different way. Ascribing qualities of life and animacy to bacon and waterfalls are very different situations. With bacon, it becomes a joke, where the punchline is that mu is an \"animal noise\" and sizzling is an \"animal noise.\" But with a waterfall, it becomes a deep philosophical musing about what life is.\n\nUsing mu to describe the vocalizations of animals is usually a safe bet, but using it in other circumstances can be very profound."
   },
   {
     "word": "mama",
     "codepoint": "U+F1931",
-    "definition": "noun: parent, caretaker; adjective: parental",
+    "definition": "parent, ancestor; creator, originator; caretaker, sustainer, guardian",
     "semantic_space": "A mama is a parent, ancestor, caretaker, or creator. My great-great-great grandparent can be a mama to me, even if I never even met them. Just the same, an uncle or an aunt or a cousin could all be mama, but if I'm an adult and I'm talking about my baby cousin, I'm probably not going to call them mama. mama is somewhat about hierarchy, but it isn't about power. It's about caretaking. This doesn't always have to do with age. A worker at a nursing home could be a mama. Another fun example of mama is a tree that bears fruit. If all of the seeds are its children, then the tree could be mama! Thinking about mama like this can be fun and allows a lot of freedom in exploring its semantic space."
   },
   {
     "word": "lawa",
     "codepoint": "U+F1924",
-    "definition": "noun: head; adjective: ruling; transitive verb: rule, control",
+    "definition": "head, mind, brain; control, lead, guide; government, leader; rule, law",
     "semantic_space": "The semantic space of lawa contains parts of a whole that control that whole, and the act of controlling itself. A classic example is the head of an animal, and perhaps by extension the heads of other things that just look similar. A tulip's flower could be a \"lawa.\" Additionally, this can be taking a bit more abstractly. Someone who's in charge of a group could be considered the lawa of that group. Commanding troops in battle is a type of lawa. lawa doesn't imply any level of consent, so it could be forceful or gentle. Guiding a swimming student's body into the correct position for good technique could be lawa, but plenty of things that I'm not willing to describe could be lawa as well."
   },
   {
     "word": "jan",
     "codepoint": "U+F1911",
-    "definition": "noun: person, people; adjective: humanlike",
+    "definition": "human being, person, somebody",
     "semantic_space": "usage of jan differs a lot between groups of speakers, but many speakers use it broadly to refer to any sentient creature (or more accurately, \"sapient,\" with _human_ intelligence). But this can break down when you consider what sentience is and where we draw lines between ourselves and nature. This also gets complicated when we take into account nonhuman identities such as radical reclamation of dehumanization, which is awesome. many toki pona speakers specifically choose to not be a type of jan, so jan broadly cannot be applicable to all speakers of language. It's still used frequently to refer to a group of people, some of whom may not be humans, and especially \"somebody,\" i.e. a hypothetical unspecified agent. If someone is not a jan, it's often rude to call them one--just stick with whatever word they've chosen for themselves."
   },
   {
     "word": "meli",
     "codepoint": "U+F1933",
-    "definition": "noun: woman, girl, wife",
+    "definition": "woman, female, feminine person, wife, girlfriend",
     "semantic_space": "The semantic space of mije contains men and masculinity. The semantic space of meli contains women and femininity. These words are as well defined as the concepts they represent, so it's left intentionally broad without specifying further. This means that for beings that can talk to you, they decide if they fit within the semantic space of either of these words.\n\nA common question is \"can mije and meli be used to refer to biological sex?\" The answer is extremely complicated. First, it's worth unpacking the concept of biological sex, which I'm not going to do here. (If you want to learn more about that, research \"intersex.\") That can inform the ethics of using mije and meli to talk about biological sex. As for trans people, they usually identify their bodies with their gender and not their biological sex at birth. That doesn't mean that no trans person has ever said something along the lines of \"my body is mije, but I am meli\" to explain their transness. It's up to the individual to decide how they want to identify. For example, it is incredibly disrespectful to use mije to describe the body or any attribute of someone who does not identify under that word if you haven't cleared it with them first, and even asking them if it's okay is, at the very least, a little weird. (The same goes for meli as well as tonsi.) There are quite a few trans members of the toki pona community, so this matters a lot."
   },
   {
     "word": "mije",
     "codepoint": "U+F1935",
-    "definition": "noun: man, boy, husband",
+    "definition": "man, male, masculine person, husband, boyfriend",
     "semantic_space": "The semantic space of mije contains men and masculinity. The semantic space of meli contains women and femininity. These words are as well defined as the concepts they represent, so it's left intentionally broad without specifying further. This means that for beings that can talk to you, they decide if they fit within the semantic space of either of these words.\n\nA common question is \"can mije and meli be used to refer to biological sex?\" The answer is extremely complicated. First, it's worth unpacking the concept of biological sex, which I'm not going to do here. (If you want to learn more about that, research \"intersex.\") That can inform the ethics of using mije and meli to talk about biological sex. As for trans people, they usually identify their bodies with their gender and not their biological sex at birth. That doesn't mean that no trans person has ever said something along the lines of \"my body is mije, but I am meli\" to explain their transness. It's up to the individual to decide how they want to identify. For example, it is incredibly disrespectful to use mije to describe the body or any attribute of someone who does not identify under that word if you haven't cleared it with them first, and even asking them if it's okay is, at the very least, a little weird. (The same goes for meli as well as tonsi.) There are quite a few trans members of the toki pona community, so this matters a lot."
   },
   {
     "word": "tonsi",
     "codepoint": "U+F197E",
-    "definition": "noun/adjective: gender non-conforming person",
+    "definition": "nonbinary, gender nonconforming, genderqueer, transgender*",
     "semantic_space": "tonsi describes any divergence in gender from the expectations of a european patriarchy. \"European patriarchy\" is different from \"gender binary,\" and that's important here. Binary trans folk are the genders that they are, fullstop. That fact does not prevent patriarchal society from marginalizing them, especially recently. tonsi describes this and many other forms of gender based marginalization.\n\nFor this reason, cis people who don't conform to patriarchal gender roles often fall under the umbrella of \"tonsi.\" tonsi is a very wide umbrella, like all toki pona words, and typically includes nonbinary people, gender nonconforming people, and binary trans people, though usage varies from person to person (see below).\n\nPeople may choose for themselves if they (as an individual) exist within its semantic space, much like the other gender words in toki pona. tonsi, mije, and meli are not mutually exclusive at all. one can be one, two, all three, or none, or even something else, if they can come up with it! Sonja Lang has described it as a grassroots community made word.\n\nMany ask, including myself: can tonsi be used to describe binary trans people as well? Here are some notes on usage, based on survey with a sample size of about 300, including 50 binary trans people:\n\n*   7/10 binary trans people use \"tonsi\" to describe themselves\n\n*   7/10 binary trans people use \"tonsi\" to describe binary trans people, in general\n\n*   only 1.8/10 binary trans people are upset when others use \"tonsi\" to describe them\n\n*   3.5/10 binary trans people believe that \"tonsi\" should NOT be used to describe binary trans people as a group. 2.5/10 didn't care one way or the other. 4/10 believe that \"tonsi\" SHOULD be used to describe binary trans people as a group.\n\nIt's always good to check before calling someone \"tonsi\" directly, but know that most binary trans toki pona speakers won't be upset when called \"tonsi.\" As for binary trans people generally or as a group, this usage is controversial among binary trans people. Use this data to guide your own usage. \"should\" has a slight edge on \"should not,\" especially considering that the people who don't care are likely fine with the usage and just won't advocate that others SHOULD use it. A few respondents contacted me to share this sentiment.\n\nA notable bias here is that a transmedicalist who believes that this usage of tonsi is transphobic sent the form out in her circles multiple times, encouraging people to \"reject tonsi.\" I have done nothing of the sort to try to skew data either way.\n\nThe [form](https://forms.gle/9fvAX5Fj5tfybGyH9) is closed. The sociology of gender, transphobia, etc around this is not something I will get into here for brevity, so enjoy these cold heartless numbers. I will release a new form soon.\n\ntonsi is one of the only words on this list that is not featured in _Toki Pona: the Language of Good_ by Sonja Lang. It's considered important because toki pona has ways of talking about men and women, but no easy way to talk about nonbinary people. This is why I included it. If you look up frequency of usage, frequency for tonsi may be lower than some other words that are not featured in _Toki Pona: the Language of Good_ by Sonja Lang. This is because many speakers don't use tonsi, meli, _or_ mije. If a speaker uses meli and mije, they will almost definitely also use tonsi from time to time."
   },
   {
     "word": "nasa",
     "codepoint": "U+F193E",
-    "definition": "adjective: strange; adverb: strangely",
+    "definition": "strange, unusual, silly, abnormal, unexpected; drunk, intoxicated",
     "semantic_space": "The semantic space of nasa contains deviations from what's considered normal. If most people have blue hair and one person has green hair, that one person is nasa. If someone grows ten types of herbs and a single carnivorous plant, then that carnivorous plant is nasa. If most people don't grow herbs, someone who does grow herbs is nasa. What's considered \"normal\" here is completely reliant on context. A clown isn't nasa if everyone around them is also a clown. Nothing is inherently nasa. The nasa-ness of all objects will change along with context.\n\nI've also seen people use \"ike\" and \"pona\" sometimes to modify nasa, clarifying the connotation. Because nasa doesn't have any positive or negative connotations, people whose native languages DO have these connotations associated with weirdness may feel inspired to clarify when the strangeness of something is good or bad. More commonly I see people use \"pona\" to counteract any assumptions that nasa may be a bad thing in context, but especially in the queer circles surrounding toki pona, weirdness is embraced a lot to the point where this may not be needed. I wouldn't consider modifying nasa like this to be a bad thing! Clarifying connotations is never a bad thing if you feel it's necessary."
   },
   {
     "word": "ko",
     "codepoint": "U+F191C",
-    "definition": "noun: sticky substance, powder",
+    "definition": "semi-solid, e.g. paste, powder, goo, sand, soil, clay; squishy, moldable; sticky",
     "semantic_space": "ko is a fantastic word. It has an enormous semantic space and offers some interesting perspective about moisture. ko refers to semisolids. What's a semisolid? Often toki ponists forget that most English speakers don't use this descriptor. A semisolid is something that has solid elements to it, but isn't hard and doesn't resist a change in shape. Some examples are toothpaste, salt, sponges, jello, paint, clay, soil, flour, and sand. The throughline here is that ko ignores moisture completely. If you take any of these examples that are dry and add water, they become wet. Some dissolve into the water and supersaturate it, becoming something very similar and yet very distinct from a liquid. Some, such as flour and soil, become moldable and retain their shape (for example, a dough or some sort of clay). A sponge becomes easier to reform and manipulate when it gets wet. A good thought experiment to get to know ko better is to choose any ko and think about what happens to it when the amount of water changes. Watch [my youtube video](https://youtu.be/pbGZlWAoISQ) on ko for more info.\n\nSomething to consider for yourself: is a pillow ko? It feels similar to some types of clay or soil. You can kind of mold it."
   },
   {
     "word": "kili",
     "codepoint": "U+F191A",
-    "definition": "noun: fruit, vegetable",
+    "definition": "fruit, vegetable, mushroom",
     "semantic_space": "kili are fruits and vegetables, i.e. any part of a plant that is edible. These could be fresh. An apple is kili. These could be fermented. Kimchi and pickled onions are kili. These could be preserved through canning. Strawberry jam and dried mango are kili. This could even be a sauce with a primary vegetable component: basil pesto is kili, gazpacho is kili, five minced onions are kili. kili can refer to wheat seeds or other grains that haven't been ground up yet, but flour and bread don't fit well into kili's semantic space.\n\nWhat if a kili is poisonous? Poisonous berries are not edible, but they can still be kili. This is because kili's semantic space pivots towards things that resemble edible parts of plants, even if you can't actually eat them. By using kili, you evoke the image of eating it. This won't encourage toki pona speakers to eat it right away if they don't recognize it. If I used kili for poison ivy a toki pona speaker would think less of it as a shrub what grows on the ground and more as a type of lettuce for making salad. Of course, they wouldn't assume that it would be a good idea to do so, but the way the poison ivy feels in a conceptual semantic space is different.\n\nA minority usage of kili proposed first around 2021 online is a child or product. This borrows a cognitive metaphor from a lot of European languages that sees familial relations as trees. While this could work, it is likely to be misunderstood by many speakers unless you build up this _before_ using kili like this. It's also worth considering how this frames children, and wether that isn't as culturally neutral as you may think. In many cultures, children are raised communally and aren't percived as any individual's child. Would kili work in these cases? Maybe not!"
   },
   {
     "word": "pilin",
     "codepoint": "U+F194E",
-    "definition": "intransitive verb: feel; noun: feeling, heart, emotion",
+    "definition": "experience e.g. emotion, feeling, touch; heart (physical or emotional)",
     "semantic_space": "pilin is an experience of sensory qualia. pilin can refer just as easily to internal senses as it can to external ones, so pilin can mean both touch and emote. most speakers use pilin to mean \"opinion\" as well, framing an opinion as some sort of internal sensory experience."
   },
   {
     "word": "olin",
     "codepoint": "U+F1945",
-    "definition": "transitive verb/noun: love",
+    "definition": "to have a strong emotional bond with, e.g. affection, appreciation, compassion, respect; platonic, romantic, or familial relationships",
     "semantic_space": "olin describes the act of being emotionally bonded to someone something. In usage, these bonds are typically positive and strong. For example, a very good friend, a partner, a family member, or a pet. Not only could the love for a very good friend be olin, but so can the friend. This can be used with objects too. The bond between many toki ponists and the language toki pona is olin. This isn't the same thing as liking something. By using olin, you are evoking some sort of emotional bond. Note that olin doesn't describe all emotional bonds between two things. So if I don't like someone a lot but I still respect them deeply, I could still use olin to describe the respect, but probably not how I don't like them. Using olin for respect is a less common usage.\n\nSome people do actually use olin far more broadly. For example, a minor form of attraction, like enjoying a food a lot. This is less common in my experience, often less likely to be understood, and the attitudes towards this usage are often negative, mostly because it seems like an anglicization. However, some people take it further and use olin to talk about the attraction between magnets, or the delicate bond between math and physics. If you do choose to use olin more broadly, please don't stop where English does and consider taking the meaning a bit farther in a more creative way."
   },
   {
     "word": "wile",
     "codepoint": "U+F1977",
-    "definition": "verb/pre-verb: want, need; noun: wish, desire",
+    "definition": "want, desire, wish, require; (preverb) want to",
     "semantic_space": "The semantic space of wile contains all desires. A desire to eat is a wile. A desire to be near others is a wile. These desires can be influenced by external forces: a desire to do tedious chores motivated by the prospect of negative consequences is a wile. By using wile to describe something, it's being framed as a type of desire. For example, if I normally don't want to tidy up my workspace but I feel obligated to anyway, if I used wile to describe that feeling of obligation, I'd be describing it as some sort of desire. This can be used for anything, no matter how animate. Speakers frame non-living objects as having desires very frequently.\n\nA warning I have for wile is assuming it contains the idea of a \"need.\" A \"need\" is a complex concept and trying to use wile to describe it is misguided. While most needs can be framed as types of desires, the goal of \"wile\" isn't to merge those concepts, it's to throw one of them away. This enables a toki ponist to align their desires with their actions by giving them a word to describe their desires without any complex connotation. Sometimes it's more useful to say \"my body wants food, but I don't want to eat.\"\n\nAnother part of wile's usage is its use as a preverb. wile changes the sentence it's part of to make the subject desire to perform the verb, rather than just performing it. It's similar to the word \"want\" in english."
   },
   {
     "word": "pona",
     "codepoint": "U+F1954",
-    "definition": "adjective: good, safe; noun: help; adverb: well",
+    "definition": "positive quality, e.g. good, pleasant, helpful, friendly, useful, peaceful",
     "semantic_space": "pona is a biased word. It defines toki pona's design goals and names them as good. \"pona\" can be any good quality, but to truly understand pona, one must understand the reason behind each decision made when creating toki pona. This is why in toki pona it's so easy to call the language \"toki pona\"--it's the language that most closely fits the design goals, which are also the semantic space of the word \"pona.\" you'll seldom see speakers who disagree with this and describe toki pona as _not_ pona, but that's because most of the people who don't like toki pona's design don't speak it very well if at all."
   },
   {
     "word": "ike",
     "codepoint": "U+F190D",
-    "definition": "adjective: bad, evil; adverb: unfortunately; noun: problem",
+    "definition": "negative quality, e.g. bad, unpleasant, harmful, unneeded",
     "semantic_space": "ike is any negative quality. Anything can be ike. ike is a judgement call. what one person considers ike can be pona to another. For example, the complexity of computer coding is not a good thing for me, so I'd call it ike. But for a lot of my friends, that same complexity is pona! the simple melody of \"mary had a little lamb\" is boring to many people on its own, so they might call it ike. But a baby might enjoy it a lot, so despite being potentially overly simple for adults, it's just right for that baby, i.e. pona. Though of course some babies may like twelve tone rows and some adults may like what others would consider \"children songs.\" It's all relative and case by case. If something isn't bad, you can't use ike to describe it without framing it as such. ike can mean complex and simple just as easily as pona can."
   },
   {
     "word": "tan",
     "codepoint": "U+F1967",
-    "definition": "preposition: from, because of, by",
+    "definition": "(preposition) from, because of; cause, origin",
     "semantic_space": "tan is some sort of point of origin. It can be a place or object, like a birthing parent or the source of a river, but it can also be a reason like a thrilling feeling or the fear of being yelled at. this corresponds with tan's use as a preposition, where it MARKS this point of origin, i.e. the word directly after prepositional tan is also some sort of point of origin in the same exact way."
   },
   {
     "word": "musi",
     "codepoint": "U+F193B",
-    "definition": "noun: entertainment, amusement",
+    "definition": "fun, game, entertainment, art, play, amusing, interesting, comical, silly",
     "semantic_space": "The semantic space of musi contains all things funny, entertaining, enticing, and interesting. An enjoyable book is musi. A good joke is musi. A game is musi. A documentary about fish is musi. The act of enjoying something or just enjoying one's self is musi. Some speakers disagree about whether something serious like a documentary about the holocaust can be musi. I encourage discussion about this, because I don't have a good answer at the moment."
   },
   {
     "word": "lupa",
     "codepoint": "U+F192F",
-    "definition": "noun: hole, door",
+    "definition": "hole, pit, cave, doorway, window, portal",
     "semantic_space": "A lupa is a hole. Here's what that means: these holes can go through objects, like the hole in a donut, or they can be an indentation in an object, such as a hole dug in the ground. Things that are lupa continue to be lupa even when there is something blocking them, like a door or a window, because they are still meant for things to pass through them. From a perspective of function, that's what lupa are for. A lupa is a part of an object that things can pass through. A door is still a lupa because people can open it, and a window is still a lupa because it's meant for light to pass through. Empty space is not a lupa because it's not part of an object. The semantic space can be extended to describe other things that fit this description, even if they aren't physical holes, such as portals or links on the internet. You can read more about lupa [here.](https://lipamanka.gay/essays/lupa)"
   },
   {
     "word": "nena",
     "codepoint": "U+F1940",
-    "definition": "noun: hill, nose, bump, button",
+    "definition": "protuberances e.g. bump, button, hill, nose",
     "semantic_space": "nena describes parts of a surface that stick out from the parts around it. For example, a button on a computer keyboard could be a nena. A knot in a tree could be a nena. Small toes can be nena. Fingers are probably too long to be nena, but if you use nena for them, you're framing them as bumps as opposed to long objects or a grasping organ. nena can be dull or sharp. A speed bump can be a nena and a hill can be a nena, but so can a spike or a sharp peak of a mountain. Some nena are pleasant to touch, and others might draw blood. If I wanted to make a nena no longer a nena, all I'd need to do is smooth it into the rest of the surface it's part of such that it no longer bulges out.\n\nAnother important part of nena's semantic space is its usage for the nose. The nose is a bump, which is why nena can describe it, but as a transitive verb, nena becomes rapidly useful to describe active smelling. Wafting the aroma of roasting chicken can be a type of nena, as an action, but it's drawing attention to the nose. It makes the agent (i.e. the one that smells) a key part of the situation. Note that for most speakers, this usage of nena is not as core to the semantic space. You should still expect to see this usage every now and then."
   },
   {
     "word": "luka",
     "codepoint": "U+F192D",
-    "definition": "noun: arm, hand; numeral: five",
+    "definition": "hand, arm, tactile limb, grasping limb; to grasp, interact with, feel using touch; (number) five",
     "semantic_space": "luka is an organ capable of manipulation, or a part of said organ. For example, an arm is a luka, and so is a hand, fingers, even elbows. The main part is that it interacts with other things. If a cat's paw is swiping at me, I might use luka to describe it, but if it's just walking on it I might not (see: [noka](https://lipamanka.gay/essays/dictionary#noka)), but I still could. So, it's possible for one organ to be both a luka and something else in different contexts. The prehensile tails of some monkeys could be luka too, especially while they're using them, but the only thing something needs in order to be a luka is an innate ability to interact with objects. luka can also be used as a verb to refer to this interaction with its direct object, which could be touching, petting, pressing, pulling, holding, hugging, grasping, playing an instrument, etc. I'm sure you can thing of other things it could mean! luka is also commonly used to describe talking using a signed language."
   },
   {
     "word": "pana",
     "codepoint": "U+F194C",
-    "definition": "transitive verb: give, put, place, grant",
+    "definition": "give, send, emit, provide, put, release",
     "semantic_space": "The semantic space of pana contains all acts that set objects in motion. This can be a type of emission. The act of a fire giving off heat it pana. The act of a child laughing is pana, because the child is emitting laughter, setting it in motion. Throwing a baseball, hitting a hockey puck, and kicking a football (the kind that Americans call a \"soccer ball\") are all pana. Defenestration is a type of pana, because you are setting something in motion (out a window). the object that does the act of pana doesn't have to set something in motion away from itself. Buying a piano online for a friend is pana, or at the very least the act of having the piano be delivered is pana. Less physical objects can be the subject of pana too: knowledge, advice, or good feelings (bad ones, too!).\n\npana as a noun is used to mean either the act of setting something in motion, or something that has been set in motion. So a gift is a type of pana, and so is an offering, a package, a ball I have thrown, etc."
   },
   {
     "word": "pali",
     "codepoint": "U+F1949",
-    "definition": "transitive verb: do, make, build; noun: action, effort",
+    "definition": "work, activity; create, build, design; put effort toward, take action on",
     "semantic_space": "pali is work. But what does that mean? In toki pona, pali needs at least a little bit of effort, and it needs to make a little bit of something. But if it only had a little of each, calling it \"pali\" might be a worse choice than using another word. Just because eating requires a little work and makes energy inside of your body doesn't mean pali will be understood. So almost always, pali will either require a lot of effort or create a significant thing. A professional potter making pottery might not require a lot of effort because they are skilled enough, but it will create a significant object. And on the reverse, learning a new language may not create a significant object (just some new knowledge in your head), but it does require a lot of effort.\n\npali is, at its core, a transitive verb. Therefore, as a noun, pali is something that has been made or worked on. This could be a specific project, document, device, invention, practice session, job, task, etc."
   },
   {
     "word": "kepeken",
     "codepoint": "U+F1919",
-    "definition": "preposition: use, with, using",
+    "definition": "(preposition) using, by means of",
     "semantic_space": "kepeken is using. it is usually used as a preposition and not as a transitive verb, and marks the word after it as the object of usage. For example, \"mi kepeken ilo\" can be \"I use a tool,\" and \"mi pali e tomo kepeken ilo\" can mean \"I build a house using a tool.\" when used as a noun, it can refer to a specific instance of using something or usage in general. For example, \"kepeken ni ilo sina li ike\" \"this tool usage of yours is bad.\" Many speakers consider [nasin](https://lipamanka.gay/essays/dictionary#nasin) a better choice for this situation, for example \"nasin sina ni ilo li ike\" \"this way you're using a tool is bad.\""
   },
   {
     "word": "moku",
     "codepoint": "U+F1936",
-    "definition": "transitive verb: eat, drink",
+    "definition": "eat, drink, consume, swallow, ingest; food, edible thing",
     "semantic_space": "moku is the act of eating. It is also used to refer to anything eaten. even if it's not edible, you can use moku to describe it! doing so implies that it is in some context eaten, though, so be careful. There's a quote from Charlie and the Chocolate Factory (2005). \"Everything here is edible; even I'm edible. But that, dear children, is cannibalism, and is in fact frowned upon in most societies.\" Use this ancient wisdom from two decades ago to guide your moku usage. Evoking cannibalism is not always the desired effect!\n\nPeople will occasionally extend moku by metaphor. moku is at its base a physical word describing a physical act, so these metaphors are secondary, but I've seen moku for \"overcome\" in some contexts. Like \"toki Epelanto li moku e toki Potuke mi\" could be a fun way to phrase \"Ever since I've started learning Esperanto, my Portuguese proficiency has been on the decline.\" This is pretty similar to [weka](https://lipamanka.gay/essays/dictionary#weka), but keep in mind that most instances of moku are simply another angle from some instance of weka. When you eat something, it doesn't exist anymore, at least not in its original form or environment. You're _removing_ it. Reframing a type of weka as a type of moku will frame the act from the perspective of ingesting nutrition and may draw attention away from the removal of that thing."
   },
   {
     "word": "uta",
     "codepoint": "U+F1970",
-    "definition": "noun: mouth; transitive verb: kiss",
+    "definition": "mouth, lips, throat, consuming orifice",
     "semantic_space": "uta is a mouth or oral opening. astomatous objects do not have uta, but all other objects do. by using uta to describe something, you are framing it with all the connotations of an animal's mouth. the mouth of a venus flytrap could very easily be something else, but using uta for it emphasizes that it consumes. uta often create noises like vocalizations, so people tend to call voice chats and spoken language \"toki uta.\""
   },
   {
     "word": "kalama",
     "codepoint": "U+F1915",
-    "definition": "noun: voice, noise; adjective: musical; transitive verb: recite",
+    "definition": "to produce sound; sound, e.g. sing, thunder, drum, clap, laugh, beep",
     "semantic_space": "The semantic space of kalama contains all noises and sounds and any act of creating a noise or sound. Any sound from any source can be a kalama. Music is a kalama. A scream is kalama. The sound that a tree makes when it falls in the forest is a kalama. A sound doesn't have to travel through air to be a kalama: whale noises are kalama, and a heartbeat through a stethoscope is kalama. kalama could be an absolute pitch, or multiple. It could be sound designed to sound a certain way, or chaotic noise.\n\nFrom jan Olipija on how kalama's semantic space extends to vibrations with her perspective as a member of the Deaf/hard of hearing community:\n\n\"seeing as sound is vibration and one often causes the other, many [deaf/hard of hearing] can perceive via vibrations what hearing people would perceive as sound. e.g. stamping on the floor, thumpy thumpy dance music or hammering from the downstairs flat renovating their bathroom waking you up at 8am. thus vibrations could be considered a form of kalama, especially to [deaf/hard of hearing] people.\n\ninstead or in addition to kute, this form of kalama would pair with the verb pilin. e.g. 'mi pilin lon noka mi e kalama ilo tan supa anpa.'\""
   },
   {
@@ -662,31 +662,31 @@
   {
     "word": "soko",
     "codepoint": "U+F1981",
-    "definition": "noun: mushroom, fungus",
+    "definition": "mushroom, fungus, lichen",
     "semantic_space": "(which is relatively commonplace). if you want to learn about someone's view on this, just pull up a picture of a mushroom and ask \"ni li seme?\" and wait for their response. As a child I was always interested in taxonomy and I can't remember ever not knowing that fungi were fundementally different from plants, so using a word for both seems wrong. Fungi are just so different to me! But I understand that there are hundreds if not thousands of toki pona speakers who don't share that perspective and only use kasi."
   },
   {
     "word": "alasa",
     "codepoint": "U+F1903",
-    "definition": "adjective: predatory; pre-verb: try; transitive verb: seek",
+    "definition": "hunt, forage, search, attempt; (preverb) try to",
     "semantic_space": "alasa refers to hunting and foraging. Searching for a lost object is alasa. Searching for something on a web browser is alasa. Throwing a spear into the side of a bison could be alasa because it is part of hunting, as can the act of picking berries, but the core of alasa is the trying to find. Recently (as in during the past half a decade), usage of alasa to refer to attempting or trying has become very common. So trying to knit could be a type of alasa. Trying to sprint could be a type of alasa. Trying to look larger than you actually are to scare off a predator could be alasa."
   },
   {
     "word": "noka",
     "codepoint": "U+F1943",
-    "definition": "noun: foot; transitive verb: kick",
+    "definition": "foot, leg, organ of locomotion, roots",
     "semantic_space": "The semantic space of noka contains the bottom parts of things meant for touching the ground. Some basic examples of noka might be feet or legs. noka can refer to the bottom part of a piece of furniture or the wheels of a car. The lowest floor of a building is noka. The roots of a tree are noka. noka can also refer to the action of applying a noka to something, such as kicking, stepping on, walking on. If you use noka for this, you'll be framing the relationship as some sort of application of a noka onto the direct object."
   },
   {
     "word": "kiwen",
     "codepoint": "U+F191B",
-    "definition": "noun: hard material, metal, mineral, stone",
+    "definition": "hard object e.g. metal, stone, wood",
     "semantic_space": "kiwen are things whose form resists changing. This often talks about a hard physical material or object, like a rock or wood or crystal. It can describe something's material, so a chair made out of a hard material could be kiwen. It is additionally possible to talk about nonphysical things using kiwen, but it's imperative to explain your metaphor clearly. Ask two toki ponists about what kiwen means metaphysically and you'll get three answers. None of them are universally intuitive. Without this extra expansion, I recommend avoiding using kiwen to talk about non-physical things."
   },
   {
     "word": "tomo",
     "codepoint": "U+F196D",
-    "definition": "noun: house, building, room; adjective: residential",
+    "definition": "indoor space or shelter e.g. room, building, home, tent, shack",
     "semantic_space": "A tomo contains objects meant to contain things being framed as living. Sometimes living is literal. A family of five is considered living, so their domicile can be considered a tomo. Sometimes living is a metaphor. A dollhouse can be considered a tomo if the hypothetical dolls it can contain are being framed as living, even if they aren't empirically alive. By calling a container intended for non-living things a \"tomo,\" a speaker is ascribing life to those objects. There's no animacy hierarchy in toki pona, so what is and isn't considered life is up to personal preference and doesn't impact mutual intelligibility."
   },
   {
@@ -698,97 +698,97 @@
   {
     "word": "kule",
     "codepoint": "U+F191E",
-    "definition": "noun: colour; adjective: colourful",
+    "definition": "color, pigment; category, genre, flavor; colorful, diverse",
     "semantic_space": "kule are aspects of senses. The most prototypical version of this is color, an aspect of sight, but kule can also refer to aspects of other senses. Here are some possibilities: For sound, kule can refer to timbre or pitch. For taste, kule could be a flavor. For touch, kule could be a type of texture. There are plenty of ways to be creative with kule, but the most common uses besides \"color\" are the ones I've listed associated with sound. In my opinion, kule needs more exploration, so for any proficient speakers reading this, go experiment with it!"
   },
   {
     "word": "walo",
     "codepoint": "U+F1972",
-    "definition": "adjective: white",
+    "definition": "light-colored, white, pale, light gray, cream",
     "semantic_space": "walo is any bright color like white, pink, light blue, etc."
   },
   {
     "word": "pimeja",
     "codepoint": "U+F194F",
-    "definition": "adjective: dark, black",
+    "definition": "dark, unlit; dark color, e.g. black, purple, brown",
     "semantic_space": "The semantic space of pimeja contains types of darkness. This could talk about specific colors like deep red or dark emerald green, but it can also talk about shadows, places where there is less light, or the absence of brighter colors. pimeja can describe anything that is dark. From some perspectives, the night is a type of darkness more than a period of time (just as a day can be a type of brightness and a year can be a type of circle around the sun)."
   },
   {
     "word": "loje",
     "codepoint": "U+F192B",
-    "definition": "adjective: red, reddish",
+    "definition": "red, magenta, scarlet, pink, rust-colored, reddish orange",
     "semantic_space": "loje speaks to reddish colors and pigments. cadmium reds all the way down to a darkish alizarin crimson. You can start mixing violet into loje for a while before it starts getting more laso or pimeja. You can also brighten it into orange and it can still be loje, but there's a gray area between loje and jelo that I encourage learners to play around with!"
   },
   {
     "word": "jelo",
     "codepoint": "U+F1912",
-    "definition": "adjective: yellow",
+    "definition": "yellow, amber, golden, lime yellow, yellowish orange",
     "semantic_space": "jelo comes from the english word \"yellow\" and has a very similar meaning. It refers to yellows, oranges, and sometimes yellowish greens. I would use jelo to talk about any shade of cadmium yellow."
   },
   {
     "word": "laso",
     "codepoint": "U+F1923",
-    "definition": "adjective: blue, green",
+    "definition": "turquoise, blue, green, cyan, indigo, lime green",
     "semantic_space": "laso talks about both blues and greens at the same time. it can describe a large range of colors that are often separated in other languages, such as English. In English, blue and green are separate concepts with their own semantic space. In toki pona (as well as countless languages across the world), these concepts are merged into one. Many linguists affectionally call this color \"grue\" in the contexts of analyzing other languages, and the term can be helpful here because it gives a fantastic anchor for color perspective to English speakers. Think to yourself how often it is crucial to distinguish between blue and green. In cases where you wish to do so, greens are yellower than blues, so it's easy to modify laso with a word like \"jelo\" to specify that, but if you don't _need_ to specify, doing so adds more clutter to your speaking. I wouldn't go much darker than cobalt blue before using pimeja instead. because cool colors like laso tend to be darker a lot of the time, don't forget about pimeja!\n\nAnother part of laso worth mentioning is purples. While somewhat controversial, when I showed several toki ponists color chips (the kind you use when choosing which color to paint your wall), most of the darker or bluer shades of purple that were not dark enough to be pimeja were unanimously laso. Some of the lighter or pinker ones were called loje. There was also some overlap, and some people stated the importance of the surrounding colors. These are all things to keep in mind when you encounter a color that seems hard to talk about in toki pona. I'm often reminded of paints, and a purple like dioxazine violet would most definitely be pimeja and not laso."
   },
   {
     "word": "kasi",
     "codepoint": "U+F1917",
-    "definition": "noun: plant, vegetation",
+    "definition": "plant, vegetation; herb, leaf",
     "semantic_space": "kasi is any number of types of plants. big plants like trees are kasi, and small plants like weeds are too! anything largely in the category of \"plant\" is a kasi. There's some controversy about fungi, though. many believe them to be within kasi's semantic space, while others disagree entirely and use a new word,"
   },
   {
     "word": "esun",
     "codepoint": "U+F190B",
-    "definition": "noun: market, store; transitive verb: trade, buy, sell",
+    "definition": "trade, barter, exchange, swap, buy, sell; market, shop, fair, bazaar, place of business",
     "semantic_space": "esun is a type of exchange. Usually it's used to mean \"buy,\" \"sell,\" or \"trade.\" The use of a currency isn't required for something to be esun. Trading baseball cards is esun. esun doesn't imply that both parties lose something. Exchanging knowledge is esun, even though neither party loses knowledge. Some interesting extensions of esun I've seen include using esun for breathing, where one trades the air inside them with the outside world. Seeing esun as a swap more than as a type of buying has had it being used far more often these days in my experience, potentially due to anticapitalist values, and potentially because of natural semantic shift. Some people like this usage because it makes esun more useful. It's far from universal though, and many speakers only use esun ot mean something like \"trade\" where two participatory parties exchange items.\n\nAccording to Sonja, the Akan concept of \"esun\" was described to her in a taxi once a while ago. I do know a friend of a friend who is an Akan speaker, so I will see if he has any insight and replace this with that insight."
   },
   {
     "word": "ale",
     "codepoint": "U+F1904",
-    "definition": "adjective: all, any; noun: all, everything; adverb: completely",
+    "definition": "all, every, everything, entirety, universe; (number) one hundred",
     "semantic_space": "ale is everything. this can be either everything ever or a smaller subset of everything. If you modify ale with another word, it is limited to objects that have that word's quality, or an entirety of said word. For example, \"ale loje\" for \"all things red\" or \"the whole red thing.\" \"ale lipu\" could mean \"all things related to books\" or \"the entirity of the book.\" \"ale pali\" can mean \"all things related to working\" or \"the entirety of a job.\" This is often similar to the reverse, but it's not exactly the same. for example, \"loje ale\" is all reds, not all _things_ red, \"lipu ale\" is all books, and would not talk about a printing press or reading glasses, and \"pali ale\" would be something like all jobs or activities, and wouldn't talk about a hammer or a cheesecloth. That's because \"X ale\" is always some type of \"X.\"\n\nAnother usage of \"ale\" I've noticed myself and many others using is the idea of \"completeness\" or something being all-encompasing. Like if I know everything about rocks, I could say \"mi sona ale e kiwen\" just as easily as I might say \"mi sona e ale kiwen.\" It's almost used as a superlative sometimes, like \"pona ale\" for \"best\" in the sense that it is \"completely good.\" Keep in mind that the English word \"complete\" has two senses, the other which is much closer to [pini](https://lipamanka.gay/essays/dictionary#pini) than ale. Make sure to translate the idea, not the word!"
   },
   {
     "word": "kala",
     "codepoint": "U+F1914",
-    "definition": "noun: sea creature, fish",
+    "definition": "fish, marine animal, sea creature, swimming creature",
     "semantic_space": "Any creature that swims habitually is a kala. This can include anything from fish to whales to seals. The most important aspect of a kala is its relation to water. kala tend to either live in the water or spend a good portion of their time in it. Some speakers extend this usage a bit and let it refer to anything that is in water, like a human swimmer or a pool noodle. Sometimes, toki ponists will describe the act of showering as kala. This usage is often interpreted as somewhat funny, but it is commonly understood. If it isn't, it's easy to clarify."
   },
   {
     "word": "lukin",
     "codepoint": "U+F192E",
-    "definition": "transitive verb: see, look at; adverb: visually; noun: eye",
+    "definition": "see, look, view, examine, read, watch; visual; eye, seeing organ; (preverb) try to",
     "semantic_space": "lukin is both passive seeing and active watching. it can also mean something that sees, like eyes or a camera. lukin is also used as a preverb that means to \"try\" to do something. In practice, oko usually occupies the same semantic space of lukin, but speakers of Romance languages who learn toki pona are likely to use \"oko\" more than \"lukin\" to mean \"eye.\" There are also a handful of speakers that only use oko, but only using lukin is far more common."
   },
   {
     "word": "nimi",
     "codepoint": "U+F1942",
-    "definition": "noun: word, name",
+    "definition": "word, name",
     "semantic_space": "nimi are words and names. \"lipamanka\" is a nimi. \"paralelepípedo\" is a nimi. \"cupcake\" is a nimi. This description of nimi's semantic space is nimi. \"nimi e,\" likewise, would mean \"to apply a name to,\" similar to \"name\" (as a verb) in English. You may hear things like \"mi nimi Alison e jan lili mi\" for \"I named my child Alison.\""
   },
   {
     "word": "palisa",
     "codepoint": "U+F194A",
-    "definition": "noun: pole, branch, bar",
+    "definition": "long and hard thing e.g. branch, pole, rod, stick, spine, mast",
     "semantic_space": "The semantic space of palisa contains things all things that are longer than they are wide that are not flexible enough to be bended significantly. any palisa will resist bending and either break or only bend slightly under significant pressure. If a palisa is looked at from a different perspective where there is enough power to bend it, it might not firmly sit within palisa's semantic space. A good test that works most of the time is to check to see if it’s flexible enough to be bent into a 0 degree angle or if it’s flexible enough to be tied in a knot, if it is, then it’s probably not a palisa.\n\nTaughtness is an interesting thing to think about with palisa. I used to sail a lot, and some ropes (lines, we called them) were always taught and effectively served the same function as any poles we could grab onto. These were called \"shrouds,\" and I would definitely have used palisa to describe them, even though in their relaxed form they would be as pliable as any rope. So when something becomes reliably taught enough, you can use \"palisa\" to describe it."
   },
   {
     "word": "misikeke",
     "codepoint": "U+F1987",
-    "definition": "noun: medical item or practice e.g. prescriptions, meditation, exercise, bandages, therapy",
+    "definition": "medical item or practice e.g. prescriptions, meditation, exercise, bandages, therapy",
     "semantic_space": "see moku, pona"
   },
   {
     "word": "unpa",
     "codepoint": "U+F196F",
-    "definition": "verb: have sex (with)",
+    "definition": "sex, to have sex with",
     "semantic_space": "unpa's semantic space has to do with sex and sexual activity. The number of participants doesn't matter; solo masturbation is equally as valid to describe as unpa as an orgy, as is anything between. Kink can be a part of unpa, but it is specifically framed as a part of sex, whether in the lead-up as in foreplay, in the act, or any other part of sex. For comparison, horniness and other feelings or concepts related to sex are generally not called unpa, but they are often considered in their relationship to sex. Additionally, sexual positions and sexual preferences are generally not unpa, as they are not the act. However, they may be framed in their relationship to sex, such as by use of the word unpa as a modifier.\n\nGender and biological sex do not play a role in unpa's semantic space; put another way, unpa doesn't change when the identities of those involved change. It is still unpa.\n\nReproduction also generally does not play a role in unpa's semantic space, a feature it shares with the word 'sex' describing the act but not reproduction. Reproduction may be referenced in relation to unpa, such as when discussing breeding animals, but unpa generally does not imply or refer to reproduction on its own. There are caveats to this however; some speakers will use unpa to refer to pollination, one of the means by which plants reproduce. By the use of unpa, this is being framed as a sexual act at the same time as an act of reproduction; this is by analogy to sex, as pollination is the closest similar thing that applies to plants."
   },
   {
     "word": "jaki",
     "codepoint": "U+F1910",
-    "definition": "adjective: dirty, messy, disgusting",
+    "definition": "disgusting, unclean, unsanitary, toxic, repulsive, rotten",
     "semantic_space": "jaki talks about unpleasant sensory experiences. This can be any of the senses, internal or external. This could be bad smells, repulsive flavors, gross images, ear-shattering noises, and horrible textures. But it could also be internal sensory experiences such as nausea. jaki can be used to refer to other things that aren't usually sensory, and it should be. But be careful, because using jaki will frame something through a sensory lens. If someone is acting bad, such as bullying or harassing someone else, you can describe their actions as jaki, but doing so makes their actions framed as unpleasant in a sensory way.\n\nSome people reject the idea that jaki is inherently unpleasant. For example, here is a quote from jan Ke Tami (licensed under CC BY-NC-SA 4.0 with permission from jan Ke Tami)\n\njan Ke Tami: I keep thinking about the \"jaki pona\" zine that finds beauty in things that for sure are in some way unpleasant \n\n jaki has enough space for things it describes to be unpleasant in one way... and also pleasant in a different way"
   }
 ]

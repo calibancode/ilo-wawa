@@ -18,6 +18,140 @@ const state = {
   currentDetailsEntry: null,
 };
 
+// ------------------------------
+// search
+// ------------------------------
+
+function norm(s){return (s||"").toString().normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().trim();}
+
+function cpHex(cp){return "U+"+(cp>>>0).toString(16).toUpperCase().padStart(4,"0");}
+
+function parseCp(q){
+  q=norm(q);
+  if(!q)return null;
+  if(q.length===1)return q.codePointAt(0);
+  const hex=q.replace(/^u\+/,"").toUpperCase();
+  if(/^[0-9A-F]{4,6}$/.test(hex))return parseInt(hex,16);
+  if(/^\d{3,7}$/.test(q))return parseInt(q,10);
+  return null;
+}
+
+function lev(a,b){
+  a=norm(a); b=norm(b);
+  if(a===b)return 0;
+  const al=a.length, bl=b.length;
+  if(!al)return bl; if(!bl)return al;
+  if(al>bl){const t=a; a=b; b=t;}
+  const v0=new Uint16Array(b.length+1);
+  const v1=new Uint16Array(b.length+1);
+  for(let i=0;i<=b.length;i++)v0[i]=i;
+  for(let i=0;i<a.length;i++){
+    v1[0]=i+1;
+    const ai=a.charCodeAt(i);
+    for(let j=0;j<b.length;j++){
+      const cost=ai===b.charCodeAt(j)?0:1;
+      const del=v0[j+1]+1;
+      const ins=v1[j]+1;
+      const sub=v0[j]+cost;
+      v1[j+1]=del<ins?(del<sub?del:sub):(ins<sub?ins:sub);
+    }
+    v0.set(v1);
+  }
+  return v1[b.length];
+}
+
+function scoreMatch(content, search) {
+  if (!content) return 0;
+
+  const c = norm(content);
+  const s = norm(search);
+  if (!s) return 0;
+
+  if (c === s) return 10; // perfect hit
+
+  const sLen = s.length;
+
+  if (sLen <= 2) {
+    if (c === s) return 10;
+    if (c.startsWith(s)) return 3;
+    return 0;
+  }
+
+  if (c.startsWith(s)) return 4;
+  if (sLen >= 3 && c.includes(s)) return 1.5;
+
+  const d = lev(c, s);
+  const m = Math.max(c.length, s.length) || 1;
+  const sc = 1 - d / m; // 0..1
+
+  if (sLen <= 4 && sc < 0.75) return 0;
+  if (sc < 0.6) return 0;
+
+  return sc;
+}
+
+function scoreEntry(e, q) {
+  const s = norm(q);
+  if (!s) return 0;
+
+  let score = 0;
+
+  const cpq = parseCp(q);
+  if (cpq != null && cpq === e.cp) score += 1200;
+  if (q.length === 1 && q.codePointAt(0) === e.cp) score += 1200;
+  if (norm(cpHex(e.cp)) === s) score += 1200;
+
+  const wScore = scoreMatch(e.word, q);
+  const gScore = scoreMatch(e.gloss, q);
+
+  score += wScore * 500;
+  score += gScore * 80;
+
+  if (score === 0) return 0;
+
+  const semScore = scoreMatch(e.semantic_long, q);
+  score += semScore * 5;
+
+  return score;
+}
+
+function filterAndRank(list, q) {
+  q = norm(q);
+  if (!q) return list;
+
+  const tokens = q.split(/\s+/).filter(Boolean);
+  const out = [];
+
+  for (const e of list) {
+    let total = 0;
+    let hasStrong = false;
+
+    for (const t of tokens) {
+      const s = scoreEntry(e, t);
+      if (s <= 0) {
+        total = 0;
+        hasStrong = false;
+        break;
+      }
+      total += s;
+      if (s >= 100) hasStrong = true;
+    }
+
+    if (hasStrong && total > 0) {
+      out.push([e, total]);
+    }
+  }
+
+  out.sort(
+    (a, b) =>
+      b[1] - a[1] ||
+      a[0].word.localeCompare(b[0].word) ||
+      a[0].cp - b[0].cp
+  );
+
+  return out.map(([e]) => e);
+}
+
 // -------------------------------------------------------------------
 // data loading (mirrors data.py load_all_data)
 // -------------------------------------------------------------------
@@ -343,52 +477,24 @@ function insertWithSpacing(textarea, token, plusMode) {
 // -------------------------------------------------------------------
 
 function rebuildPalette() {
-  const grid = $("palette-grid");
+  const grid   = $("palette-grid");
   const filter = $("palette-filter");
   const footer = $("palette-footer");
-  // const sizeSlider = $("palette-size");
   const output = $("output");
 
   if (!grid || !filter || !footer) return;
 
-  const query = filter.value.trim().toLowerCase();
-  let entriesToShow = [];
-
-  if (!query) {
-    entriesToShow = vocabList;
-  } else {
-    const exact = [];
-    const gloss = [];
-    const longtxt = [];
-
-    for (const e of vocabList) {
-      const w = (e.word || "").toLowerCase();
-      const g = (e.gloss || "").toLowerCase();
-      const lt = (e.semantic_long || "").toLowerCase();
-
-      if (query === w) {
-        exact.push(e);
-      } else if (g.includes(query)) {
-        gloss.push(e);
-      } else if (lt.includes(query)) {
-        longtxt.push(e);
-      }
-    }
-
-    entriesToShow = exact.concat(gloss, longtxt);
-  }
+  const query = filter.value.trim();
+  const entriesToShow = query ? filterAndRank(vocabList, query) : vocabList;
 
   grid.innerHTML = "";
 
   const fontFamily = window.getComputedStyle(output).fontFamily;
-  // const baseSize = parseInt(sizeSlider.value, 10) || 28;
-  // const btnSize = baseSize + 12;
 
   for (const entry of entriesToShow) {
     const btn = document.createElement("button");
     btn.className = "glyph-btn";
     btn.textContent = String.fromCodePoint(entry.cp);
-    // btn.style.fontSize = baseSize + "px";
     btn.style.fontFamily = fontFamily;
 
     let tip = entry.word;
@@ -552,7 +658,6 @@ function applyFontFromDialog(){
   output.style.fontFamily = fam;
   output.style.fontSize = size + "px";
 
-  // key line: drive palette/output via the css var
   document.documentElement.style.setProperty("--font-glyph", fam);
 
   rebuildPalette();
