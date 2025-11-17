@@ -19,6 +19,23 @@ const state = {
 };
 
 // ------------------------------
+// markdown
+// ------------------------------
+
+function renderMarkdown(md) {
+  if (!md) return "";
+  if (window.marked && typeof window.marked.parse === "function") {
+    return window.marked.parse(md);
+  }
+
+  const esc = md
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+  return esc.replace(/https?:\/\/\S+/g, u => `<a href="${u}" target="_blank" rel="noopener">${u}</a>`);
+}
+
+// ------------------------------
 // search
 // ------------------------------
 
@@ -544,7 +561,12 @@ function showDetails(entry) {
 
   $("details-glyph").textContent = String.fromCodePoint(entry.cp);
   $("details-word").textContent = entry.word;
-  $("details-gloss").textContent = entry.gloss || "—";
+
+  const glossEl = $("details-gloss");
+  if (glossEl) {
+    const gloss = entry.gloss || "—";
+    glossEl.innerHTML = renderMarkdown(gloss);
+  }
 
   const linkEl = $("details-link");
   if (entry.url_long) {
@@ -554,8 +576,11 @@ function showDetails(entry) {
     linkEl.textContent = "";
   }
 
-  $("details-body").textContent =
-    entry.semantic_long || "(no extended text available)";
+  const bodyEl = $("details-body");
+  if (bodyEl) {
+    const md = entry.semantic_long || "(no extended text available)";
+    bodyEl.innerHTML = renderMarkdown(md);
+  }
 
   state.currentDetailsEntry = entry;
   dlg.showModal();
