@@ -25,7 +25,7 @@ const state = {
 function renderMarkdown(md) {
   if (!md) return "";
   if (window.marked && typeof window.marked.parse === "function") {
-    return window.marked.parse(md);
+    return window.marked.parse(md, { async: false, breaks: true, gfm: true });
   }
 
   const esc = md
