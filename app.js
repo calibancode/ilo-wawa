@@ -451,20 +451,14 @@ function showStatus(msg) {
 function insertAtCursor(textarea, text) {
   const start = textarea.selectionStart;
   const end = textarea.selectionEnd;
-  const value = textarea.value;
-  textarea.value = value.slice(0, start) + text + value.slice(end);
-  const pos = start + text.length;
-  textarea.selectionStart = textarea.selectionEnd = pos;
+  textarea.setRangeText(text, start, end, 'end');
   textarea.focus();
 }
 
 function insertWithSpacing(textarea, token, plusMode) {
   const text = textarea.value;
-  let pos = textarea.selectionStart;
-
+  const pos = textarea.selectionStart;
   const before = text.slice(0, pos);
-  const after = text.slice(pos);
-
   const last = before.slice(-1);
 
   let insertText = "";
@@ -483,9 +477,7 @@ function insertWithSpacing(textarea, token, plusMode) {
     }
   }
 
-  textarea.value = before + insertText + after;
-  const newPos = before.length + insertText.length;
-  textarea.selectionStart = textarea.selectionEnd = newPos;
+  textarea.setRangeText(insertText, pos, textarea.selectionEnd, 'end');
   textarea.focus();
 }
 
